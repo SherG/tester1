@@ -7,7 +7,7 @@ description: >-
   that's worth the effort every time.
 image: /img/blog-chemex.jpg
 ---
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
+This [week](/wdwdw) we’ll **take** a look at all of the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
 
 ![coffee berries](/img/home-about-section.jpg "coffee berries")
 
