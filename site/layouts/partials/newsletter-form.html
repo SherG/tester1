@@ -1,4 +1,9 @@
-<form name="newsletter" method="post" data-netlify="true" class="flex-ns mb3">
+<form name="newsletter" method="post" netlify-honeypot="botfield-2" data-netlify="true" class="flex-ns mb3">
+  
+     <!-- Botfield -->
+        <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field2" /></label>
+  </p>
 
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
     <input name="newsletter-email" type="text" id="email" placeholder="Your email" class="w-100">
