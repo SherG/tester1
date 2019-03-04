@@ -72,7 +72,11 @@
   background-color: var(--black);
 }
 
-.bg-fix-primary :first-child {
+
+.bg-fix-primary {
+  padding: 0 var(--spacing-small);
+  & :first-child {
     box-shadow: 0.5rem 0 0 #f40, -0.5rem 0 0 #f40;
-}
+  }
+
 }
