@@ -2,8 +2,8 @@
 title: 'Research: Small Amount of Weight Training Yields Big Health Benefits'
 date: 2019-03-09T09:15:27.146Z
 description: >-
-  New research reveals that even a small amount of weight lifting (resistance
-  exercise) yields dramatic health benefits.
+  New research reveals that even a small amount of weight training yields
+  dramatic health benefits.
 image: /img/socorro-morales-inner-strenght-fitness.png
 ---
 _A client of ours, enjoying the health benefits of weight training!_
