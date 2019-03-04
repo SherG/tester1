@@ -6,6 +6,8 @@ description: >-
   exercise) yields dramatic health benefits.
 image: /img/socorro-morales-inner-strenght-fitness.png
 ---
+*A client of ours, enjoying the health benefits of weight training!*
+
 In December of last year, the _New York Times_ reported on a study that "provides evidence for the first time that even a little weight training might reduce the risk of heart attack or stroke."
 
 The study compared exercise habits of over 12,000 people with risk of heart attack, stroke or death. 
