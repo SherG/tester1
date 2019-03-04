@@ -16,7 +16,7 @@ The study compared exercise habits of over 12,000 people with risk of heart atta
 
 The _Times_ explains: 
 
-<p style="margin-left: 40px">The findings were dramatic: The risk of experiencing these events was roughly 50 percent lower for those who lifted weights occasionally, compared with those who never did — even when they were not doing the recommended endurance exercise. </p>
+<p style="margin-left: 40px"><strong>The findings were dramatic</strong>: The risk of experiencing these events was roughly 50 percent lower for those who lifted weights occasionally, compared with those who never did — even when they were not doing the recommended endurance exercise. </p>
 
 Those who enjoyed the greatest decline in risk: 
 
