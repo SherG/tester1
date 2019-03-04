@@ -40,3 +40,5 @@ Readers of this blog, or clients of ISF will not be surprised by these findings.
 ## Short Exercise Sessions Do Work
 
 The most common excuse given for not exercising is lack of time.  Worry not, dear reader!  This new research provides hope to the harried.
+
+### Recommended Reading
