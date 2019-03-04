@@ -4,6 +4,7 @@ date: 2019-03-09T09:15:27.146Z
 description: >-
   New research reveals that even a small amount of weight lifting (resistance
   exercise) yields dramatic health benefits.
+image: /img/socorro-morales-inner-strenght-fitness.png
 ---
 In December of last year, the _New York Times_ reported on a study that "provides evidence for the first time that even a little weight training might reduce the risk of heart attack or stroke."
 
