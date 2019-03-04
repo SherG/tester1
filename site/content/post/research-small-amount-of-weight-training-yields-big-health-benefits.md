@@ -21,9 +21,11 @@ The _Times_ explains:
 Those who enjoyed the greatest decline in risk: 
 
 * Lifted twice a week
-* Spent about an hour in each weight lifting session
+* Spent about an hour in each session
 
-The study that the Times is referencing was published in October in the journal [_Medicine & Science in Sports & Exercise_](http://www.ovid.com/site/catalog/journals/586.jsp). The study used a large store of health data from the Cooper Clinic in Dallas, Texas.
+The study that the Times is referencing was published in October in the journal [_Medicine & Science in Sports & Exercise_](http://www.ovid.com/site/catalog/journals/586.jsp). 
+
+The study used a large store of health data from the Cooper Clinic in Dallas, Texas.
 
 ## Cardiovascular Benefits
 
