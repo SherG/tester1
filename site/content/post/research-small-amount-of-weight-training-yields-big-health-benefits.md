@@ -1,6 +1,6 @@
 ---
 title: 'Research: Small Amount of Weight Training Yields Big Health Benefits'
-date: 2019-03-09T09:15:27.146Z
+date: 2019-02-27T09:15:27.146Z
 description: >-
   New research reveals that even a small amount of weight training yields
   dramatic health benefits.
