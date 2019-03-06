@@ -23,22 +23,20 @@ Those who enjoyed the greatest decline in risk:
 * Lifted twice a week
 * Spent about an hour in each session
 
-The study that the Times is referencing was published in October in the journal [_Medicine & Science in Sports & Exercise_](http://www.ovid.com/site/catalog/journals/586.jsp). 
+The study that the _Times_ is referencing was published in October in the journal [_Medicine & Science in Sports & Exercise_](http://www.ovid.com/site/catalog/journals/586.jsp). 
 
 The study used a large store of health data from the Cooper Clinic in Dallas, Texas.
 
 ## Cardiovascular Benefits
 
-The Times acknowledged that popular thinking is that resistance training doesn't offer the cardio benefits of aerobic training. 
+The _Times_ acknowledged that popular thinking is that resistance training doesn't offer the cardio benefits of aerobic training. 
 
 This is the sort of thinking that I've dedicated my professional career to overturning. 
 
 The research showed that these health benefits accrued _regardless of whether the participants engaged in frequent aerobic exercise_.  
 
-Readers of this blog, or clients of ISF will not be surprised by these findings. The principles behind our strength training are backed by a significant amount of research.
+Readers of this blog, or clients of Inner Strength Fitness will not be surprised by these findings. The principles behind our strength training are backed by a significant amount of research.
 
 ## Short Exercise Sessions Do Work
 
 The most common excuse given for not exercising is lack of time.  Worry not, dear reader!  This new research provides hope to the harried.
-
-### Recommended Reading
