@@ -4,7 +4,7 @@ date: 2018-12-15T03:25:03.711Z
 description: >-
   After surgery on my back, I recently did my first squat. I hope you'll find
   encouragement in my story.
-image: /img/weights.png
+image: ''
 ---
 During a martial arts accident, I herniated my disc at L5/S1. 
 
