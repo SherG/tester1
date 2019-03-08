@@ -10,7 +10,7 @@ During a martial arts accident, I herniated my disc at L5/S1.
 
 I underwent surgery for this on October 4.  I performed my first regular squat this past Wednesday.  
 
-> "The test of success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." <br><br>— _General George S. Patton_
+> "Success is how high you bounce when you hit the bottom." <br><br>— _General George S. Patton_
 
 Perhaps my back will never be the same.  
 
