@@ -21,8 +21,6 @@ It's not that an exercise veteran cannot become stronger while becoming leaner.
 
 It's that gains in strength, while on a fat loss diet, will be slower. Sometimes significantly slower, depending on the level of caloric deficit.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mla3WE4QyiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p></p>
-
 ## Balancing Goals
 
 There are tricks of the trade to balance these seemingly incompatible goals.  
