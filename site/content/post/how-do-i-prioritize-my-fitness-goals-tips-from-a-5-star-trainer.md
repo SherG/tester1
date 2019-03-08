@@ -2,8 +2,8 @@
 title: How Do I Prioritize My Fitness Goals? Tips From a 5-Star Trainer
 date: 2019-01-26T03:46:28.181Z
 description: >
-  Starting with small, easily achievable goals and then building momentum
-  towards more grand goals is the way to get traction.
+  Start with small, easily achievable goals and build momentum towards bigger
+  goals. This is the way to get traction.
 ---
 One of the great things about being an exercise newbie however is that you can often achieve multiple goals at once.  
 
