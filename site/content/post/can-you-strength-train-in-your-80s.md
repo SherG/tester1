@@ -6,7 +6,7 @@ description: >-
   great and feels stronger than ever.
 image: /img/francisco-villalobos-inner-strength-fitness-client-nyc.jpg
 ---
-I started training him with a basic High Intensity Training (HIT) approach and then we used an offshoot of HIT, Superslow, for several years.
+I started training him with a basic High Intensity Training (HIT) approach. Then for several years we used an offshoot of HIT called Superslow.
 
 Over the last few years I noticed that despite having built considerable strength and stamina with those two protocols, Fernand was starting to find maintaining balance in certain situations a greater challenge.  
 
