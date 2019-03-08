@@ -17,7 +17,7 @@ But for those, like myself, that have done some form of exercise and watched wha
 
 Exercise veterans who find themselves, like me, fluffier after the holidays, have to choose whether to make **losing fat** or **becoming stronger**/more muscular a priority.
 
-![socorro morales working out](/img/socorro-morales-working-out.png "socorro morales inner strength fitness")
+![socorro morales working out](/img/socorro-morales-working-out.png "socorro morales inner strength fitness")*Above: Socorro Morales in a training session at Inner Strength Fitness in Manhattan*
 
 It's not that an exercise veteran cannot become stronger while becoming leaner.  
 
