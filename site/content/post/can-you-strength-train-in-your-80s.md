@@ -4,13 +4,11 @@ date: 2018-12-29T02:27:24.280Z
 description: >-
   My client Fernand, now in his 80s, trains exclusively with barbells. He looks
   great and feels stronger than ever.
-image: /img/francisco-villalobos-client.png
+image: /img/francisco-villalobos-inner-strength-fitness-client-nyc.jpg
 ---
 I started training him with a basic High Intensity Training (HIT) approach and then we used an offshoot of HIT, Superslow, for several years.  
 
 Over the last few years I noticed that despite having built considerable strength and stamina with those two protocols, Fernand was starting to find maintaining balance in certain situations a greater challenge.  
-
-![](/img/francisco-villalobos-inner-strength-fitness-client-nyc.jpg)
 
 The act of balancing one’s bodyweight and a barbell with resistance can help clients like Fernand develop and improve their balance. This helps with mobility and protects against the likelihood of falling.  
 
