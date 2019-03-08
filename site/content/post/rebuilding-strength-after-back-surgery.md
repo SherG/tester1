@@ -18,8 +18,14 @@ Perhaps I will always face a greater risk of re-herniation.  But the only thing 
 
 ## Health Benefits of a Strong Back
 
-The best insurance against re-injury is a strong back!  And nothing builds the core muscles of your axial skeleton better then the basic barbell compound exercises: squat, deadlift and standing press.  
+The best insurance against re-injury is a strong back. 
+
+ And nothing builds the core muscles of your axial skeleton better then the basic barbell compound exercises: 
+
+* Squat
+* Deadlift
+* Standing press.  
 
 It will take a while to rebuild the strength I have lost, but I’m so grateful for my wife’s support and my surgeon’s expertise in allowing me to get back into the arena of life.
 
-If you need help bouncing back from an injury please don’t hesitate to set up a phone consult.
+If you need help bouncing back from an injury please don’t hesitate to set up a [free phone appointment](https://calendly.com/isfny/15min/) with me.
