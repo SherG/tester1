@@ -10,6 +10,8 @@ I started training him with a basic High Intensity Training (HIT) approach and t
 
 Over the last few years I noticed that despite having built considerable strength and stamina with those two protocols, Fernand was starting to find maintaining balance in certain situations a greater challenge.  
 
+![](/img/francisco-villalobos-client.png)
+
 The act of balancing one’s bodyweight and a barbell with resistance can help clients like Fernand develop and improve their balance. This helps with mobility and protects against the likelihood of falling.  
 
 So I coached Fernand on various barbell movements like the squat, press, deadlift and bench press.
