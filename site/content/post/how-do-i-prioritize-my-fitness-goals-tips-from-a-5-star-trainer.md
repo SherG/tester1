@@ -17,6 +17,8 @@ But for those, like myself, that have done some form of exercise and watched wha
 
 Exercise veterans who find themselves, like me, fluffier after the holidays, have to choose whether to make **losing fat** or **becoming stronger**/more muscular a priority.
 
+![socorro morales working out](/img/socorro-morales-working-out.png "socorro morales inner strength fitness")
+
 It's not that an exercise veteran cannot become stronger while becoming leaner.  
 
 It's that gains in strength, while on a fat loss diet, will be slower. Sometimes significantly slower, depending on the level of caloric deficit.  
@@ -31,7 +33,7 @@ There are tricks of the trade to balance these seemingly incompatible goals.
 
 You can play around with the intensity and volume of your strength training program so you can continue to make moderate progress despite the caloric deficit.
 
-## Adjust Your Calorie Intake 
+## Adjust Your Calorie Intake
 
 But in the final analysis, an exercise veteran has to acknowledge that facts are facts.  Strength and muscle are most efficiently built while on a _moderate caloric surplus_. 
 
