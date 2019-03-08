@@ -14,13 +14,11 @@ Over the last few years I noticed that despite having built considerable strengt
 
 The act of balancing one’s bodyweight and a barbell with resistance can help clients like Fernand develop and improve their balance. 
 
-![francisco villalobos and client](/img/francisco-villalobos-inner-strength-fitness-client-nyc.jpg)
-
 This helps with mobility and protects against the likelihood of falling.  
 
 So I coached Fernand on various barbell movements like the squat, press, deadlift and bench press.
 
-## Celebrating a Friendship 
+## Celebrating a Friendship
 
 Yesterday marked 25 years that I've had the privilege of coaching Fernand. Over the course of those years I'm even more proud to call him a friend.
 
