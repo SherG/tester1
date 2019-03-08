@@ -11,8 +11,8 @@ Over the last few years I noticed that despite having built considerable strengt
 
 The act of balancing one’s bodyweight and a barbell with resistance can help clients like Fernand develop and improve their balance. This helps with mobility and protects against the likelihood of falling.  
 
-So I learned how to coach basic barbell movements like the squat, press, deadlift and bench press so I could pass on this benefit to my clientele. 
+So I coached Fernand on various barbell movements like the squat, press, deadlift and bench press.
 
-Yesterday represented a wonderful milestone in one of my most cherished strength coaching relationships.  Yesterday marked 25 years that I've had the privilege of coaching my client Fernand. Over the course of those years I'm even more proud to have called him a friend.
+Yesterday marked 25 years that I've had the privilege of coaching Fernand. Over the course of those years I'm even more proud to call him a friend.
 
 Thank you dear Fernand for granting me the trust to guide you this past quarter century. You are my inspiration and my purpose!
