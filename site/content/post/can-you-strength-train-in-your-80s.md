@@ -4,6 +4,7 @@ date: 2018-12-29T02:27:24.280Z
 description: >-
   My client Fernand, now in his 80s, trains exclusively with barbells. He looks
   great and feels stronger than ever.
+image: /img/francisco-villalobos-client.png
 ---
 I started training him with a basic High Intensity Training (HIT) approach and then we used an offshoot of HIT, Superslow, for several years.  
 
