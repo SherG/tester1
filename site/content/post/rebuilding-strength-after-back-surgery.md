@@ -15,7 +15,7 @@ Perhaps my back will never be the same.
 
 Perhaps I will always face a greater risk of re-herniation.  But the only thing worse then a screwed up back is a screwed up back which is weak!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPGNQL5Hy7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPGNQL5Hy7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p></p>
 
 ## 
 
