@@ -4,12 +4,11 @@ date: 2018-12-15T03:25:03.711Z
 description: >-
   After surgery on my back, I recently did my first squat. I hope you'll find
   encouragement in my story.
+image: /img/weights.png
 ---
 During a martial arts accident, I herniated my disc at L5/S1. 
 
 I underwent surgery for this on October 4.  I performed my first regular squat this past Wednesday.  
-
-> "Success is how high you bounce when you hit the bottom." <br><br>— _General George S. Patton_
 
 Perhaps my back will never be the same.  
 
