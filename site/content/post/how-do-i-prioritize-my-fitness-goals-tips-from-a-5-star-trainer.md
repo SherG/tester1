@@ -17,7 +17,7 @@ But for those, like myself, that have done some form of exercise and watched wha
 
 Exercise veterans who find themselves, like me, fluffier after the holidays, have to choose whether to make **losing fat** or **becoming stronger**/more muscular a priority.
 
-![socorro morales working out](/img/socorro-morales-working-out.png "socorro morales inner strength fitness")*Above: Socorro Morales in a training session at Inner Strength Fitness in Manhattan*
+![socorro morales working out](/img/socorro-morales-working-out.png "socorro morales inner strength fitness")_Above: Socorro Morales in a training session at Inner Strength Fitness in Manhattan_
 
 It's not that an exercise veteran cannot become stronger while becoming leaner.  
 
@@ -38,6 +38,8 @@ You can play around with the intensity and volume of your strength training prog
 But in the final analysis, an exercise veteran has to acknowledge that facts are facts.  Strength and muscle are most efficiently built while on a _moderate caloric surplus_. 
 
  If you want to build up the structure which is your body, it makes sense to have an adequate number of bricks on hand for the purpose!  
+
+![workout over 60](/img/workout-over-60.png "workout over 60")*An Inner Strength Fitness client*
 
 But if you want to give pride of place to becoming leaner for the time being, continue to work as hard as you can on building strength and maintaining your metabolically precious muscle.  
 
