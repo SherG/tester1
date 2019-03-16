@@ -161,11 +161,13 @@ Again, thanks to being raised by my mother and grandmother, I developed a great 
 
 As someone growing up in a prosperous city within a prosperous country and with nothing but first world problems to confront, I labored under an undeserved sense of guilt over the suffering of others.
 
-#### Atonement and Duty
+#### Atonement, Duty and Appreciation
 
 I then attempted to atone for that undeserved guilt by approaching things I enjoyed, such as eating, in a very duty-bound way.  
 
 Although I knew that if I was concerned with starving kids in India or anywhere, I could help them directly via charity. 
+
+> I approached eating in a duty-bound way.
 
 But it didn’t occur to me till much later that if I didn’t want to waste food, I should limit the portion I served myself, not swallow everything cooked indiscriminately.
 
@@ -174,3 +176,28 @@ Even until recently, after the original motivation to help the starving kids in 
 Here the motivation is not a sense of duty, but rather a sense of appreciation for the person who put so much effort to make something you would enjoy. \
 \
 It seems ungrateful and unjust to not eat everything your host has made, doesn’t it?
+
+### Love and Appreciation Don’t Require Sacrifice
+
+But as I came to discover, love and appreciation is not about sacrificing one’s values, including one’s health.  
+
+I’ve since grown comfortable accepting that you can love the meal someone has made for you and appreciate the effort they have made to nurture you in this way, without having to wear the fat induced from over-eating.  
+
+> You don't have to sacrifice your values.
+
+Instead of eating more than you want to, you can show appreciation for your host's cooking by:
+
+* Asking for the **recipe**
+* Asking for **leftovers** to take home.
+
+#### Enjoyment With No Regret
+
+Nor is it necessary, no matter how much you enjoy the food, to diminish that enjoyment by stuffing yourself to the point that you feel like an anvil has been dropped into your stomach.  
+
+If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
+
+> Honor yourself and your host.
+
+The goal as I’ve come to see it is to experience the joy of someone’s nurturing you with food without having to bear the costs of overeating.  
+
+When we have accepted another’s loving nourishment _without cost to our health and self-esteem_, only then are we **genuinely honoring** our host.
