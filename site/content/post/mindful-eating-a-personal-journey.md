@@ -181,6 +181,8 @@ Again, thanks to being raised by my mother and grandmother, I developed a great 
 
 >  I labored under an undeserved sense of guilt over the suffering of others.
 
+#### Should You Feel Guilty the Good In Your Life?
+
 As someone growing up in a prosperous city within a prosperous country and with nothing but first world problems to confront, I labored under an undeserved sense of guilt over the suffering of others.
 
 #### Atonement, Duty and Appreciation
