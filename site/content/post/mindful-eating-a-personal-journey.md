@@ -31,7 +31,7 @@ On this particular day that is precisely what happened.
 
 We were driving along our merry way when we were flagged over by a police officer standing by the side of the road.  \
 \
-He approached the car and started to chit chat with my aunt and at that point every adult in the car knew what the subtext was — give me some money or I’ll make getting back home difficult.  
+He approached the car and started to chat with my aunt. At that point every adult in the car knew what the subtext was — "Give me some money or I’ll make getting back home difficult."
 
 I remember my aunt apologizing to him about not having any money and asking him if he would accept some food as a sign of our respect. \
 \
