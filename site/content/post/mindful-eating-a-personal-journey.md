@@ -151,7 +151,7 @@ But for many years after that, all the way into my college years I was a faithfu
 
 ### Being Good = Eating Too Much?
 
-I never did figure out how I was empathizing with the starving kids of India or how they would have ever been aware of my gesture.  
+I never did figure out how I was empathizing with starving kids or how they would have ever been aware of my gesture.  
 
 But I do remember putting on a lot of unnecessary fat in the process. 
 
