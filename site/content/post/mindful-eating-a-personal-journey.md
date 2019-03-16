@@ -91,6 +91,8 @@ Food is something we enjoy alongside many other values that taken together as an
 
 So let me share a second story.  My birthday was quickly approaching and I had asked my Mom for this bicycle I had seen.  
 
+> Colorful tassles streamed from the handlebars.
+
 It was bright red with racing stripes down its sides. It had this loud bell you could ring to warn people that you were speeding towards them and colorful tassels streaming from each handle.  
 
 Now that I’m sharing this it occurs to me that the tassels were a rather effeminate touch but because two wonderful women raised me, my mother and grandmother, I guess it makes sense that I developed some feminine sensibilities as a boy.
