@@ -190,13 +190,12 @@ Instead of eating more than you want to, you can show appreciation for your host
 * Asking for the **recipe**
 * Asking for **leftovers** to take home.
 
-#### Enjoyment With No Regret
+#### Enjoy Food With No Regrets
 
 If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. 
 
 ![mindful eating](/img/mindful-eating-healthy-food.png "mindful eating")
 
-\
 \
 You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
 
