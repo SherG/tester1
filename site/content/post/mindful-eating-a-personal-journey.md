@@ -197,7 +197,7 @@ If you truly enjoy someone’s cooking, you want to be able to enjoy without the
 ![mindful eating](/img/mindful-eating-healthy-food.png "mindful eating")
 
 \
-You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
+You want to be able to say, “I really enjoyed that meal” without having to feel miserable about how your clothes feel afterwards or with the indigestion that keeps you up all night.  
 
 > Honor your host _and_ yourself.
 
