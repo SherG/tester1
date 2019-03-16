@@ -93,6 +93,8 @@ I think it was especially common for children whose parents grew up in the shado
 
 I don’t know how your parents might have justified this practice to you but I was told that by cleaning my plate, I was saying that food is precious and should never be wasted.  
 
+> Being a member of the clean plate club meant I ate far in excess of what my body needed.
+
 I was told to empathize with the starving kids of India and to be thankful that I had plenty with which I could feel consistently stuffed. I was told how happy these starving kids in India would be to eat the scraps off of my plate.  
 
 ### Battles Over Food I Didn’t Like
@@ -122,3 +124,53 @@ I awoke to see the gleaming new bike at the foot of my bed so in the short term 
 But for many years after that, all the way into my college years I was a faithful plate cleaner.
 
 ![red bicycle](/img/red-bicycle.png "red bicycle")
+
+### 
+
+### Being Good = Eating Too Much?
+
+I never did figure out how I was empathizing with the starving kids of India or how they would have ever been aware of my gesture.  
+
+But I do remember putting on a lot of unnecessary fat in the process. 
+
+Wherever I went, the portion sizes of the meals I was served where often comparable to the mounds of food I was required to eat at home. 
+
+> I had to learn to eat when I'm hungry and stop when I'm satisfied.
+
+Being a member of the clean plate club meant I ate far in excess of what my body needed.
+
+The fact that I had been playing tennis for hours each day as a member of my high school and college team disguised the weight gain that is a natural consequence of over-consumption.
+
+### Packing on Pounds in College
+
+But as soon as I quit the tennis team to devote myself to my college studies, the pounds came on rapidly.  
+
+By the time I was a senior, I had gone from the 185 lbs. I had maintained throughout high school to nearly 270 pounds. 
+
+> You can't flex fat.
+
+And I knew it wasn’t “all muscle” from my weight training efforts. I knew that you can’t flex fat. 
+
+So this lesson — that I should eat when I’m hungry and stop eating when I’m satisfied took a long time for me to learn and consistently practice.
+
+### Empathy and False Guilt
+
+Again, thanks to being raised by my mother and grandmother, I developed a great deal of empathy for the suffering of others.  
+
+>  I labored under an undeserved sense of guilt over the suffering of others.
+
+As someone growing up in a prosperous city within a prosperous country and with nothing but first world problems to confront, I labored under an undeserved sense of guilt over the suffering of others.
+
+#### Atonement and Duty
+
+I then attempted to atone for that undeserved guilt by approaching things I enjoyed, such as eating, in a very duty-bound way.  
+
+Although I knew that if I was concerned with starving kids in India or anywhere, I could help them directly via charity. 
+
+But it didn’t occur to me till much later that if I didn’t want to waste food, I should limit the portion I served myself, not swallow everything cooked indiscriminately.
+
+Even until recently, after the original motivation to help the starving kids in India had long been subsided, I occasionally found myself wanting to clean my plate in order to let my Mom, Grandma or a host know I really enjoyed their cooking.  
+
+Here the motivation is not a sense of duty, but rather a sense of appreciation for the person who put so much effort to make something you would enjoy. \
+\
+It seems ungrateful and unjust to not eat everything your host has made, doesn’t it?
