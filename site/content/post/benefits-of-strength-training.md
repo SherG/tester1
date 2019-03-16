@@ -27,4 +27,6 @@ Don’t spend your golden years on the sidelines.
 
 Develop the strength that will allow you to enjoy those years as the adventure they ought to be.
 
-It's never too late to start working on maintaining the mobility that you have. If you have any questions about how to start, I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min)with me.
+It's never too late to start strength training and maintaining the mobility that you have. If you have questions about how to start, I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min)with me. 
+
+It only takes a few seconds to make that appointment.
