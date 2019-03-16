@@ -1,6 +1,6 @@
 ---
 title: Benefits of Strength Training
-date: 2019-03-16T18:32:26.183Z
+date: 2018-11-02T18:32:26.183Z
 description: 'Prioritizing our mobility keeps the door open to new adventures. '
 ---
 My wife and I recently visited Italy. It wasn't our first visit, but it was our first time together and we were committed to doing it right. 
