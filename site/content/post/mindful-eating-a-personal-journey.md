@@ -120,3 +120,5 @@ I dreamt that somewhere in India, some kid was riding up and down on my red bike
 I awoke to see the gleaming new bike at the foot of my bed so in the short term this story has a happy ending. \
 \
 But for many years after that, all the way into my college years I was a faithful plate cleaner.
+
+![red bicycle](/img/red-bicycle.png "red bicycle")
