@@ -33,6 +33,8 @@ We were driving along our merry way when we were flagged over by a police office
 \
 He approached the car and started to chat with my aunt. At that point every adult in the car knew what the subtext was — "Give me some money or I’ll make getting back home difficult."
 
+> All eyes stopped on my plate.
+
 I remember my aunt apologizing to him about not having any money and asking him if he would accept some food as a sign of our respect. \
 \
 This is when my ears perked up. The adults in the car started looking around to see if there was any left over food we could give the officer. All eyes stopped on my plate.
@@ -73,11 +75,15 @@ But more to the point, I learned that I shouldn’t approach eating with artific
 
 But if that had been the only lesson I had ever learned about eating I would have developed into a hedonist and that would have been good neither for my waistline or long term health.  
 
-Eating, one of life’s greatest delights, ought to be enjoyed fully.  But eating, even when enjoyed with another of life’s great delights — great conversation — is not the only thing that makes life worthwhile.
+Eating, one of life’s greatest delights, ought to be enjoyed fully.  
+
+But eating, even when enjoyed with another of life’s great delights — great conversation — is not the only thing that makes life worthwhile.
 
 ### A Holistic View of Food: Part of a Flourishing Life
 
 Food is something we enjoy alongside many other values that taken together as an integrated whole, make our lives joyous.  
+
+> Eating, one of life’s greatest delights, ought to be enjoyed fully.  
 
 **We cannot decide the true value of something by itself**, but only with an understanding of how it contributes, alongside a multitude of other values large and small, to a **flourishing life**.
 
