@@ -139,7 +139,7 @@ And our dreams are the perfect tapestry upon which our subconscious paints.
 
 That night I had a recurring nightmare all night long. \
 \
-I dreamt that somewhere in India, some kid was riding up and down on my red bike, ringing the bell gleefully while stuffing his face with rice and beans.  
+**_I dreamt that somewhere in India, a kid was riding up and down a street on my red bike, ringing the bell gleefully while stuffing his face with rice and beans_.**  
 
 I awoke to see the gleaming new bike at the foot of my bed so in the short term this story has a happy ending. \
 \
