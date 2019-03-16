@@ -201,3 +201,7 @@ If you truly enjoy someone’s cooking, you want to be able to enjoy without the
 The goal as I’ve come to see it is to experience the joy of someone’s nurturing you with food without having to bear the costs of overeating.  
 
 When we have accepted another’s loving nourishment _without cost to our health and self-esteem_, only then are we **genuinely honoring** our host.
+
+<hr>
+
+<small><em>Photo credits: [Table of food](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail&asset_id=125950658) by [Olga Klochanko](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail) on [Adobe Stock](https://stock.adobe.com/), via [Standard License](https://stock.adobe.com/license-terms?prev_url=detail&standard=1&extended=1&enhanced=0&editorial=0#comparison-section)</em></small>
