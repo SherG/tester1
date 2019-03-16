@@ -192,11 +192,11 @@ Instead of eating more than you want to, you can show appreciation for your host
 
 #### Enjoyment With No Regret
 
-Nor is it necessary, no matter how much you enjoy the food, to diminish that enjoyment by stuffing yourself to the point that you feel like an anvil has been dropped into your stomach.  
+If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. 
 
 ![mindful eating](/img/mindful-eating-healthy-food.png "mindful eating")
 
-If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. \
+\
 \
 You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
 
