@@ -41,7 +41,7 @@ As was my habit back then, I had divided my plate into little compartments.
 
 Rice and beans in one section, well-seasoned roasted pork in another section, sweet plantains in another. I liked all the foods on this particular plate.  
 
-![rice beans plantains](/img/rice-beans-plantains.png "rice beans plantains")*Rice, beans, plantains and meat is one of my favorite dishes.* <hr>
+![rice beans plantains](/img/rice-beans-plantains.png "rice beans plantains")_Rice, beans, plantains and meat is one of my favorite dishes._ <hr>
 
 The point of this separation wasn’t to pick out foods I refused to eat but to enjoy the foods in a particular order — from least to most favorite. 
 
@@ -89,7 +89,9 @@ Now that I’m sharing this it occurs to me that the tassels were a rather effem
 
 ### Joining the Clean Plate Club
 
-Well even though I had learned my lesson about burdening my eating with a lot of artificial rules, I venerated these two women and they had raised me to be a member in good standing of the clean plate club.  I’m sure that there are some of you who can relate. 
+Well even though I had learned my lesson about burdening my eating with a lot of artificial rules, I venerated these two women and they had raised me to be a member in good standing of the clean plate club. 
+
+I’m sure that some of you can relate. 
 
 I think it was especially common for children whose parents grew up in the shadow of the Great Depression to believe that it was virtuous to clean their plate every time they ate.
 
@@ -99,11 +101,15 @@ I don’t know how your parents might have justified this practice to you but I 
 
 > Being a member of the clean plate club meant I ate far in excess of what my body needed.
 
-I was told to empathize with the starving kids of India and to be thankful that I had plenty with which I could feel consistently stuffed. I was told how happy these starving kids in India would be to eat the scraps off of my plate.  
+I was told to empathize with the starving kids of India and to be thankful that I had plenty with which I could feel consistently stuffed. 
+
+I was told how happy these starving kids in India would be to eat the scraps off of my plate.  
 
 ### Battles Over Food I Didn’t Like
 
-Nevertheless, there were many times when I fought my parents about some food I didn’t want to eat. A pitched battle ensued until I had either eaten everything or had found another way to miraculously make the noxious food disappear. 
+Nevertheless, there were many times when I fought my parents about some food I didn’t want to eat. 
+
+A pitched battle ensued until I had either eaten everything or had found another way to miraculously make the noxious food disappear. 
 
 I remember being particularly stubborn around this time, as my birthday approached, about avoiding foods on my plate that I “didn’t like”.
 
@@ -115,7 +121,9 @@ She didn’t draw a connection between that decision and my “being a fussy eat
 \
 In other words this was not a punishment. I was merely led to understand that she might not be able to afford the bike that year.
 
-But kids have a way of drawing connections between things that are often unrelated and our subconscious minds are particularly adept at drawing these connections — even when they are entirely imaginary. And our dreams are the perfect tapestry upon which our subconscious paints.
+But kids have a way of drawing connections between things that are often unrelated and our subconscious minds are particularly adept at drawing these connections — even when they are entirely imaginary. 
+
+And our dreams are the perfect tapestry upon which our subconscious paints.
 
 ### The Bike that Almost Got Away
 
