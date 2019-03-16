@@ -13,7 +13,7 @@ I once accepted certain rules about eating, rules that had nothing to do with a 
 
 These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
 
-![punta cana](/img/punta-cana.png "punta cana")
+![punta cana](/img/punta-cana.png "punta cana")*The beach at Punta Cana*
 
 ## Growing Up in the Dominican Republic
 
