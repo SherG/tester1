@@ -7,7 +7,11 @@ In her essay “Philosophical Detection” Ayn Rand writes:
 
 "_To take ideas seriously means that you intend to live by, to practice, an idea that you accept as true. Philosophy provides man with a comprehensive view of life. In order to evaluate it properly, ask yourself what a given theory, if accepted, would do to a human life, stating with your own_."
 
-That passage has inspired me to share some personal stories about my relationship with food.  I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food.  These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
+That passage has inspired me to share some personal stories about my relationship with food. 
+
+I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food. 
+
+These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
 
 ## Growing Up in the Dominican Republic
 
@@ -15,21 +19,25 @@ My mother is from the Dominican Republic. When I was little she and I would trav
 
 On one of these trips, my family and I were driving back from the beach. I was enjoying a meal I had put off eating earlier.
 
-Corruption is rife in developing countries like the Dominican Republic and it was not uncommon back then to have one’s car stopped by a police officer looking for a bribe.  On this particular day that is precisely what happened.
+Corruption is rife in developing countries like the Dominican Republic and it was not uncommon back then to have one’s car stopped by a police officer looking for a bribe.  \
+\
+On this particular day that is precisely what happened.
 
 ### Saving the Best for Last
 
 We were driving along our merry way when we were flagged over by a police officer standing by the side of the road.  \
 \
-He approached the car and started to chit chat with my aunt and at that point every adult in the car knew what the subtext was—give me some money or I’ll make getting back home difficult.  
+He approached the car and started to chit chat with my aunt and at that point every adult in the car knew what the subtext was — give me some money or I’ll make getting back home difficult.  
 
 I remember my aunt apologizing to him about not having any money and asking him if he would accept some food as a sign of our respect. \
 \
-This is when my ears perked up. The adults in the car started looking around to see if there was any left over food we could give the officer and then all eyes stopped on my plate.
+This is when my ears perked up. The adults in the car started looking around to see if there was any left over food we could give the officer. All eyes stopped on my plate.
 
 ### Savoring a Traditional Meal
 
-As was my habit back then, I had divided my plate into little compartments.  Rice and beans in one section, well-seasoned roasted pork in another section, sweet plantains in another. I liked all the foods on this particular plate.  
+As was my habit back then, I had divided my plate into little compartments.  
+
+Rice and beans in one section, well-seasoned roasted pork in another section, sweet plantains in another. I liked all the foods on this particular plate.  
 
 The point of this separation wasn’t to pick out foods I refused to eat but to enjoy the foods in a particular order — from least to most favorite. 
 
@@ -60,3 +68,55 @@ But more to the point, I learned that I shouldn’t approach eating with artific
 But if that had been the only lesson I had ever learned about eating I would have developed into a hedonist and that would have been good neither for my waistline or long term health.  
 
 Eating, one of life’s greatest delights, ought to be enjoyed fully.  But eating, even when enjoyed with another of life’s great delights — great conversation — is not the only thing that makes life worthwhile.
+
+### A Holistic View of Food: Part of a Flourishing Life
+
+Food is something we enjoy alongside many other values that taken together as an integrated whole, make our lives joyous.  
+
+**We cannot decide the true value of something by itself**, but only with an understanding of how it contributes, alongside a multitude of other values large and small, to a **flourishing life**.
+
+## The Red Birthday Bicycle
+
+So let me share a second story.  My birthday was quickly approaching and I had asked my Mom for this bicycle I had seen.  
+
+It was bright red with racing stripes down its sides. It had this loud bell you could ring to warn people that you were speeding towards them and colorful tassels streaming from each handle.  
+
+Now that I’m sharing this it occurs to me that the tassels were a rather effeminate touch but because two wonderful women raised me, my mother and grandmother, I guess it makes sense that I developed some feminine sensibilities as a boy.
+
+### Joining the Clean Plate Club
+
+Well even though I had learned my lesson about burdening my eating with a lot of artificial rules, I venerated these two women and they had raised me to be a member in good standing of the clean plate club.  I’m sure that there are some of you who can relate. 
+
+I think it was especially common for children whose parents grew up in the shadow of the Great Depression to believe that it was virtuous to clean their plate every time they ate.
+
+### What About Those Starving Kids?
+
+I don’t know how your parents might have justified this practice to you but I was told that by cleaning my plate, I was saying that food is precious and should never be wasted.  
+
+I was told to empathize with the starving kids of India and to be thankful that I had plenty with which I could feel consistently stuffed. I was told how happy these starving kids in India would be to eat the scraps off of my plate.  
+
+### Battles Over Food I Didn’t Like
+
+Nevertheless, there were many times when I fought my parents about some food I didn’t want to eat. A pitched battle ensued until I had either eaten everything or had found another way to miraculously make the noxious food disappear. 
+
+I remember being particularly stubborn around this time, as my birthday approached, about avoiding foods on my plate that I “didn’t like”.
+
+#### Finances Were Tight
+
+The night before my birthday that year, my mother sat by my bedside and told me that things were tight financially and that the bike might not be possible that year.  
+
+She didn’t draw a connection between that decision and my “being a fussy eater” or my refusing to clean my plate. \
+\
+In other words this was not a punishment. I was merely led to understand that she might not be able to afford the bike that year.
+
+But kids have a way of drawing connections between things that are often unrelated and our subconscious minds are particularly adept at drawing these connections — even when they are entirely imaginary. And our dreams are the perfect tapestry upon which our subconscious paints.
+
+### The Bike that Almost Got Away
+
+That night I had a recurring nightmare all night long. \
+\
+I dreamt that somewhere in India, some kid was riding up and down on my red bike, ringing the bell gleefully while stuffing his face with rice and beans.  
+
+I awoke to see the gleaming new bike at the foot of my bed so in the short term this story has a happy ending. \
+\
+But for many years after that, all the way into my college years I was a faithful plate cleaner.
