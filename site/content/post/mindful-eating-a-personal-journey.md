@@ -209,6 +209,6 @@ When we have accepted another’s loving nourishment _without cost to our health
 
 <hr>
 
-<small><em>Photo credits: [Beach at Punta Cana](https://stock.adobe.com/contributor/206227445/aero-pictures-de?load_type=author&prev_url=detail&asset_id=198370591) by [aero-pictures.de](https://stock.adobe.com/contributor/206227445/aero-pictures-de?load_type=author&prev_url=detail); [Table of food](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail&asset_id=125950658) by [Olga Klochanko](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail) \
+<small>Photo credits: [Beach at Punta Cana](https://stock.adobe.com/contributor/206227445/aero-pictures-de?load_type=author&prev_url=detail&asset_id=198370591) by [aero-pictures.de](https://stock.adobe.com/contributor/206227445/aero-pictures-de?load_type=author&prev_url=detail); [Table of food](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail&asset_id=125950658) by [Olga Klochanko](https://stock.adobe.com/contributor/204860469/olgaklochanko?load_type=author&prev_url=detail) \
 \
-on [Adobe Stock](https://stock.adobe.com/), via [Standard License](https://stock.adobe.com/license-terms?prev_url=detail&standard=1&extended=1&enhanced=0&editorial=0#comparison-section)</em></small>
+on [Adobe Stock](https://stock.adobe.com/), via [Standard License](https://stock.adobe.com/license-terms?prev_url=detail&standard=1&extended=1&enhanced=0&editorial=0#comparison-section)</small>
