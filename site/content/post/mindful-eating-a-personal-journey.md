@@ -5,7 +5,7 @@ description: This is my story of how I grew out of a rule-bound approach to eati
 ---
 In her essay “Philosophical Detection” Ayn Rand writes:
 
-"_To take ideas seriously means that you intend to live by, to practice, an idea that you accept as true.  Philosophy provides man with a comprehensive view of life. In order to evaluate it properly, ask yourself what a given theory, if accepted, would do to a human life, stating with your own_."
+"_To take ideas seriously means that you intend to live by, to practice, an idea that you accept as true. Philosophy provides man with a comprehensive view of life. In order to evaluate it properly, ask yourself what a given theory, if accepted, would do to a human life, stating with your own_."
 
 That passage has inspired me to share some personal stories about my relationship with food.  I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food.  These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
 
@@ -39,10 +39,24 @@ By the time we were stopped, I had enjoyed the pork and plantains and was really
 
 Perhaps it had been my Mom telling me countless times that good things come to those who wait.  
 
-Perhaps it was the pride I took personally in being able to delay gratification. \
-\
+Perhaps it was the pride I took personally in being able to delay gratification.
+
+> My aunt grabbed my plate of food and gave it to the police officer. 
+
 I may never know exactly where and how I had absorbed the belief that you ought to save the best for last but that day I was about to discover the unintended consequences of holding on to that belief.
 
-Reading the situation, I tried to lift the plate close to my face and started to lift a forkful of rice and beans to my mouth but my aunt reached out and grabbed the plate from my hands and handed it over to the police officer.  
+Reading the situation, I tried to lift the plate close to my face and started to lift a forkful of rice and beans to my mouth. But my aunt grabbed the plate from my hands and handed it to the police officer.  
 
 I protested in vain as my aunt pulled away from the side of the road in the hope that the officer would not protest the paltriness of the offering.
+
+## Mindful Eating: A Lesson in Enjoying Food
+
+So what philosophic lesson did I draw from this?  Well, for one, that police corruption sucks! 
+
+But more to the point, I learned that I shouldn’t approach eating with artificial rules.  I should eat what I enjoy in a meal and enjoyment should be my focus from the start of the meal to the end.  
+
+> I learned that I shouldn’t approach eating with artificial rules.
+
+But if that had been the only lesson I had ever learned about eating I would have developed into a hedonist and that would have been good neither for my waistline or long term health.  
+
+Eating, one of life’s greatest delights, ought to be enjoyed fully.  But eating, even when enjoyed with another of life’s great delights — great conversation — is not the only thing that makes life worthwhile.
