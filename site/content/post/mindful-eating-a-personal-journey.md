@@ -21,6 +21,8 @@ My mother is from the Dominican Republic. When I was little she and I would trav
 
 On one of these trips, my family and I were driving back from the beach. I was enjoying a meal I had put off eating earlier.
 
+> Enjoyment of food contributes to joyous life.
+
 Corruption is rife in developing countries like the Dominican Republic and it was not uncommon back then to have one’s car stopped by a police officer looking for a bribe.  \
 \
 On this particular day that is precisely what happened.
