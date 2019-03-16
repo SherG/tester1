@@ -105,17 +105,15 @@ I think it was especially common for children whose parents grew up in the shado
 
 ### What About Those Starving Kids?
 
-I don’t know how your parents might have justified this practice to you but I was told that by cleaning my plate, I was saying that food is precious and should never be wasted.  
+I was told that by cleaning my plate, I was saying that food is precious and should never be wasted.  
 
 > Being a member of the clean plate club meant I ate far in excess of what my body needed.
 
-I was told to empathize with the starving kids of India and to be thankful that I had plenty with which I could feel consistently stuffed. 
-
-I was told how happy these starving kids in India would be to eat the scraps off of my plate.  
+I was told to empathize with the starving kids of India and to be thankful that I had plenty  to eat. These starving kids would be to eat the scraps off of my plate, my family said.
 
 ### Battles Over Food I Didn’t Like
 
-Nevertheless, there were many times when I fought my parents about some food I didn’t want to eat. 
+Even so, there were many times when I fought my parents about some food I didn’t want to eat. 
 
 A pitched battle ensued until I had either eaten everything or had found another way to miraculously make the noxious food disappear. 
 
@@ -124,6 +122,8 @@ I remember being particularly stubborn around this time, as my birthday approach
 #### Finances Were Tight
 
 The night before my birthday that year, my mother sat by my bedside and told me that things were tight financially and that the bike might not be possible that year.  
+
+> Our subconscious paints on the tapestry of our dreams.
 
 She didn’t draw a connection between that decision and my “being a fussy eater” or my refusing to clean my plate. \
 \
