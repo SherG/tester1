@@ -9,7 +9,7 @@ We hired some tour guides for the ruins and museums of Rome, Florence, Pompeii a
 
 When we looked at some ruin or painting we wanted to be educated about what we were seeing. It was a wonderful trip!
 
-![francisco villalobos in italy](/img/francisco-villalobos-italy-trip.png "francisco villallobos in italy")
+![francisco villalobos in italy](/img/francisco-villalobos-italy-trip.png "francisco villallobos in italy")*Two baby boomers on the move: My wife and I had a wonderful time on our Italy trip. We credit a significant portion of our enjoyment of life to our continuing commitment to strength training.*<hr>
 
 But along with the many joys and delights I also experienced some sadness at seeing other couples our age or slightly older, having a difficult time keeping up with their tours. 
 
