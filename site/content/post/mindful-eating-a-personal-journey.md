@@ -3,15 +3,15 @@ title: 'Mindful Eating: A Personal Journey'
 date: 2019-03-16T18:50:59.477Z
 description: This is my story of how I grew out of a rule-bound approach to eating.
 ---
+I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food. 
+
+These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
+
 In her essay “Philosophical Detection” Ayn Rand writes:
 
 "_To take ideas seriously means that you intend to live by, to practice, an idea that you accept as true. Philosophy provides man with a comprehensive view of life. In order to evaluate it properly, ask yourself what a given theory, if accepted, would do to a human life, stating with your own_."
 
-That passage has inspired me to share some personal stories about my relationship with food. 
-
-I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food. 
-
-These rules kept me from enjoying food fully, genuinely and in a way that was consistent with my other values.
+That passage has inspired me to share this personal journey.
 
 ![punta cana](/img/punta-cana.png "punta cana")_The beach at Punta Cana_
 
