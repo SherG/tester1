@@ -196,9 +196,11 @@ Nor is it necessary, no matter how much you enjoy the food, to diminish that enj
 
 ![mindful eating](/img/mindful-eating-healthy-food.png "mindful eating")
 
-If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
+If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. \
+\
+You want to be able to say, “I really enjoyed that meal” without having to feel miserable with how your clothes feel afterwards or with the indigestion that keeps you up all night.  
 
-> Honor yourself and your host.
+> Honor your host _and_ yourself.
 
 The goal as I’ve come to see it is to experience the joy of someone’s nurturing you with food without having to bear the costs of overeating.  
 
