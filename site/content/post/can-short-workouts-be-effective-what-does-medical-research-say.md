@@ -36,7 +36,9 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to _**schedule time for working out.**_
+The best way to prioritize fitness is to _**schedule time -- in writing -- for working out.**_
+
+By scheduling time for fitness, we prioritize it above lesser desires like finding a good movie to watch on the weekend or ordering a new flavor of coffee online.
 
 
 
