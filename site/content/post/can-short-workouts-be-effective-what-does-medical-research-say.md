@@ -62,3 +62,11 @@ In an interview with HITuni, a training resource, McGuff said:
 "Most people . . . within 12-20 weeks will expect to easily see their strength double and their body composition will improve markedly and it will seem almost -- compared to other approaches that they may have tried -- it will almost seem too easy to them."
 
 He added, "The results are predictable and come about quickly" and that his clients are "just mindblown."
+
+## Our Training
+
+Here at Inner Strength Fitness, we also use the same HIT principles and approach discussed by Dr. McGuff. \
+\
+Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of Inner Strength Fitness in New York City, to learn more.
+
+We will discuss your goals and fitness challenges. Find out this week how you can get optimal outcomes from your fitness investment.
