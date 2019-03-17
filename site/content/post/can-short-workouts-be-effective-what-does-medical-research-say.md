@@ -41,6 +41,6 @@ But there are at least two reasons why saying, “I don’t have the time” is 
 
 I know it reads like quackery but that is truly all the exercise necessary to get the cardiovascular, muscular and bone strengthening benefits exercise provides. 
 
-For an elaboration on this see chapter 5 in Body by Science by physician Doug McGuff and John Little. 
+For an elaboration on this see chapter 5 in [_Body by Science_](https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/) by physician Doug McGuff and John Little. 
 
 The video below features Dr. McGuff — an emergency physician — speaking on strength training for baby boomers.
