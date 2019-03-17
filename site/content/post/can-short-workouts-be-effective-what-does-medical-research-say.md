@@ -67,8 +67,8 @@ He added, "The results are predictable and come about quickly" and that his clie
 
 ## Our Training
 
-Here at Inner Strength Fitness, we also use the same HIT principles and approach discussed by Dr. McGuff. \
+Here at Inner Strength Fitness (ISF), we also use the same HIT principles and approach discussed by Dr. McGuff. \
 \
-Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of Inner Strength Fitness in New York City, to learn more.
+Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of ISF in New York City, to learn more.
 
 We will discuss your goals and fitness challenges. Find out now how you can get optimal outcomes from your fitness investment.
