@@ -15,3 +15,32 @@ People often ask me:
 There are some popular -- yet false -- notions about what constitutes an effective training session and regimen. 
 
 Let's take a closer look at these so you can understand what the science says. But first, let's consider the priority of setting aside some time for exercise.
+
+## Exercise is For Busy Baby Boomers, Like You
+
+The most common excuse for not exercising is lack of time. 
+
+It is an excuse with which I empathize. After all, it is by the “unforgiving minute” as Kipling put it, that we measure out our lives and the things we value. And those that instruct exercise can prove just as busy and riddled with excuses as those of other professions.
+
+We spend a good deal of time sleeping. This is a biological necessity. And we spend an awful lot of time working. That’s why it’s important to find a productive purpose, a career, which we love. Life is severely diminished if all we have to look forward to each week are its weekends.
+
+### Make Time for What's Important
+
+But we need to “make time” for what is important.
+
+Is it any wonder that in the sea of values we pursue, some values, such as exercise get drowned out?
+
+## Exercise Increases and Maintains your Vitality
+
+But there are at least two reasons why saying, “I don’t have the time” is an invalid excuse for not exercising. 
+
+1. First, proper exercise is essential to augmenting and maintaining our vitality. Because this vitality is a cornerstone of a _well-lived life_, exercise is one of the values we can scarcely ignore any more than good dental hygiene.
+2. Second, if more people understood that all they need is one to three 30-minute sessions per week to obtain all of the health benefits associated with exercise, they wouldn’t use the "no time" excuse card. 
+
+## Medical Science: Short Exercise Sessions Really Do Work
+
+I know it reads like quackery but that is truly all the exercise necessary to get the cardiovascular, muscular and bone strengthening benefits exercise provides. 
+
+For an elaboration on this see chapter 5 in Body by Science by physician Doug McGuff and John Little. 
+
+The video below features Dr. McGuff — an emergency physician — speaking on strength training for baby boomers.
