@@ -36,7 +36,7 @@ But we need to “make time” for what is important. How do we do this?
 
 The best way to prioritize fitness is to _**schedule time for working out.**_
 
-**Whether you use an online tool or a pad of paper, your workout time should be listed on your schedule.** 
+Whether you use an online tool or a pad of paper, **your workout time should be listed on your schedule.** 
 
 By scheduling time for fitness, we prioritize it above lesser desires like finding a good movie to watch on the weekend or ordering a new flavor of coffee online.
 
