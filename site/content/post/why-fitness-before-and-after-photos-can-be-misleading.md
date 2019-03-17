@@ -10,7 +10,7 @@ How long do you think it took this beautiful young lady to transform her body? H
 More importantly ask yourself the following questions: What would you do for results like this? 
 
 * Would you starve yourself? 
-* Would you eat nothing but Eskimo food or drink nothing but freshly squeezed, organic raisin juice? 
+* Would you eat nothing but kale and freshly squeezed, organic raisin juice? 
 * Would you pay a fortune to a personal trainer if he had before and after pics like these attached to client testimonials?
 
 ![before after photo](/img/before-after-workout.png "before after photo")
@@ -21,4 +21,4 @@ The courageous personal trainer pictured above took these pictures of herself on
 
 Moreover, as she points out in her blog, they are not informative. \
 \
-In most cases, before/after photographic comparisons don’t tell you exactly how the person made the transformation (other then by often crediting the latest amazing supplement extracted from a newly discovered plant from the Amazon).
+In most cases, before/after photographic comparisons don’t tell you exactly how the person made the transformation, but often tout the latest "amazing" supplement.
