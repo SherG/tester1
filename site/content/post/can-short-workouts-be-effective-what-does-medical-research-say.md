@@ -34,7 +34,9 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to _**schedule time for working out.**_
+The best way to prioritize fitness is to **_schedule time for working out._**
+
+> Schedule time for working out.
 
 Whether you use an online tool or a pad of paper, **your workout time should be listed on your schedule.** 
 
@@ -73,8 +75,12 @@ He added, "The results are predictable and come about quickly" and that his clie
 
 ## Our Training
 
-Here at Inner Strength Fitness (ISF), we also use the same HIT principles and approach discussed by Dr. McGuff. \
-\
+Here at Inner Strength Fitness (ISF), we also use the same HIT principles and approach discussed by Dr. McGuff. 
+
+> You can take action today.
+
 Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of ISF in New York City, to learn more.
 
-We will discuss your goals and fitness challenges. Find out now how you can get optimal outcomes from your fitness investment.
+We will discuss your goals and fitness challenges. 
+
+Find out now how you can get optimal outcomes from your fitness investment.
