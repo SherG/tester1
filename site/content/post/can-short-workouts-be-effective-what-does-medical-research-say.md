@@ -49,7 +49,9 @@ For an elaboration on this see chapter 5 in [_Body by Science_](https://www.amaz
 
 ![body by science](/img/body-by-science.png "body by science")
 
-The video below features [Dr. McGuff](http://www.drmcguff.com/) — an emergency physician — speaking on strength training for baby boomers.
+For more information, watch this video, [Strength Training for Health and Longevity](https://www.youtube.com/watch?time_continue=12&v=jeFdYy815pQ) by features [Dr. McGuff](http://www.drmcguff.com/).
+
+I also recommend this video by Dr. McGuff, on [The Benefits of Exercise for the Over-40s.](https://www.youtube.com/watch?v=-tn77ntM5sc)
 
 ## High Intensity Training
 
