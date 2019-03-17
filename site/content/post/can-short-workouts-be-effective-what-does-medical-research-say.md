@@ -24,11 +24,9 @@ The most common excuse for not exercising is lack of time.
 
 It is an excuse with which I empathize. After all, it is by the “unforgiving minute” as Kipling put it, that we measure out our lives and the things we value. 
 
-And those that instruct fitness can prove just as busy and riddled with excuses as those of other professions.
-
 > Vitality is a cornerstone of a well-lived life.
 
-We spend a good deal of time sleeping. This is a biological necessity. And we spend an awful lot of time working. That’s why it’s important to find a productive purpose, a career, which we love. Life is severely diminished if all we have to look forward to each week are its weekends.
+We spend a good deal of time sleeping. This is a biological necessity. And we spend an awful lot of time working. 
 
 Is it any wonder that in the sea of values we pursue, some values, such as exercise get drowned out?
 
