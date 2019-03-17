@@ -53,7 +53,7 @@ There are at least two reasons why saying, “I don’t have the time” is an i
 
 It sounds like quackery but one to three 30-minute sessions per week is the only time investment necessary to get the cardiovascular, muscular and bone strengthening benefits that the best exercise provides. 
 
-For an elaboration on this see chapter 5 in <a href="https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/" target="blank">Body by Science</a> by physician Doug McGuff and John Little. 
+For an elaboration on this see chapter 5 in <a href="https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/" target="blank"><em>Body by Science<.em></a> by physician Doug McGuff and John Little. 
 
 ![body by science](/img/body-by-science.png "body by science")
 
