@@ -43,10 +43,22 @@ There are at least two reasons why saying, “I don’t have the time” is an i
 
 ## Medical Science: Short Exercise Sessions Really Do Work
 
-It sounds like quackery but one to three 30-minute sessions per week is truly all the exercise necessary to get the cardiovascular, muscular and bone strengthening benefits exercise provides. 
+It sounds like quackery but one to three 30-minute sessions per week is the only time investment necessary to get the cardiovascular, muscular and bone strengthening benefits that the best exercise provides. 
 
 For an elaboration on this see chapter 5 in [_Body by Science_](https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/) by physician Doug McGuff and John Little. 
 
 The video below features [Dr. McGuff](http://www.drmcguff.com/) — an emergency physician — speaking on strength training for baby boomers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jeFdYy815pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeFdYy815pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p></p>
+
+## High Intensity Training
+
+McGuff promotes HIT -- or "High Intensity Training" -- a particular form of strength training that emphasizes slow movements. 
+
+### Double Your Strength
+
+In an interview with HITuni, a training resource, McGuff said: 
+
+"Most people . . . within 12-20 weeks will expect to easily see their strength double and their body composition will improve markedly and it will seem almost -- compared to other approaches that they may have tried -- it will almost seem too easy to them."
+
+He added, "The results are predictable and come about quickly" and that his clients are "just mindblown."
