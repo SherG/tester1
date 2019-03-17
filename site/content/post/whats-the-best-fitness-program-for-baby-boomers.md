@@ -7,9 +7,12 @@ I remember being fascinated by the <a href="https://en.wikipedia.org/wiki/Age_of
 
 One of the most famous of the Age of Discovery’s quests was the search for the fountain of youth in Florida by Ponce de Leon.
 
+![cantino planisphere](/img/cantino-planisphere.png "cantino planisphere")*A section of the Cantino Planisphere, the earliest known map depicting Portugese discoveries. At upper left is Florida and the east coast of the United States.*<hr>
+
 Although they have yet to find a literal fountain of youth there, many elderly have found it to be an ideal place with which to extend their twilight years through a number of activities, many with a beneficial exercise effect. 
 
 And that is another important relationship between exercise and time. We measure our lives in terms of the span of our years but it’s also the life in our years that is of tremendous value. Herein lies the valuable distinction between our chronological age and our actual age, a distinction made popular by such celebrities as Dr. Oz.
+
 
 Could it be that these septuagenarians have found something that eluded the Spanish conquistador? 
 
