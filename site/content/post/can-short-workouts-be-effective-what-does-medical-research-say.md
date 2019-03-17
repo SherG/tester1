@@ -44,3 +44,5 @@ I know it reads like quackery but that is truly all the exercise necessary to ge
 For an elaboration on this see chapter 5 in [_Body by Science_](https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/) by physician Doug McGuff and John Little. 
 
 The video below features [Dr. McGuff](http://www.drmcguff.com/) — an emergency physician — speaking on strength training for baby boomers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeFdYy815pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
