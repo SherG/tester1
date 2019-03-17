@@ -17,6 +17,8 @@ Whether it’s tennis, golf or swimming, there are a number of ways to create an
 
 And that touches on an important truth about how many, young and old, approach exercise today. If it’s not fun, they won’t stick with it.
 
+![baby boomer fitness](/img/baby-boomer-fitness.png "baby boomer fitness")*Strength training can enable you to continue to excel at and enjoy your favorite activities.*<hr>
+
 ## What's the Most Effective Form of Exercise for Baby Boomers?
 
 The most effective form of exercise for extending life and vitality is **strength training**.
