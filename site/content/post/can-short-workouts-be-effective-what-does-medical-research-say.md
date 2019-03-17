@@ -34,7 +34,7 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 ### Make Time for What's Important
 
-But we need to “make time” for what is important.
+But we need to “make time” for what is important. How do we do this? 
 
 The best way to prioritize fitness is to _**schedule time for working out.**_
 
