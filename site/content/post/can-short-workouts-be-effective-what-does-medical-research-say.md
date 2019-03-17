@@ -69,4 +69,4 @@ Here at Inner Strength Fitness, we also use the same HIT principles and approach
 \
 Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of Inner Strength Fitness in New York City, to learn more.
 
-We will discuss your goals and fitness challenges. Find out this week how you can get optimal outcomes from your fitness investment.
+We will discuss your goals and fitness challenges. Find out now how you can get optimal outcomes from your fitness investment.
