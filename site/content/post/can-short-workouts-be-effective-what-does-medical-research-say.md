@@ -55,7 +55,7 @@ For an elaboration on this see chapter 5 in <a href="https://www.amazon.com/Body
 
 ![body by science](/img/body-by-science.png "body by science")
 
-For more information, watch this video, <a href="https://www.youtube.com/watch?time_continue=12&v=jeFdYy815pQ" target="blank">"Strength Training for Health and Longevity"</a> which features <a href="http://www.drmcguff.com/" target="blank">Doug McGuff, ,MD.
+For information on the medical science behind this approach, watch this video, <a href="https://www.youtube.com/watch?time_continue=12&v=jeFdYy815pQ" target="blank">"Strength Training for Health and Longevity"</a> which features <a href="http://www.drmcguff.com/" target="blank">Doug McGuff, ,MD</a>.
 
 I also recommend this video by McGuff on <a href="https://www.youtube.com/watch?v=-tn77ntM5sc" target="blank">"The Benefits of Exercise for the Over-40s."</a>
 
@@ -67,9 +67,9 @@ McGuff promotes HIT -- or "High Intensity Training" -- a particular form of stre
 
 In an interview with HITuni, a training resource, McGuff said: 
 
-"Most people . . . within 12-20 weeks will expect to easily see their strength double and their body composition will improve markedly and it will seem almost -- compared to other approaches that they may have tried -- it will almost seem too easy to them."
+"Most people . . . within 12-20 weeks will expect to easily see their **strength double** and their **body composition** will improve markedly and it will seem almost -- compared to other approaches that they may have tried -- it will almost seem too easy to them."
 
-He added, "The results are predictable and come about quickly" and that his clients are "just mindblown."
+He added, "The results are predictable and come about quickly" and that his clients are "just **mindblown**."
 
 ## Our Training
 
