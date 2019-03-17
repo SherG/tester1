@@ -47,9 +47,9 @@ It sounds like quackery but one to three 30-minute sessions per week is the only
 
 For an elaboration on this see chapter 5 in [_Body by Science_](https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/) by physician Doug McGuff and John Little. 
 
-The video below features [Dr. McGuff](http://www.drmcguff.com/) — an emergency physician — speaking on strength training for baby boomers.
+![body by science](/img/body-by-science.png "body by science")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jeFdYy815pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p></p>
+The video below features [Dr. McGuff](http://www.drmcguff.com/) — an emergency physician — speaking on strength training for baby boomers.
 
 ## High Intensity Training
 
