@@ -26,7 +26,7 @@ It is an excuse with which I empathize. After all, it is by the “unforgiving m
 
 > Vitality is a cornerstone of a well-lived life.
 
-We spend a good deal of time sleeping. This is a biological necessity. And we spend an awful lot of time working. 
+We spend a good deal of time sleeping. This is a biological necessity. And we spend an awful lot of time working. Our families and friends are priorities.
 
 Is it any wonder that in the sea of values we pursue, some values, such as exercise get drowned out?
 
