@@ -57,7 +57,7 @@ For an elaboration on this see chapter 5 in <a href="https://www.amazon.com/Body
 
 ![body by science](/img/body-by-science.png "body by science")
 
-For information on the medical science behind this approach, watch this video, <a href="https://www.youtube.com/watch?time_continue=12&v=jeFdYy815pQ" target="blank">"Strength Training for Health and Longevity"</a> which features <a href="http://www.drmcguff.com/" target="blank">Doug McGuff, ,MD</a>.
+For information on the medical science behind this approach, watch this video, <a href="https://www.youtube.com/watch?time_continue=12&v=jeFdYy815pQ" target="blank">"Strength Training for Health and Longevity"</a> which features <a href="http://www.drmcguff.com/" target="blank">Doug McGuff, MD</a>.
 
 I also recommend this video by McGuff on <a href="https://www.youtube.com/watch?v=-tn77ntM5sc" target="blank">"The Benefits of Exercise for the Over-40s."</a>
 
