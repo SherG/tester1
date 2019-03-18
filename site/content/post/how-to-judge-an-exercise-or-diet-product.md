@@ -64,8 +64,10 @@ I encourage you to take advantage of the many learning opportunities Dr. McGuff 
 
 ### Bookmark This Blog
 
-I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core concerns of baby boomers and seniors.
+I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core fitness and wellness concerns of baby boomers and seniors.
 
-Where warranted, I provide references to medical doctors and other fitness experts who are serving this population. There's a wealth of valuable information available on how to take an efficient and effective approach to optimal health and wellness. 
+Where warranted, I provide references to medical doctors and other fitness experts who are serving this population. 
+
+There's a wealth of valuable information available on how to take an efficient and effective approach to optimal health and wellness. 
 
 It's my pleasure to be of service to you in this way.
