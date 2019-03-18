@@ -121,7 +121,7 @@ For those who want to examine the science underlying these claims, I refer you t
 
 In the first half of that excellent resource, Dr. Sullivan meticulously lays out the science regarding the comprehensive health benefits of resistance training.
 
-In the video below, Dr. Jonathon Sullivan, MD, PhD, explains the various health benefits of resistance training.
+I also recommend <a href="https://youtu.be/X3Q1SBT2S8s" target="blank">this video</a>, in which Jonathon Sullivan, MD, PhD, explains the various health benefits of resistance training.
 
 ### Is There a Case for Aerobic Exercise?
 
