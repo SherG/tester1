@@ -59,7 +59,7 @@ I encourage you to take advantage of the many learning opportunities Dr. McGuff 
 
 * Explore <a href="http://www.drmcguff.com" target="blank">his website</a>, which includes eye-opening <a href="http://www.drmcguff.com/learn/" target="blank">blog posts</a>
 * Purchase and read his book <a href="https://www.amazon.com/gp/product/0071597174" target="blank">_Body by Science: A Research Based Program for Strength Training, Body building, and Complete Fitness in 12 Minutes a Week_</a>
-* Explore the many interviews he's done online.
+* Explore the many interviews he's done online, like this one on <a href="https://thequantifiedbody.net/ep-10-time-efficient-workouts-optimizing-workout-performance-doug-mcguff/" target="blank">Time-Efficient Workouts</a> and this one on <a href="https://www.hituni.com/health-and-fitness/doug-mcguff-md-talks-fitness-hit-40s#.XI7h5hNKiRs" target="blank">fitness after you hit your 40s</a>.
 
 ### Bookmark This Blog
 
