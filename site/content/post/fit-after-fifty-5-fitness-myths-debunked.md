@@ -69,7 +69,7 @@ But these neurological improvements can only drive strength adaptations so far. 
 Just as the tensile strength of a rope or cable increases in proportion to increases in its cross sectional area so to does the strength of a muscle increase as it grows larger, through an increase in the cross sectional area of its fibers.
 
 ![resistance training](/img/resistance-training.png "resistance training")
-*Resistance training provides a remarkable array of health benefits.*<hr>
+_Resistance training provides a remarkable array of health benefits._<hr>
 
 ### How Does Resistance Training Work?
 
@@ -179,7 +179,11 @@ Women need to have strong muscles just as much as men and perhaps more so.
 
 #### Combating Osteoporosis
 
-I say perhaps more so because of the increased risk that women run of suffering from osteoporosis. Only resistance training will measurably increase the mineral density of your bones and help prevent osteoporosis.
+I say perhaps more so because of the increased risk that women run of suffering from osteoporosis. 
+
+Only resistance training will measurably increase the mineral density of your bones and help prevent osteoporosis.
+
+![prevent osteoporosis](/img/how-to-prevent-osteoporosis.png "prevent osteoporosis") *Strength training is a critical part of building bone mineral density.*<hr>
 
 #### Addressing Hormonal-Related Weight Fluctuation
 
