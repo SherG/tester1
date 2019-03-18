@@ -33,23 +33,23 @@ Without these controls, we are just left with opinion.
 
 ### PubMed: Research on Exercise
 
-_PubMed_ is an excellent online resource for those who are interested in what science has to say about various exercise programs, exercise movements, diets or supplements. But your interest must extend beyond just reading the study’s abstract. That just gives you the headline and most bear details of the study, much like a media report would. 
+_PubMed_ is an excellent online resource for those who are interested in what science has to say about various exercise programs, exercise movements, diets or supplements. 
 
 In order to understand whether the study was done well, you have to delve beyond the headline and conclusion, paying particular attention to the study’s methodology or the “how” of how the scientists arrived at their results.
 
-When you look at whole studies you get an appreciation for how painstakingly scientists qualify what they claim to know or have proven. They will tell you that they only studied college age men for example and that further study needs to be done to both replicate and extend their results. 
+When you look at whole studies you get an appreciation for how painstakingly scientists qualify what they claim to know or have proven. They may state, for example, that further study needs to be done to both replicate and extend their results. 
 
 That is the beauty of science: it doesn’t pretend to know what it doesn’t know. We would all do well to do the same for our own beliefs.
 
 ### Who Has Time for Reading Research?
 
-But realistically, most of the population don't have the time (or inclination) to pore over research reports. These reports can be boring and difficult to understand.
+Realistically, most of the population don't have the time (or inclination) to pore over research reports. These reports can be boring and difficult to understand.
 
 The next best thing is to follow health and fitness experts who _do_ follow the research,  know what works, and who can relay key information in everyday language. 
 
 ## Experts on Baby Boomer Fitness
 
-One of the best ways to start building your fitness knowledge is to follow the work of respected physicians who are experts on fitness for those in their 40s and beyond.
+One of the best ways to start building your fitness knowledge is to follow the work of respected physicians who are excellent communicators and experts on fitness for those in their 40s and beyond.
 
 ### Doug McGuff, M.D.
 
@@ -57,7 +57,7 @@ One such leader is Dr. Doug McGuff, an emergency physician who co-authored the b
 
 I encourage you to take advantage of the many learning opportunities Dr. McGuff provides online. 
 
-* Explore his website, which includes eye-opening blog posts
+* Explore <a href="http://www.drmcguff.com" target="blank">his website</a>, which includes eye-opening <a href="http://www.drmcguff.com/learn/" target="blank">blog posts</a>
 * Purchase and read his book <a href="https://www.amazon.com/gp/product/0071597174" target="blank">_Body by Science: A Research Based Program for Strength Training, Body building, and Complete Fitness in 12 Minutes a Week_</a>
 * Explore the many interviews he's done online.
 
