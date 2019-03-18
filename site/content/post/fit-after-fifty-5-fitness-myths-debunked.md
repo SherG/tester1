@@ -226,6 +226,8 @@ This myth is particularly destructive regarding women.
 
 It’s not uncommon for women to wonder: “Will strength training make me bulky?” or “Will strength training make me bigger?”
 
+> Only resistance training will measurably increase the mineral density of your bones and help prevent osteoporosis.
+
 Many women I’ve encountered through my fitness consulting business have expressed a fear of developing larger muscles because they fear becoming unfeminine in appearance. 
 
 It’s true that a woman’s proportions can get bigger if she adds muscle without losing body fat at the same time through a calorically restricted diet. 
@@ -244,7 +246,7 @@ Women need to have strong muscles just as much as men and perhaps more so.
 
 #### Combating Osteoporosis
 
-I say perhaps more so because of the increased risk that women run of suffering from osteoporosis. 
+I say perhaps more so because of the increased risk that women have of suffering from osteoporosis. 
 
 Only resistance training will measurably increase the mineral density of your bones and help prevent osteoporosis.
 
