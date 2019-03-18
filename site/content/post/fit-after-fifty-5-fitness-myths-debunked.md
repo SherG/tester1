@@ -206,4 +206,6 @@ They see results because they work hard and eat moderate portions of healthy foo
 
 ![francisco villalobos](/img/francisco-villalobos.png "francisco villalobos")
 
-Have questions about strength training? Book a <a href="https://calendly.com/isfny/15min?back=1" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness in east midtown Manhattan. Let's discuss your health and fitness goals.
+Have questions about strength training? Book a <a href="https://calendly.com/isfny/15min?back=1" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness in east midtown Manhattan. 
+
+Let's discuss your health and fitness goals.
