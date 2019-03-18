@@ -204,4 +204,6 @@ Most of my clients don’t know anything about creatine, exotic protein powders 
 
 They see results because they work hard and eat moderate portions of healthy foods.
 
+![francisco villalobos](/img/francisco-villalobos.png "francisco villalobos")
+
 Have questions about strength training? Book a phone appointment with me, Francisco Villalobos, owner of Inner Strength Fitness in east midtown Manhattan. Let's discuss your health and fitness goals.
