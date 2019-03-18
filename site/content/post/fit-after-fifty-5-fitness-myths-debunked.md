@@ -107,23 +107,35 @@ This can be achieved only if the brain perceives the demands of the exercise to 
 
 What does all this have to do with so called “aerobic” exercise?  Well, because it involves muscular contraction which, by its nature, the body can endure over long periods of time, aerobic exercise does not impose the required demands to elicit strength increases in the muscles and muscular growth, unless we are dealing with a severely untrained individual.
 
+> Aerobic exercise doesn't distinguish between burning fat or muscle.
+
 Without the signal elicited by such demands, the brain does not perceive the need to invest the metabolic resources necessary to synthesize and maintain muscle tissue, a pound of muscle tissue burning an average of 35-75 calories per hour (as opposed to the 2 calories per hour used by a pound of fat cells).
 
-The adaptation that aerobic exercise creates, causes your body to become more efficient at burning calories. But, this form of exercise doesn't distinguish between burning fat or muscle.
+The adaptation that aerobic exercise creates, causes your body to become more efficient at burning calories.
+
+ But, this form of exercise doesn't distinguish between burning fat or muscle.
 
 That is why those who lose weight through aerobic exercise or through a combination of aerobic exercise and diet end up becoming merely thinner versions of their formerly fatter selves.
 
 ### An Aerobic Shortfall: Muscle-to-Fat Ratio
 
-These individuals don’t become leaner. Why?  Because they have lost muscle along with fat . Their body’s muscle to fat ratio remains largely unchanged. That’s a pyrrhic victory indeed. 
+These individuals don’t become leaner. Why?  Because they have lost muscle along with fat. 
 
-Only properly planned resistance training has the power to force most of a person’s weight loss to come from fat and not from precious muscle.
+Their body’s muscle to fat ratio remains largely unchanged. That’s a pyrrhic victory indeed. 
+
+**Only properly planned resistance training has the power to force most of a person’s weight loss to come from fat and not from precious muscle**.
 
 My last point regarding the myth of “aerobic” exercise is that to the extent that it works to create adaptations in the body, whether they be in how you look or in your cardiovascular system, it is because most forms of “aerobic” exercise have some exercise effect. 
 
-They impose some demand on your body’s musculature, especially in those individuals who are extremely sedentary, and whose muscles are severely untrained. This last point is crucial, for the only way to force a healthful adaptation in your cardiovascular system is through muscular exertion. After all, the cardiovascular system exists to support the functioning of the musculoskeletal system, not the other way around.
+They impose some demand on your body’s musculature, especially in those individuals who are extremely sedentary, and whose muscles are severely untrained. 
 
-Locomotion is our fundamental physical means of survival and it is essential that we preserve our capacity to move throughout our lives. I’ve read scores of case histories of individuals who have suffered a major injury to their hip, severely delimiting their capacity to move. More often than not, they waste away within a year or two.
+This last point is crucial, for the only way to force a healthful adaptation in your cardiovascular system is through muscular exertion. 
+
+After all, the cardiovascular system exists to support the functioning of the musculoskeletal system, not the other way around.
+
+Locomotion is our fundamental physical means of survival and it is essential that we preserve our capacity to move throughout our lives.
+
+I’ve read scores of case histories of individuals who have suffered a major injury to their hip, severely delimiting their capacity to move. More often than not, they waste away within a year or two.
 
 ### The Comprehensive Health Benefits of Resistance Training
 
