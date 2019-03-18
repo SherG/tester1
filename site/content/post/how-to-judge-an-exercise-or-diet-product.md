@@ -62,7 +62,7 @@ That's why I recommend that you follow health and fitness experts who:
 
 ## Quality Information on Baby Boomer Fitness
 
-One of the best ways to start building your fitness knowledge is to follow the work of respected physicians who are excellent communicators and experts on fitness for those in their 40s and beyond.
+One of the best ways to start building your fitness knowledge is to follow the work of **respected physicians** who are experts on fitness after your 40s.
 
 ### Doug McGuff, M.D.
 
