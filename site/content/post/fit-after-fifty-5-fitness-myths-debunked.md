@@ -191,3 +191,17 @@ The last myth I want to dispose of is that you won’t get anywhere with your tr
 From what he told me and from what little I saw regarding his performance of certain exercises, it became clear to me that his lack of progress was due to factors far more fundamental than that having to do with whether he was taking the right supplements.
 
 This young man was exercising six days a week, twice a day, ninety minutes each session. He was running his body into the ground by training too much and not allowing his body sufficient time with which to recuperate from the stress of exercise. And his concern was which supplements to take. His sense of priority was entirely misplaced.
+
+### Food: Your Source for Nutrients
+
+All of my experience with exercise and nutrition has not altered my fundamental conviction that all that your body requires to grow stronger and become fitter can be found in your local supermarket. 
+
+It’s called food.
+
+### Baby Boomers Can Leave Creatine on the Shelf
+
+Most of my clients don’t know anything about creatine, exotic protein powders enriched with glutamine, HMB, HGH, etc. More importantly, they don’t care.
+
+They see results because they work hard and eat moderate portions of healthy foods.
+
+Have questions about strength training? Book a phone appointment with me, Francisco Villalobos, owner of Inner Strength Fitness in east midtown Manhattan. Let's discuss your health and fitness goals.
