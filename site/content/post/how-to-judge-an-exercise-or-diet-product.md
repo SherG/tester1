@@ -11,11 +11,15 @@ This leads to the question: How can one judge the effectiveness of fitness or di
 
 That’s a huge subject that can’t be handled adequately here. In the space of this short article, however, I would like to address the most common error people make regarding fitness and diet claims. 
 
+> Follow the work of respected physicians who are experts in baby boomer fitness.
+
 If there is only one caveat you should pay attention to let it be this: anecdotal evidence is neither proof of causation nor correlation.
 
 ## Diet and Fitness Success Stories
 
-Take claims of “miraculous” and “effortless” fat loss for instance. Given that a pound of fat represents 3,500 calories of stored energy, how realistic is it that any one of us can lose more then 2-3 pounds of fat per week? 
+Take claims of “miraculous” and “effortless” fat loss for instance. 
+
+Given that a pound of fat represents 3,500 calories of stored energy, how realistic is it that any one of us can lose more then 2-3 pounds of fat per week? 
 
 And yet many products  are marketed as helping users lose much more than this.
 
@@ -27,6 +31,8 @@ A properly examined fitness or diet product will have numerous scienctific studi
 
 I say numerous because even good scientists can get it wrong. Being able to replicate another scientist’s results is a crucial check on their objectivity.
 
+> Choose a fitness approach backed by science.
+
 Scientific studies will control for a number of variables that may affect the results of an exercise program, diet or supplement. 
 
 Without these controls, we are just left with opinion. 
@@ -35,19 +41,26 @@ Without these controls, we are just left with opinion.
 
 _PubMed_ is an excellent online resource for those who are interested in what science has to say about various exercise programs, exercise movements, diets or supplements. 
 
-In order to understand whether the study was done well, you have to delve beyond the headline and conclusion, paying particular attention to the study’s methodology or the “how” of how the scientists arrived at their results.
+In order to understand whether the study was done well, you have to delve beyond the headline and conclusion, paying particular attention to the study’s methodology.
 
 When you look at whole studies you get an appreciation for how painstakingly scientists qualify what they claim to know or have proven. They may state, for example, that further study needs to be done to both replicate and extend their results. 
 
-That is the beauty of science: it doesn’t pretend to know what it doesn’t know. We would all do well to do the same for our own beliefs.
+That is the beauty of science: it doesn’t pretend to know what it doesn’t know. 
+
+We would all do well to do the same for our own beliefs.
 
 ### Who Has Time for Reading Research?
 
 Realistically, most of the population don't have the time (or inclination) to pore over research reports. These reports can be boring and difficult to understand.
 
-The next best thing is to follow health and fitness experts who _do_ follow the research,  know what works, and who can relay key information in everyday language. 
+That's why I recommend that you follow health and fitness experts who:
 
-## Experts on Baby Boomer Fitness
+* Follow the research
+* Know what works
+* Can provide you with the very best information in everyday language
+* Can make actionable recommendations to optimize your fitness
+
+## Quality Information on Baby Boomer Fitness
 
 One of the best ways to start building your fitness knowledge is to follow the work of respected physicians who are excellent communicators and experts on fitness for those in their 40s and beyond.
 
