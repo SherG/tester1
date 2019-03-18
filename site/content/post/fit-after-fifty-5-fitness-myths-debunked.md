@@ -48,19 +48,27 @@ Therefore, the maxim offered in the old Susan Powter infomercials to the effect 
 
 ### Recreation and Social Benefits
 
-The foregoing should not be taken as a disparagement of steady state exercise or sports related activity. These activities, which we can collectively label as "recreational," can be fun to engage in and some, like sports and exercise classes, have a social element to them that can serve as an important value
+The foregoing should not be taken as a disparagement of steady state exercise or sports related activity. 
+
+These activities, which we can collectively label as "recreational," can be fun to engage in and some, like sports and exercise classes, have a social element to them that can serve as an important value
 
 ![baby boomer jogging](/img/baby-boomer-jogging.png "baby boomer jogging")_Running and other forms of aerobic exercise can provide social, recreational, and emotional rewards._<hr>
 
 ### The Limits of Aerobic Workouts
 
-Some sorts of recreation can have a greater exercise effect then others because of the demands those activities impose on the body’s musculature. Wrestling is definitely more demanding than golf and sprinting is likewise more demanding than a casual jog.
+Some sorts of recreation can have a greater exercise effect then others because of the demands those activities impose on the body’s musculature. 
+
+Wrestling is more demanding than golf. Sprinting is more demanding than a casual jog.
 
 But although recreational activities like these may be fun and have varying levels of exercise effect, they are not an effective form of exercise for fundamentally transforming one’s body and physical health for the better.
 
 ### The Importance of Strength and Resistance Training
 
-The most fundamental physiological adaptation one can derive from exercise is strength — the capacity to express force against an external resistance. The reason for this is that, evolutionarily speaking, our capacity for locomotion (movement) is second only to our capacity to reason in importance in terms of insuring our survival and flourishing. And only intelligently planned resistance training of the major muscles can bring about that adaptation.
+The most fundamental physiological adaptation one can derive from exercise is **strength** — the capacity to express force against an external resistance. 
+
+The reason for this is that, evolutionarily speaking, our capacity for locomotion (movement) is second only to our capacity to reason in importance in terms of insuring our survival and flourishing. 
+
+Only intelligently planned resistance training of the major muscles can bring about that adaptation.
 
 ### Why is Resistance Training So Important?
 
@@ -70,11 +78,13 @@ When this happens, the muscles send a message to the brain, letting it know that
 
 The brain interprets this data as a threat to survival and it responds by issuing commands that would make it possible for the whole of you—your musculoskeletal and cardiovascular system together—to surmount the current challenge should it ever present itself again.
 
-The brain might order an improvement in the neural communication between it and your muscles. This is normally what happens during the early stages of your strength training, or when you perform an exercise or movement your body is unaccustomed to. 
+The brain might order an improvement in the neural communication between it and your muscles. 
+
+This is normally what happens during the early stages of your strength training, or when you perform an exercise or movement your body is unaccustomed to. 
 
 The sum effect of these neurological adaptations is that the muscles become stronger without becoming larger.
 
-But these neurological improvements can only drive strength adaptations so far. After a certain point, the brain may order that new muscle be made and that is a process call hypertrophy.
+But these neurological improvements can only drive strength adaptations so far. After a certain point, the brain may order that new muscle be made and that is a process call **hypertrophy**.
 
 Just as the tensile strength of a rope or cable increases in proportion to increases in its cross sectional area so to does the strength of a muscle increase as it grows larger, through an increase in the cross sectional area of its fibers.
 
@@ -83,7 +93,7 @@ _Resistance training provides a remarkable array of health benefits._<hr>
 
 ### How Does Resistance Training Work?
 
-The foregoing adaptations caused by resistance exercise follow what is called the S.A.I.D. principle, short for Specific Adaptation to Imposed Demands. 
+The foregoing adaptations caused by resistance exercise follow what is called the <a href="https://en.wikipedia.org/wiki/SAID_principle" target="blank">S.A.I.D. principle</a>, short for Specific Adaptation to Imposed Demands. 
 
 Only certain demands on the body will elicit certain responses. Moderate exposure to the sun will create a tan, but too much sun will create sunburn.
 
