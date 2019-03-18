@@ -84,7 +84,9 @@ You can even book a phone appointment with Dr. McGuff to discuss your fitness co
 
 ### Bookmark This Blog
 
-I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core fitness and wellness concerns of baby boomers and seniors.
+I encourage you to bookmark this blog. 
+
+I'll continue to share curated information that speaks to the core fitness and wellness concerns of baby boomers and seniors.
 
 Where warranted, I provide references to medical doctors and other fitness experts who are serving this population. 
 
