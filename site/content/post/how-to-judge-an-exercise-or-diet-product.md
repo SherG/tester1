@@ -3,7 +3,7 @@ title: How to Judge an Exercise or Diet Product
 date: 2019-03-17T23:27:14.396Z
 description: >-
   With all the fitness ideas and products targeted to baby boomers how do you
-  determine which ones are credibl?
+  determine which ones are credible?
 ---
 In my last article I was  critical of the use of before and after photos as a method for proving the effectiveness of fitness and diet products/services. 
 
