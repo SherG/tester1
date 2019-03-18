@@ -24,9 +24,19 @@ If so, ask yourself the following:
 
 Most people who exercise do so to lose fat, i.e., to look better. They may believe that exercise helps them burn a great number of calories but they are mistaken.
 
-Exercise, especially moderate to low intensity endurance activities like jogging, walking, or riding a bike burns few calories. Given that there are 3,500 calories in a pound of fat, most of you would have to run for 14 hours at a moderate pace to lose one pound of fat. Even if you divide that commitment over six days, that would be over two hours of running each day. How many of us have that much free time to waste?  
+Exercise, especially moderate to low intensity endurance activities like jogging, walking, or riding a bike burns few calories. 
 
-Aside from the time investment required, how many of us would be willing to bear the risk of repetitive stress injuries to your knees, shins, feet and hips. And this is assuming you don’t have to run through a bad neighborhood and run the added risk of getting mugged. Then again, the threat of getting mugged might make you run faster and burn more calories!  I’ll let you ponder whether that would be a good trade off.
+Given that there are 3,500 calories in a pound of fat, most of you would have to run for 14 hours at a moderate pace to lose one pound of fat. 
+
+Even if you divide that commitment over six days, that would be over two hours of running each day. How many of us have that much free time to waste?  
+
+Aside from the time investment required, how many of us would be willing to bear the risk of repetitive stress injuries to your knees, shins, feet and hips? 
+
+#### Safety Risks of Jogging
+
+We note that jogging can also put both men and women at risk of being mugged or assaulted.
+
+A search of Google News for "jogger" usually returns multiple crime incidents.
 
 ### Aerobic vs. Anaerobic:  Debunking Misconceptions
 
@@ -185,7 +195,7 @@ Only resistance training will measurably increase the mineral density of your bo
 
 ![prevent osteoporosis](/img/how-to-prevent-osteoporosis.png "prevent osteoporosis")
 
-*Strength training is a critical part of building bone mineral density.*<hr>
+_Strength training is a critical part of building bone mineral density._<hr>
 
 #### Addressing Hormonal-Related Weight Fluctuation
 
