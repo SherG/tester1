@@ -173,6 +173,7 @@ You can do aerobic activities such as a dance class, cardio-kickboxing, step aer
 
 Just don’t deceive yourself into thinking that these activities will radically transform your body.
 
+
 A friend and recent resistance training convert who had formerly devoted herself exclusively to steady state exercise related the following story to me:
 
 "_So many of the women I take class with say ‘I take step, kickboxing, dance class, run, etc. and I still look the same.’  They may lose a few pounds but they don’t look lean. I get approached all the time and they ask me for my secret and I tell them the classes are for fun. The key to transforming your body is strength training, a well-balanced diet and the dedication to making these part of your lifestyle_."
@@ -192,6 +193,8 @@ Over time, as you become significantly stronger, you will need to devote more ti
 But at the outset of your resistance training journey if you train three times per week that is ninety minutes invested in training out of the 168 hours that makes up the week. 
 
 Not a significant time investment considering all the benefits.
+
+![baby boomers recreation](/img/baby-boomers-recreation.png "baby boomers recreation")*Strength training can enable you to enjoy an active lifestyle.*
 
 ## Myth #3: Your muscles will turn into fat if you stop working out or take an extended break
 
