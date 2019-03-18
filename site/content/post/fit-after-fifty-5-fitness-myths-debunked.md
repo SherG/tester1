@@ -153,7 +153,7 @@ It will:
 
 ### Recognized by Medical Doctors
 
-For those who want to examine the science underlying these claims, I refer you to <a href="https://www.amazon.com/Barbell-Prescription-Strength-Training-After-ebook/dp/B06Y4LXFCK/" target="blank"><em>The Barbell Prescription: Strength Training for Life After 40</em></a> by Dr. Andrew Sullivan and Andy Baker. 
+For those who want to examine the science underlying these claims, I refer you to <a href="https://www.amazon.com/Barbell-Prescription-Strength-Training-After-ebook/dp/B06Y4LXFCK/" target="blank"><em>_The Barbell Prescription: Strength Training for Life After 40_</em></a> by Dr. Andrew Sullivan and Andy Baker. 
 
 In the first half of that excellent resource, Dr. Sullivan meticulously lays out the science regarding the comprehensive health benefits of resistance training.
 
@@ -161,7 +161,11 @@ I also recommend <a href="https://youtu.be/X3Q1SBT2S8s" target="blank">this vide
 
 ### Is There a Case for Aerobic Exercise?
 
-However, I don’t want to leave you with the impression that I think aerobic activities should be unconditionally avoided. You can do aerobic activities such as a dance class, cardio-kickboxing, step aerobics, running, bicycling, etc. if you derive some fun from these activities. Just don’t deceive yourself into thinking that these activities will radically transform your body.
+However, I don’t want to leave you with the impression that I think aerobic activities should be unconditionally avoided. 
+
+You can do aerobic activities such as a dance class, cardio-kickboxing, step aerobics, running, bicycling, etc. if you derive some fun from these activities. 
+
+Just don’t deceive yourself into thinking that these activities will radically transform your body.
 
 A friend and recent resistance training convert who had formerly devoted herself exclusively to steady state exercise related the following story to me:
 
