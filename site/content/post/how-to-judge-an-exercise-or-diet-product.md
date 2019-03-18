@@ -43,11 +43,25 @@ That is the beauty of science: it doesn’t pretend to know what it doesn’t kn
 
 ### Who Has Time for Reading Research?
 
-But realistically, most of the population don't have the time (or inclination) to pore over research reports. They can be boring and difficult to understand. 
+But realistically, most of the population don't have the time (or inclination) to pore over research reports. These reports can be boring and difficult to understand.
 
-The next best thing is to follow health and fitness experts who do follow the research,  know what works, and who can relay key information in everyday language. 
+The next best thing is to follow health and fitness experts who _do_ follow the research,  know what works, and who can relay key information in everyday language. 
 
-## Health and Fitness Tips for Boomers
+## Experts on Baby Boomer Fitness
+
+One of the best ways to start building your fitness knowledge is to follow the work of respected physicians who are experts on fitness for those in their 40s and beyond.
+
+### Doug McGuff, M.D.
+
+One such leader is Dr. Doug McGuff, an emergency physician who co-authored the best-seller _Body by Science_ and owns his own fitness studio -- called <a href="http://www.drmcguff.com/train/" target="blank">Ultimate Fitness</a> -- in Seneca, South Carolina. 
+
+I encourage you to take advantage of the many learning opportunities Dr. McGuff provides online. 
+
+* Explore his website, which includes eye-opening blog posts
+* Purchase and read his book <a href="https://www.amazon.com/gp/product/0071597174" target="blank">_Body by Science: A Research Based Program for Strength Training, Body building, and Complete Fitness in 12 Minutes a Week_</a>
+* Explore the many interviews he's done online.
+
+### Bookmark This Blog
 
 I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core concerns of individuals in their 50s, 60s, 70s, and even beyond.
 
