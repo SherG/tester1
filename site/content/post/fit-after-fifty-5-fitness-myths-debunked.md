@@ -117,7 +117,7 @@ It will:
 
 ### Recognized by Medical Doctors
 
-For those who want to examine the science underlying these claims, I refer you to The Barbell Prescription: Strength Training for Life After 40 by Dr. Andrew Sullivan and Andy Baker. 
+For those who want to examine the science underlying these claims, I refer you to <a href="https://www.amazon.com/Barbell-Prescription-Strength-Training-After-ebook/dp/B06Y4LXFCK/" target="blank"><em>The Barbell Prescription: Strength Training for Life After 40</em></a> by Dr. Andrew Sullivan and Andy Baker. 
 
 In the first half of that excellent resource, Dr. Sullivan meticulously lays out the science supporting my foregoing claims regarding the comprehensive health benefits of resistance training.
 
