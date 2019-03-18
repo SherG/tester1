@@ -75,6 +75,8 @@ I encourage you to take advantage of the many learning opportunities Dr. McGuff 
 * Explore the many interviews he's done online, like this one on <a href="https://thequantifiedbody.net/ep-10-time-efficient-workouts-optimizing-workout-performance-doug-mcguff/" target="blank">time-efficient workouts</a> and this one on <a href="https://www.hituni.com/health-and-fitness/doug-mcguff-md-talks-fitness-hit-40s#.XI7h5hNKiRs" target="blank">fitness after you hit your 40s</a>.
 * Watch his presentation on <a href="https://www.youtube.com/watch?v=jeFdYy815pQ&t=12s" target="blank">Strength Training for Health and Longevity</a>.
 
+#### The Doctor Is In
+
 You can even book a phone appointment with Dr. McGuff to discuss your fitness concerns. These appointments are booked <a href="http://www.drmcguff.com/" target="blank">via his website</a> and currently available at the following rates: 
 
 * Thirty-minute appointment ($150)
