@@ -64,7 +64,7 @@ I encourage you to take advantage of the many learning opportunities Dr. McGuff 
 
 ### Bookmark This Blog
 
-I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core concerns of individuals in their 50s, 60s, 70s, and even beyond.
+I encourage you to bookmark this blog. I'll be continuing to share curated information that speaks to the core concerns of baby boomers and seniors.
 
 Where warranted, I provide references to medical doctors and other fitness experts who are serving this population. There's a wealth of valuable information available on how to take an efficient and effective approach to optimal health and wellness. 
 
