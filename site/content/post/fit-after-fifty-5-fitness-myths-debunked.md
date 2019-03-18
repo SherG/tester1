@@ -183,7 +183,9 @@ I say perhaps more so because of the increased risk that women run of suffering 
 
 Only resistance training will measurably increase the mineral density of your bones and help prevent osteoporosis.
 
-![prevent osteoporosis](/img/how-to-prevent-osteoporosis.png "prevent osteoporosis") *Strength training is a critical part of building bone mineral density.*<hr>
+![prevent osteoporosis](/img/how-to-prevent-osteoporosis.png "prevent osteoporosis")
+
+*Strength training is a critical part of building bone mineral density.*<hr>
 
 #### Addressing Hormonal-Related Weight Fluctuation
 
