@@ -1,5 +1,5 @@
 ---
-title: What You Can Do Now to Get Motivated With Your Fitness Goals
+title: How You Can Get Motivated With Your Fitness Goals
 date: 2019-03-18T02:52:55.081Z
 description: 'Focus on what you want to attain, not just what you want to avoid.'
 ---
@@ -11,9 +11,11 @@ I was flattered and I believed in the book so I prepared diligently for the phot
 
 ![francisco villalobos mma](/img/francisco-villalobos-mma-2005.png "francisco villalobos mma") _A younger version of me, May 2005._<hr>
 
-## Focus on What You're Moving Towards
+## Focus on What You're Moving _Towards_
 
 I share this because the moment I decided to lose some fat after my recent vacation and back operation, I knew that I would be most motivated by a positive image of what I wanted to move towards, even if my goal was not the same destination.  
+
+### My Goals Have Changed
 
 Now, almost thirteen years later, my fitness goal is no longer to be a lean as I can possibly be.  It's to fit my waistline more comfortably in my suits, while continuing to build strength and develop as a Brazilian Jiu-Jitsu practitioner.  
 
