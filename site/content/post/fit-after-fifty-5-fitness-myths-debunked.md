@@ -24,6 +24,8 @@ If so, ask yourself the following:
 
 Most people who exercise do so to lose fat, i.e., to look better. They may believe that exercise helps them burn a great number of calories but they are mistaken.
 
+> Aerobic exercise will not radically transform your body and health.
+
 Exercise, especially moderate to low intensity endurance activities like jogging, walking, or riding a bike burns few calories. 
 
 Given that there are 3,500 calories in a pound of fat, most of you would have to run for 14 hours at a moderate pace to lose one pound of fat. 
@@ -34,9 +36,9 @@ Aside from the time investment required, how many of us would be willing to bear
 
 #### Safety Risks of Jogging
 
-We note that jogging can also put both men and women at risk of being mugged or assaulted.
+Jogging can also put both men and women at risk of being mugged or assaulted.
 
-A search of Google News for "jogger" usually returns multiple crime incidents.
+Sadly, a search of Google News for "jogger" usually returns multiple crime incidents.
 
 ### Aerobic vs. Anaerobic:  Debunking Misconceptions
 
@@ -60,7 +62,7 @@ Some sorts of recreation can have a greater exercise effect then others because 
 
 Wrestling is more demanding than golf. Sprinting is more demanding than a casual jog.
 
-But although recreational activities like these may be fun and have varying levels of exercise effect, they are not an effective form of exercise for fundamentally transforming one’s body and physical health for the better.
+But although recreational activities like these may be fun and have varying levels of exercise effect, they are **not an effective form of exercise for fundamentally transforming one’s body and physical health for the better**.
 
 ### The Importance of Strength and Resistance Training
 
@@ -73,6 +75,8 @@ Only intelligently planned resistance training of the major muscles can bring ab
 ### Why is Resistance Training So Important?
 
 When you engage in resistance training, the muscles you are exercising, along with the connective tissue and bones that affect movement, are challenged. 
+
+> Resistance training has the power to force most of a person’s weight loss to come from fat, not muscle.
 
 When this happens, the muscles send a message to the brain, letting it know that continued locomotion is threatened.
 
@@ -105,7 +109,9 @@ This can be achieved only if the brain perceives the demands of the exercise to 
 
 ### Why Strength Training is Superior to Aerobic Exercise
 
-What does all this have to do with so called “aerobic” exercise?  Well, because it involves muscular contraction which, by its nature, the body can endure over long periods of time, aerobic exercise does not impose the required demands to elicit strength increases in the muscles and muscular growth, unless we are dealing with a severely untrained individual.
+What does all this have to do with so called “aerobic” exercise?  
+
+Well, because it involves muscular contraction which, by its nature, the body can endure over long periods of time, aerobic exercise does not impose the required demands to elicit strength increases in the muscles and muscular growth, unless we are dealing with a severely untrained individual.
 
 > Aerobic exercise doesn't distinguish between burning fat or muscle.
 
@@ -169,7 +175,7 @@ Just don’t deceive yourself into thinking that these activities will radically
 
 A friend and recent resistance training convert who had formerly devoted herself exclusively to steady state exercise related the following story to me:
 
-"So many of the women I take class with say ‘I take step, kickboxing, dance class, run, etc. and I still look the same.’  They may lose a few pounds but they don’t look lean. I get approached all the time and they ask me for my secret and I tell them the classes are for fun. The key to transforming your body is strength training, a well-balanced diet and the dedication to making these part of your lifestyle."
+"_So many of the women I take class with say ‘I take step, kickboxing, dance class, run, etc. and I still look the same.’  They may lose a few pounds but they don’t look lean. I get approached all the time and they ask me for my secret and I tell them the classes are for fun. The key to transforming your body is strength training, a well-balanced diet and the dedication to making these part of your lifestyle_."
 
 ## Myth #2: Strength training will require you to spend hours in the gym
 
