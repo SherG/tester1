@@ -40,6 +40,8 @@ Therefore, the maxim offered in the old Susan Powter infomercials to the effect 
 
 The foregoing should not be taken as a disparagement of steady state exercise or sports related activity. These activities, which we can collectively label as "recreational," can be fun to engage in and some, like sports and exercise classes, have a social element to them that can serve as an important value
 
+![baby boomer jogging](/img/baby-boomer-jogging.png "baby boomer jogging")*Running and other forms of aerobic exercise can provide social, recreational, and emotional rewards.*<hr>
+
 ### The Limits of Aerobic Workouts
 
 Some sorts of recreation can have a greater exercise effect then others because of the demands those activities impose on the body’s musculature. Wrestling is definitely more demanding than golf and sprinting is likewise more demanding than a casual jog.
