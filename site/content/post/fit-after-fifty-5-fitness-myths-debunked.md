@@ -40,7 +40,7 @@ Therefore, the maxim offered in the old Susan Powter infomercials to the effect 
 
 The foregoing should not be taken as a disparagement of steady state exercise or sports related activity. These activities, which we can collectively label as "recreational," can be fun to engage in and some, like sports and exercise classes, have a social element to them that can serve as an important value
 
-![baby boomer jogging](/img/baby-boomer-jogging.png "baby boomer jogging")*Running and other forms of aerobic exercise can provide social, recreational, and emotional rewards.*<hr>
+![baby boomer jogging](/img/baby-boomer-jogging.png "baby boomer jogging")_Running and other forms of aerobic exercise can provide social, recreational, and emotional rewards._<hr>
 
 ### The Limits of Aerobic Workouts
 
@@ -67,6 +67,9 @@ The sum effect of these neurological adaptations is that the muscles become stro
 But these neurological improvements can only drive strength adaptations so far. After a certain point, the brain may order that new muscle be made and that is a process call hypertrophy.
 
 Just as the tensile strength of a rope or cable increases in proportion to increases in its cross sectional area so to does the strength of a muscle increase as it grows larger, through an increase in the cross sectional area of its fibers.
+
+![resistance training](/img/resistance-training.png "resistance training")
+*Resistance training provides a remarkable array of health benefits.*<hr>
 
 ### How Does Resistance Training Work?
 
