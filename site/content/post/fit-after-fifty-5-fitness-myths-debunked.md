@@ -173,23 +173,32 @@ A friend and recent resistance training convert who had formerly devoted herself
 
 ## Myth #2: Strength training will require you to spend hours in the gym
 
-The number one excuse most give for not commiting to an exercise regimen is lack of time. Frankly, given how important being strong is to your health and overall quality of life, I don’t see how more people aren’t willing to make the time. A casual perusal of most people’s day will find quite a bit of time wasted on Facebook scrolling or television binge watching.
+The number one excuse most give for not committing to an exercise regimen is lack of time. 
+
+But being strong is foundational to your health and overall quality of life.
 
 ### A 30-Minute Commitment
 
 Properly done, the average strength training session should take no longer than thirty minutes per session.
 
-Over time, as you become significantly stronger, you will need to devote more time to training in order to continue driving progress. But at the outset of your resistance training journey if you train three times per week that is ninety minutes invested in training out of the 168 hours that makes up the week. Not a significant time investment considering all the benefits.
+Over time, as you become significantly stronger, you will need to devote more time to training in order to continue driving progress. 
+
+But at the outset of your resistance training journey if you train three times per week that is ninety minutes invested in training out of the 168 hours that makes up the week. 
+
+Not a significant time investment considering all the benefits.
 
 ## Myth #3: Your muscles will turn into fat if you stop working out or take an extended break
 
 The truth is that muscle is muscle and fat is fat. Their composition is radically different.
 
-Muscle is 71% water, 22% proteins, and 7% lipids. Fat is 22% water, 6% proteins, and 72% lipids.
+* Muscle is 71% water, 22% proteins, and 7% lipids. 
+* Fat is 22% water, 6% proteins, and 72% lipids.
 
-A person can lose strength and possibly muscle mass after a layoff of 4 weeks or more. It takes some time for the body to let go of tissue that has resulted from such a large metabolic investment. 
+A person can lose strength and possibly muscle mass after a layoff of 4 weeks or more. 
 
-Still, it is equally true that it is a lot easier for someone coming back from a long layoff to rebuild muscle then it is for an individual who has never worked out before.
+It takes some time for the body to let go of tissue that has resulted from such a large metabolic investment. 
+
+Still, it is equally true that it is a lot easier for someone coming back from a long layoff to rebuild muscle than it is for an individual who has never worked out before.
 
 ## Myth #4: Strength training will make me look like a huge muscle-bound bodybuilder.
 
@@ -197,7 +206,13 @@ For reasons concerning the genetics most of us are dealt, this is not a concern 
 
 The Arnold Schwarzeneggers of this world are literally one in a million, genetically speaking. 
 
-Calorically, muscle is an expensive tissue to build and maintain. The body will not build muscle unless we force it, kicking and screaming, to do so. So for anyone who has a concern about becoming too muscular, the solution would be to refrain from getting any stronger then you already are. The vast majority of us will never encounter this problem.
+Calorically, muscle is an expensive tissue to build and maintain. 
+
+The body will not build muscle unless we force it, kicking and screaming, to do so. 
+
+So for anyone who has a concern about becoming too muscular, the solution would be to refrain from getting any stronger then you already are. 
+
+The vast majority of us will never encounter this problem.
 
 ### Answering the Concerns of Women
 
@@ -207,9 +222,13 @@ It’s not uncommon for women to wonder: “Will strength training make me bulky
 
 Many women I’ve encountered through my fitness consulting business have expressed a fear of developing larger muscles because they fear becoming unfeminine in appearance. 
 
-It’s true that a woman’s proportions can get bigger if she adds muscle without losing body fat at the same time through a calorically restricted diet. But what worries me is that in response to this fear, they may refrain from working out with weights, at least weights of any appreciable magnitude.
+It’s true that a woman’s proportions can get bigger if she adds muscle without losing body fat at the same time through a calorically restricted diet. 
 
-They plow away countless hours in boot camp classes or on the treadmill. Perhaps, worst of all, they starve themselves. They may end up becoming thinner versions of their formerly fatter selves, but they will never become truly fit and strong.
+But what worries me is that in response to this fear, they may refrain from working out with weights, at least weights of any appreciable magnitude.
+
+They plow away countless hours in boot camp classes or on the treadmill. Perhaps, worst of all, they starve themselves. 
+
+They may end up becoming thinner versions of their formerly fatter selves, but they will never become truly fit and strong.
 
 One needs to focus on working against an appreciable amount of resistance in order to make one’s muscles stronger and the rest of our body fitter.
 
