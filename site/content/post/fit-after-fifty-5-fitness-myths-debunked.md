@@ -254,13 +254,19 @@ This can only be ameliorated by making your muscles stronger and larger.
 
 ## Myth #5: Health Supplements Are a Necessity
 
-The last myth I want to dispose of is that you won’t get anywhere with your training efforts without the benefit of supplements. This myth reminds me of a fellow who approached me about supplement-related advice. When I asked him about his training, he couldn’t really give me definite answers because he hadn’t bothered to keep a record of what he had done in the gym.
+The last myth I want to dispose of is that you won’t get anywhere with your training efforts without the benefit of supplements. 
+
+This myth reminds me of a fellow who approached me about supplement-related advice. 
+
+When I asked him about his training, he couldn’t really give me definite answers because he hadn’t bothered to keep a record of what he had done in the gym.
 
 ### Sidetracked From Results
 
 From what he told me and from what little I saw regarding his performance of certain exercises, it became clear to me that his lack of progress was due to factors far more fundamental than that having to do with whether he was taking the right supplements.
 
-This young man was exercising six days a week, twice a day, ninety minutes each session. He was running his body into the ground by training too much and not allowing his body sufficient time with which to recuperate from the stress of exercise. And his concern was which supplements to take. His sense of priority was entirely misplaced.
+This young man was exercising six days a week, twice a day, ninety minutes each session. 
+
+He was running his body into the ground by training too much and not allowing his body sufficient time with which to recuperate from the stress of exercise. And his concern was which supplements to take. His sense of priority was entirely misplaced.
 
 ### Food: Your Source for Nutrients
 
