@@ -97,11 +97,15 @@ The foregoing adaptations caused by resistance exercise follow what is called th
 
 Only certain demands on the body will elicit certain responses. Moderate exposure to the sun will create a tan, but too much sun will create sunburn.
 
-The stress of exercise must be challenging enough to get the body to adapt, either neurologically or by making the muscles larger. This can be achieved only if the brain perceives the demands of the exercise to be such that they threaten the individual’s capacity to move and hence his survival.
+#### The Role of Your Brain
+
+The stress of exercise must be challenging enough to get the body to adapt, either neurologically or by making the muscles larger. 
+
+This can be achieved only if the brain perceives the demands of the exercise to be such that they threaten the individual’s capacity to move and hence his survival.
 
 ### Why Strength Training is Superior to Aerobic Exercise
 
-What does all this have to do with so called “aerobic” exercise?  Well, because it involves muscular contraction which, by its nature, the body can endure over long periods of time, steady state exercise does not impose the required demands to elicit strength increases in the muscles and muscular growth, unless we are dealing with a severely untrained individual.
+What does all this have to do with so called “aerobic” exercise?  Well, because it involves muscular contraction which, by its nature, the body can endure over long periods of time, aerobic exercise does not impose the required demands to elicit strength increases in the muscles and muscular growth, unless we are dealing with a severely untrained individual.
 
 Without the signal elicited by such demands, the brain does not perceive the need to invest the metabolic resources necessary to synthesize and maintain muscle tissue, a pound of muscle tissue burning an average of 35-75 calories per hour (as opposed to the 2 calories per hour used by a pound of fat cells).
 
