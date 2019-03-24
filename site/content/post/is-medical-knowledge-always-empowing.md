@@ -1,7 +1,7 @@
 ---
 title: Is Medical Knowledge Always Empowing?
 date: 2019-03-24T01:55:13.498Z
-description: A new study sheds light on how lab tests affect patients' perceptions.
+description: 'New study sheds light on how lab tests affect patient''s perceptions '
 ---
 Given the current popularity and ubiquity of tests like those provided by companies like [23andMe](https://www.23andme.com/) I thought it worthwhile to share the results of this scientific study.
 
