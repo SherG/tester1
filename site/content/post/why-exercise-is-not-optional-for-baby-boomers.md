@@ -21,6 +21,8 @@ What is even more interesting for the purposes of this article is that a similar
 
 Now we have concrete evidence of at least one genetic factor involved in how muscular (and lean) some of us have the potential to become. 
 
+![flex wheeler](/img/flex-wheeler-bodybuilding-belgian-blue.png "flex wheeler")
+
 When we see the words “results may vary” in muscle magazine supplement ads, we can now understand what a colossal understatement that is!
 
 Many may take this to be a cause for depression or an excuse for inactivity.  After all, if becoming muscular and lean is in our genes, what could we do? Should we bother to exercise at all?  
