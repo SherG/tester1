@@ -1,6 +1,6 @@
 ---
 title: Narratives Regarding Lower Back Pain
-date: 2019-03-24T02:21:37.556Z
+date: 2019-03-22T02:21:37.556Z
 description: >-
   Successfully treating your lower back pain requires a multi-factorial approach
   and checking your premises.
