@@ -1,10 +1,10 @@
 ---
 title: The Health Benefits of Smart Strength Training
 date: 2019-03-24T05:43:01.899Z
-description: The Health Benefits of Smart Strength Training
+description: >-
+  Strength training provides the best return on investment for your health care
+  investment dollar.
 ---
-Strength training provides the best return on investment for your health care investment dollar. 
-
 With the right strength training regimen, you can obtain the following health benefits with just two 30-45 minute sessions per week:
 
 * Improved cardiovascular health
