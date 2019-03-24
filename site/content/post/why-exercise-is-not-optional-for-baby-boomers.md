@@ -2,14 +2,18 @@
 title: Why Exercise is Not Optional for Baby Boomers
 date: 2019-03-24T04:48:06.428Z
 description: >-
-  I would like to start where most who write about exercise for popular
-  magazines will not start — with a discussion of our genetic limitations.
+  Exercise is not important. It is essential. You should treat it like a Fitness
+  401k that will pay dividends down the road.
 ---
+I'm going to start where most who write about exercise for popular magazines will not start — with a discussion of our genetic limitations.
+
 The best place to start this discussion is with the recent discovery of the myostatin deletion and the Belgian Blues.
 
 ## What We Can Learn About Exercise From Belgian Blue Cattle
 
 Often, advances in one science come from discoveries made in other fields.  So it is in this case that involves the discovery of a key genetic factor influencing muscular potential. 
+
+> Becoming stronger is about projecting how we feel about ourselves.
 
 Scientists in agriculture have discovered a genetic factor which has profound implications for the field of exercise science.  This is the story of the Belgian Blue cows.
 
@@ -43,7 +47,7 @@ I agree, with Francis Bacon that “nature to be commanded must be obeyed.”  J
 
 ## Becoming Strong: It's More Than Just a Physical Transformation
 
-In this article I will focus on the imperative to alter our physical selves, specifically by making ourselves stronger.  
+I will focus on the imperative to alter our physical selves, specifically by making ourselves stronger.  
 
 The transformation made possible by becoming stronger is not merely physical.
 
@@ -52,13 +56,13 @@ Becoming stronger is about projecting how we feel about ourselves — projecting
 Applying the knowledge and discipline it takes to exercise correctly is about externalizing our spiritual selves — it's about projecting our ideals outward.
 
 ![baby boomer workout](/img/baby-boomer-workout.png "baby boomer workout")
- *The best time to start is always now. You'll be surprised by what you are capable of.*<hr>
+ _The best time to start is always now. You'll be surprised by what you are capable of._<hr>
 
 ### Beware of Fitness Fairy Tales and Bias
 
-Fitness magazines are trying to sell you a dream  — the dream of a well-muscled, chiseled physique via supplementation.  They have become mere supplement catalogs with hackneyed exercise advice thrown in as filler. 
+Fitness magazines are trying to sell you a dream  — the dream of a well-muscled, chiseled physique via supplementation. They have become mere supplement catalogs with hackneyed exercise advice thrown in as filler. 
 
-Whatever the supplement of the month may be — exotic protein powders, creatine, HMB, growth hormone, testosterone, bull semen, etc. — the idea is the same.  They are selling the idea that your exercise goals can be reached effortlessly if you invest in and consume enough of this stuff.
+Whatever the supplement of the month may be — exotic protein powders, creatine, HMB, growth hormone, testosterone, bull semen, etc. — the idea is the same. They are selling the idea that your exercise goals can be reached effortlessly if you invest in and consume enough of this stuff.
 
 This can never be the case, for there is no effect without a cause and the most fundamental cause of radical physical improvement is hard work, performed consistently.  That’s right, it takes hard work to create the body of your dreams but I doubt that comes as a surprise to my dear, discerning reader.
 
