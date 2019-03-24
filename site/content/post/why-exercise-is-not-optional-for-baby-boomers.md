@@ -21,7 +21,9 @@ What is even more interesting for the purposes of this article is that a similar
 
 Now we have concrete evidence of at least one genetic factor involved in how muscular (and lean) some of us have the potential to become. 
 
-![flex wheeler](/img/flex-wheeler-bodybuilding-belgian-blue.png "flex wheeler")
+![flex wheeler](/img/flex-wheeler-bodybuilding-belgian-blue.png "flex wheeler") 
+
+_Champion bodybuilder Flex Wheeler and a Belgian Blue bull. We know that genetics plays a role in muscle development, both in humans and animals._<hr>
 
 When we see the words “results may vary” in muscle magazine supplement ads, we can now understand what a colossal understatement that is!
 
@@ -48,6 +50,9 @@ The transformation made possible by becoming stronger is not merely physical.
 Becoming stronger is about projecting how we feel about ourselves — projecting the heroic sense of life within each of us through the shape and functional capabilities of our bodies.  
 
 Applying the knowledge and discipline it takes to exercise correctly is about externalizing our spiritual selves — it's about projecting our ideals outward.
+
+![baby boomer workout](/img/baby-boomer-workout.png "baby boomer workout")
+ *The best time to start is always now. You'll be surprised by what you are capable of.*<hr>
 
 ### Beware of Fitness Fairy Tales and Bias
 
