@@ -13,7 +13,7 @@ Why ask human beings to mimic projectiles in their exercise programs?  I’m goi
 
 ![plyometrics](/img/plyometrics.png "plyomtetrics") _Is this was your workout feels like?_ <hr>
 
-Trainers, and indeed many athletes, are educated to believe that you need to move fast if you are going to be fast. 
+Trainers, and indeed many athletes, are educated to believe that you need to move fast if you are going to be fast. This is sometimes referred to as "explosive power."
 
 They learn that power, or the ability to produce mechanical work over a span of time, is developed by recruiting your nervous system in a certain way and that this requires ballistic movement.
 
@@ -34,6 +34,7 @@ Let’s say you kept the distance you need to move the same, say 1 ft., and the 
 What would happen if you just focused on increasing the amount of force you generate?
 
 Remember that: 
+
 ```
 Force = mass * acceleration.  
 ```
