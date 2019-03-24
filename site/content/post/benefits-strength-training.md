@@ -17,7 +17,7 @@ With the right strength training regimen, you can obtain the following health be
 * Boosted energy and strength during pregnancy
 * Accelerated metabolic rate
 * Fat loss, not just weight loss
-* … and much more
+* and much more
 
 Find out how today.
 
