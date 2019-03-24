@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 logo: /img/inner-strength-fitness-nyc-logo.jpg
 contact_entries:
   - heading: Main Location
