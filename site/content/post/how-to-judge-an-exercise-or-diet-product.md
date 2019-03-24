@@ -1,6 +1,6 @@
 ---
 title: How to Judge an Exercise or Diet Product
-date: 2019-03-17T23:27:14.396Z
+date: 2018-06-08T23:27:14.396Z
 description: >-
   With all the fitness ideas and products targeted to baby boomers how do you
   determine which ones are credible?
