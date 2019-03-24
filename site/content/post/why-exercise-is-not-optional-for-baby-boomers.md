@@ -74,3 +74,57 @@ Their training advice simply does not apply to the average trainee. Nor does the
 If you want to know how to change any important fitness parameter for the better—whether its strength, muscularity, leanness — its best to look at a methodology that works with people of average genetic endowment and whose efforts are not aided by pharmaceutical means.
 
 ## Why exercise is not an optional value
+
+Exercise is not important.  It is essential. Most people, however, do not realize this, because the time factor of the cause-effect relationship between lack of exercise and the resulting severe decline in functional ability is so great. 
+
+To further elaborate on this point, Arthur Jones, the inventor of Nautilus exercise equipment,  once used the following example during a Nautilus seminar:
+
+"If I were to grab you by the throat, and choke off your air supply, it would immediately become apparent to you that oxygen is absolutely essential for life.  If I were to lock you in a room with no water, after several hours, the degree of thirst you would experience would indicate to you that water is a requirement for life.  If I were to lock you in that room with water, but no food, it would take a little longer, a matter of a couple of days, before you would be ravenously hungry, and there would be no question in your mind that food was absolutely essential for life.  However, it often takes years before one’s body begins to show the harm done by a lack of proper exercise."
+
+### How to Prevent Loss of Muscle Mass
+
+If nothing is done to prevent it, we gradually lose muscle tissue as we age, becoming weaker, and less flexible as a result. Loss of muscle mass due to aging is called sarcopenia.
+
+There are several problems associated with this, the most obvious being a decrease in metabolism resulting in increased body fat, which is a primary risk factor for heart disease and several other serious conditions such as diabetes. 
+
+Not so obvious though, are the effects of a lack of exercise on one’s bones. Let's take a look at osteoporosis then at preventions for both sarcopenia and osteoporosis.
+
+### Osteoporosis: How to Reduce Your Risk
+
+We often hear about elderly people falling and breaking their hips, an injury which often turns out to be fatal.  It is often assumed that these people break their hips as a result of having fallen. In a large number of cases, however, the opposite is true: they suffer a fall because their hip breaks.  
+
+
+
+Each year, an average of 80,000 men suffer a hip fracture and one-third of these men die within a year. The cause: osteoporosis.
+
+
+
+Osteoporosis, or porous bone, is a disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist. 
+
+
+
+In the U.S. today, over 10 million individuals already have osteoporosis and 18 million more have low bone mass, placing them at increased risk for this disease.  
+
+
+
+What can be done about it? Exercise. What kind of exercise? Strength training is the only safe and productive means of effectively addressing this disease. Some studies have shown increases in bone density as high as 1% per week with strength training.
+
+
+
+I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context.  Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
+
+
+
+Even Michael Pollock, PhD, a former member of Kenneth Cooper's Aerobics Clinic, and past president of the American College of Sports Medicine said "\[A]ll the aerobics activity and interest promoted within the fitness industry since the late 1960's has not fostered any long-term vascular health. Instead, it has caused an epidemic of joint and spine injury.”
+
+
+
+While properly performed strength training can be of tremendous potential benefit to anyone who performs it, one would be far worse off performing activities such as aerobics, plyometrics, and various ballistic training protocols, than if they had never exercised at all.  
+
+
+
+Not only are these activities not an effective means of stimulating any meaningful improvements in any factor of functional ability, they are downright dangerous. Often, the injuries and degenerative joint conditions which result from such activities will force a person to become much less active earlier in life, and/or prevent them from being able to properly strength train, accelerating their loss of muscular strength and functional ability.
+
+
+
+ If as a result of such activities one's mobility begins to decrease earlier in life, then that activity has effectively shortened that person's lifespan. Loss of mobility is the first step towards loss of all other factors of functional ability, and eventually death.
