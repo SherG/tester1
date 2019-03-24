@@ -9,9 +9,13 @@ With my mother, my grandmother raised me so I regarded her as my second mother. 
 
 ![francisco villalobos](/img/francisco-villalobos.jpg "francisco villalobos")
 
-*That's me on the left, with my grandmother.*<hr>
+_That's me on the left, with my grandmother._<hr>
 
-When she broke her hip two years before she died, I tried in vain to persuade her to exercise and become stronger. Instead, she became increasingly fearful of walking and sedentary. Despite having fought diabetes for decades, the end came quickly and inexorably thereafter. We are designed to move and when she stopped moving, she began dying. 
+When she broke her hip two years before she died, I tried in vain to persuade her to exercise and become stronger. 
+
+Instead, she became increasingly fearful of walking and sedentary. Despite having fought diabetes for decades, the end came quickly and inexorably thereafter. We are designed to move and when she stopped moving, she began dying. 
+
+> Anyone over 50 should have a proactive fitness plan.
 
 Not a day goes by that I don’t think of her in some way. It was sad to see her joyful spirit extinguished by the inertia of stillness. But mixed with the sadness of these memories are the joys I’ve known in helping countless individuals achieve a level of vitality, independence and buffer from injury that amazed them and me.
 
