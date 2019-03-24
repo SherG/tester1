@@ -21,6 +21,26 @@ With the right strength training regimen, you can obtain the following health be
 
 Find out how today.
 
-<div class="tc">
-	<button type="button" 
-class="btn w-100 w-auto-ns raise"><a href="https://calendly.com/isfny/15min?back=1" target="blank">Book a free phone appointment with Francisco</a></button></div>
+Book a [free phone appointment](https://calendly.com/isfny/15min?back=1) with Francisco Villalobos.
+
+## What Do Our Clients Say?
+
+We're proud of our client testimonials like these:
+
+### "no more chiropractor visits"
+
+“Francisco helped transition my body from an average 40-something to the strength I had when I was in college.
+
+He motivated me and pushed me to obtain results I never thought were possible at my age. Before meeting Francisco I would have monthly visits to the chiropractor.
+
+After two months with Francisco, no more chiropractor visits.
+
+ I have not felt this glued together in over twenty years. I really looked forward to my Saturday morning workouts. I would begin to mentally prepare myself on Thursday for the 30 intense minutes on Saturday. I 100% endorse Francisco as a Personal Trainer and a trusted professional.”
+ \
+— _Mark Evangelist_
+
+### "Excellent"
+
+“Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs.”
+
+ —_Architect John Gillis_
