@@ -33,7 +33,9 @@ In some cases only surgery will resolve the symptoms you feel.  But in many case
 
 \
 \
-Few exercises do this as effectively as a properly performed barbell deadlift but I have helped alleviate LBP in myself and clients with the MedX Lumber Extension machine (pictured above, center) as well.
+Few exercises do this as effectively as a properly performed barbell deadlift.
+
+However, I have helped alleviate LBP in myself and clients with the **MedX Lumber Extension machine** (pictured above) as well.
 
 > In many cases, lower back pain can be treated and managed by strengthening the muscles that support the lumbar spine.  
 
