@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: /img/isf-logo.png
+logo: /img/logo.svg
 contact_entries:
   - heading: Main Location
     text: |-
