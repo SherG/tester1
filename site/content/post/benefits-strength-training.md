@@ -1,5 +1,5 @@
 ---
-title: Benefits Strength Training
+title: The Health Benefits of Smart Strength Training
 date: 2019-03-24T05:43:01.899Z
 description: The Health Benefits of Smart Strength Training
 ---
