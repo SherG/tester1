@@ -7,13 +7,13 @@ description: >-
   care and support, all while their adult children need a helping hand to start
   their independent lives.
 ---
-In some cases, adult children are moving back home as they deal with job loss or ongoing fallout from the Great Recession that began in 2008.
+In some cases, [adult children are moving back home](https://www.wsj.com/articles/i-was-hoping-to-be-retired-the-cost-of-supporting-parents-and-adult-children-1542381023) as they deal with job loss or ongoing fallout from the Great Recession that began in 2008.
 
 Many boomers themselves are still digging out from the impact of the recession and their own job, portfolio, or other losses.
 
 ## The Sandwich Generation: Stressed Out and Squeezed at Both Ends
 
-Half of all Americans in their 60s are providing financial support to either a parent or an adult child, and 1.2 million boomers are supporting both, according to Pew Research. 
+Half of all Americans in their 60s are providing financial support to either a parent or an adult child, and 1.2 million boomers are supporting both, [according to Pew Research](http://www.pewsocialtrends.org/2013/01/30/the-sandwich-generation/). 
 
 Such responsibilities are taking a toll, with boomers delaying retirement, experiencing significant stress, and facing a hit to their quality of life. 
 
@@ -42,8 +42,6 @@ Another client simply wanted to reach canned goods in her cupboards and carry gr
 Still another simply wanted to be strong enough to continue smashing the ball in her tennis matches.
 
 ![thriving in retirement](/img/thriving-in-retirement.png "thriving in retirement")
-
-
 
 Whether you actively practice a sport or not, dealing intelligently with the advances of aging makes everyone over 50 a "Masters Athlete." 
 
