@@ -93,38 +93,52 @@ Not so obvious though, are the effects of a lack of exercise on one’s bones. L
 
 We often hear about elderly people falling and breaking their hips, an injury which often turns out to be fatal.  It is often assumed that these people break their hips as a result of having fallen. In a large number of cases, however, the opposite is true: they suffer a fall because their hip breaks.  
 
-
-
 Each year, an average of 80,000 men suffer a hip fracture and one-third of these men die within a year. The cause: osteoporosis.
-
-
 
 Osteoporosis, or porous bone, is a disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist. 
 
-
-
 In the U.S. today, over 10 million individuals already have osteoporosis and 18 million more have low bone mass, placing them at increased risk for this disease.  
-
-
 
 What can be done about it? Exercise. What kind of exercise? Strength training is the only safe and productive means of effectively addressing this disease. Some studies have shown increases in bone density as high as 1% per week with strength training.
 
-
-
 I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context.  Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
-
-
 
 Even Michael Pollock, PhD, a former member of Kenneth Cooper's Aerobics Clinic, and past president of the American College of Sports Medicine said "\[A]ll the aerobics activity and interest promoted within the fitness industry since the late 1960's has not fostered any long-term vascular health. Instead, it has caused an epidemic of joint and spine injury.”
 
-
-
 While properly performed strength training can be of tremendous potential benefit to anyone who performs it, one would be far worse off performing activities such as aerobics, plyometrics, and various ballistic training protocols, than if they had never exercised at all.  
-
-
 
 Not only are these activities not an effective means of stimulating any meaningful improvements in any factor of functional ability, they are downright dangerous. Often, the injuries and degenerative joint conditions which result from such activities will force a person to become much less active earlier in life, and/or prevent them from being able to properly strength train, accelerating their loss of muscular strength and functional ability.
 
+If as a result of such activities one's mobility begins to decrease earlier in life, then that activity has effectively shortened that person's lifespan. Loss of mobility is the first step towards loss of all other factors of functional ability, and eventually death.
 
+### Start Now
 
- If as a result of such activities one's mobility begins to decrease earlier in life, then that activity has effectively shortened that person's lifespan. Loss of mobility is the first step towards loss of all other factors of functional ability, and eventually death.
+There are many people out there who do not exercise, because there is always something else to do, or they can't or won't think much further ahead than the immediate present.  
+
+They rationalize for this by saying things like, "I would, but I just don't have the time" or, "but I can't afford a personal trainer/gym membership/home gym." This is unfortunate.
+
+As I stated earlier, the amount of training time necessary to dramatically improve one’s physical condition is far less than what most people have been led to believe, ninety minutes a week.
+
+### Invest in a Fitness 401k
+
+Can't afford it? The cost of not exercising can be far greater than a lifetime of the most expensive strength coaching.  
+
+Heart surgeries can cost well over $200,000, and one must often spend as much as $5000 per year on medication afterwards for the rest of their life. 
+
+ If, due to lack of exercise, your mobility prematurely decreases to the point where you can't care for yourself, you may end up spending over $3000 per month for the last 5 to 10 years of your life wasting away in a nursing home.
+
+So, would you rather spend $500 per year on a gym membership and make the effort to stay in shape? Or end up spending upwards of $30,000 per year (or wasting taxpayer’s money) to stay in a nursing home and have somebody else dress, feed, and bathe you because you're too weak to do so yourself.  Frankly, you can't afford not to exercise
+
+### Mobility and Thriving
+
+The most important thing a person has, second to their ability to reason, is their ability to move. 
+
+ If you can't move, you can't do anything but lie there and wait to die. If you value your life, then proper exercise should be one of your highest priorities. 
+
+Regarding your muscles and the functional vitality they make possible, the stark choice confronting each of us is: "Use it or lose it."
+
+## You Can Start Today
+
+Feel free to [book a phone appointment](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of Inner Strength Fitness. 
+
+There's no charge. I'd love to discuss your fitness goals and the Inner Strength Fitness program with you.
