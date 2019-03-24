@@ -152,11 +152,15 @@ As I stated earlier, the amount of training time necessary to dramatically impro
 
 Can't afford it? The cost of not exercising can be far greater than a lifetime of the most expensive strength coaching.  
 
+#### The Cost of Not Acting
+
 Heart surgeries can cost well over $200,000, and one must often spend as much as $5000 per year on medication afterwards for the rest of their life. 
 
- If, due to lack of exercise, your mobility prematurely decreases to the point where you can't care for yourself, you may end up spending over $3000 per month for the last 5 to 10 years of your life wasting away in a nursing home.
+ If, due to lack of exercise, your mobility prematurely decreases to the point where you can't care for yourself, you may end up spending over $3,000 per month for the last 5 to 10 years of your life wasting away in a nursing home.
 
-So, would you rather spend $500 per year on a gym membership and make the effort to stay in shape? Or end up spending upwards of $30,000 per year (or wasting taxpayer’s money) to stay in a nursing home and have somebody else dress, feed, and bathe you because you're too weak to do so yourself.  Frankly, you can't afford not to exercise
+So, would you rather spend $500 per year on a gym membership and make the effort to stay in shape? Or end up spending upwards of $30,000 per year (or wasting taxpayer’s money) to stay in a nursing home and have somebody else dress, feed, and bathe you because you're too weak to do so yourself.  
+
+Frankly, you can't afford not to exercise
 
 ### Mobility and Thriving
 
