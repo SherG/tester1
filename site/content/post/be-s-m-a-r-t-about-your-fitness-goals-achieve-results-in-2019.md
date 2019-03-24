@@ -32,9 +32,7 @@ I could have said to myself that I wanted to "become less fluffy" or "lose weigh
 
 > You want your body to express the vitality you feel within.
 
-Setting targets and measuring progress lets you know you are heading in the right direction. \
-\
-I used to geek out on taking body fat % measurements.  But I have found that the most precise fat % measurement, a[ DEXA scan](https://www.dexafit.com/services/dexa-scan/), is expensive and is not sufficiently motivating to me to be worth the expense.
+Setting targets and measuring progress lets you know you are heading in the right direction. 
 
 #### Tools to Track Progress
 
@@ -45,11 +43,13 @@ For the purposes of generally tracking progress I would recommend using:
 * Bioelectrical impedance scale.  
 
 ![fat caliper](/img/fat-caliper.png "fat caliper")
-*A fat caliper is a simple device for measuring fat and tracking fat loss. You can purchase one on Amazon for under $10.*<hr>
+_A fat caliper is a simple device for measuring fat and tracking fat loss. You can purchase one on Amazon for under $10._<hr>
 
 #### No Need to Overdo Measurements
 
-Sure, these methods of assessing body fat percentage are not as precise as a DEXA scan. But they are precise enough to allow you to assess a general trend. That should suffice.  
+I used to geek out on taking body fat measurements.  But I have found that the most precise fat percentage measurement, a[ DEXA scan](https://www.dexafit.com/services/dexa-scan/), is expensive and not necessary.\
+\
+Sure, the methods I recommended above of assessing body fat percentage are not as precise as a DEXA scan. But they are precise enough to allow you to assess a general trend. That should suffice.  
 
 In the final analysis, who cares if you are carrying 15.2% body fat versus 9.8%.  What matters is that you are healthy, happy living inside your body and comfortable in your clothes.  
 
