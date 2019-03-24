@@ -11,6 +11,8 @@ Why is that? After all, I thought ballistics was the science that studied the be
 
 Why ask human beings to mimic projectiles in their exercise programs?  I’m going to be pollyanna for a moment and assume the best rationale.
 
+![plyometrics](/img/plyometrics.png "plyomtetrics")* Is this was your workout feels like?*<hr>
+
 Trainers, and indeed many athletes, are educated to believe that you need to move fast if you are going to be fast. 
 
 They learn that power, or the ability to produce mechanical work over a span of time, is developed by recruiting your nervous system in a certain way and that this requires ballistic movement.
@@ -43,8 +45,8 @@ So what would happen if you focus on developing the ability to generate more for
 
 You guessed it, you would develop the ability to generate greater power.  
 
-
 It’s straightforward when seen as the equation: 
+
 ```
 power = mass * acceleration * distance/time
 ```
