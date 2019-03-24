@@ -1,6 +1,6 @@
 ---
-title: How You Can Get Motivated With Your Fitness Goals
-date: 2019-03-18T02:52:55.081Z
+title: What You Can Do Now to Get Motivated With Your Fitness Goals
+date: 2019-01-19T03:52:55.081Z
 description: 'Focus on what you want to attain, not just what you want to avoid.'
 ---
 The picture below was taken on May 11, 2005, almost thirteen years ago.  
