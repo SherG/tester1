@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/private-gym-nyc.png
+image: /img/private-gym-nyc.webp
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
