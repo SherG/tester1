@@ -1,6 +1,6 @@
 ---
 title: 'Fit After Fifty: 5 Fitness Myths Debunked'
-date: 2019-03-18T00:43:21.262Z
+date: 2018-09-07T00:43:21.262Z
 description: >
   Like you, I'm a baby boomer. We want to thrive in the coming decades, and that
   means committing to the most effective and efficient physical fitness program.
