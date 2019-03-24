@@ -1,6 +1,6 @@
 ---
 title: Why Fitness Before and After Photos Can Be Misleading
-date: 2019-03-17T22:58:30.684Z
+date: 2018-06-01T22:58:30.684Z
 description: 'Not all before and after weight loss and workout photos are credible. '
 ---
 Look at the amazing transformation below. 
