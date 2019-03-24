@@ -2,11 +2,9 @@
 title: Why Exercise is Not Optional for Baby Boomers
 date: 2019-03-24T04:48:06.428Z
 description: >-
-  Exercise is not important. It is essential. You should treat it like a Fitness
-  401k that will pay dividends down the road.
+  I'm going to start where most who write about exercise for popular magazines
+  will not start — with a discussion of our genetic limitations.
 ---
-I'm going to start where most who write about exercise for popular magazines will not start — with a discussion of our genetic limitations.
-
 The best place to start this discussion is with the recent discovery of the myostatin deletion and the Belgian Blues.
 
 ## What We Can Learn About Exercise From Belgian Blue Cattle
