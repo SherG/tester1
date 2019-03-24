@@ -47,6 +47,6 @@ Whether you actively practice a sport or not, dealing intelligently with the adv
 
 My clientele are composed exclusively of such athletes and I regard the fact that I’ve improved the quality of each of their lives as one of my crowning achievements as a strength coach.
 
-If you find yourself struggling with the groceries, stairs, stowing carry-on in an overhead compartment or would just like to see yourself playing a sport or attacking each day with greater vigor, book a phone appointment with me. 
+If you find yourself struggling with the groceries, stairs, stowing carry-on in an overhead compartment or would just like to see yourself playing a sport or attacking each day with greater vigor,[ book a phone appointment with me.](https://calendly.com/isfny/15min?back=1) 
 
 I look forward to discussing your goals and the Inner Strength Fitness program with you.
