@@ -17,7 +17,12 @@ In the same way that more expensive, high-tech interventions (like surgery) ofte
 
 And given that clinical testing is an imperfect science with risk for false positives and false negatives, individuals should be very careful in pushing for, or ordering for themselves, tests which may not be clinically necessary in order to guide treatment decisions.
 
-## Recommended Reading 
+### Recommended Reading:
 
 [How People Actually Behave When They Know Their Genetic Risks](https://onezero.medium.com/should-you-get-a-genetic-test-on-your-health-risks-2cd27f7bcbf3)\
-Neuroscientist Erman Misirlisoy explores "how people behave once they gain knowledge about their genetic predispositions."  Misirlisoy cites the same study referenced in this article. He notes: "Positive expectations can shift us into a productive mindset, and negative expectations can make us pessimistic about our health, fitness, and self-control."
+\
+Neuroscientist Erman Misirlisoy explores "how people behave once they gain knowledge about their genetic predispositions."  
+
+The author cites the same study referenced in this article. 
+
+He notes: "Positive expectations can shift us into a productive mindset, and negative expectations can make us pessimistic about our health, fitness, and self-control."
