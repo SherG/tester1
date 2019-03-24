@@ -33,9 +33,13 @@ We're proud of our client testimonials like these:
 
 He motivated me and pushed me to obtain results I never thought were possible at my age. Before meeting Francisco I would have monthly visits to the chiropractor.
 
-After two months with Francisco, no more chiropractor visits.
+> After two months with Francisco, no more chiropractor visits.
 
- I have not felt this glued together in over twenty years. I really looked forward to my Saturday morning workouts. I would begin to mentally prepare myself on Thursday for the 30 intense minutes on Saturday. I 100% endorse Francisco as a Personal Trainer and a trusted professional.”
+ I have not felt this glued together in over twenty years. 
+
+I really looked forward to my Saturday morning workouts. I would begin to mentally prepare myself on Thursday for the 30 intense minutes on Saturday. 
+
+I 100% endorse Francisco as a Personal Trainer and a trusted professional.”
 
 — _Mark Evangelist_
 
