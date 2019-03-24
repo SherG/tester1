@@ -68,7 +68,7 @@ Just as some individuals show a propensity towards musical or mathematical brill
 
 In the realm of fitness, whether your goal is to gain strength and muscle or become leaner, look back to what has been attainable and sustainable for you in the past.  
 
-Even here, what one person can do at one point in their lifetime may not be what even that same person can achieve later in their lifetime.  You may have had a chance to be a champion gymnast in your teens but that opportunity has passed if you find yourself in your 70s and less mobile due to a life marked by sedentariness.  
+Even here, what one person can do at one point in their lifetime may not be what even that same person can achieve later in their lifetime.  You may have had a chance to be a champion gymnast in your teens but that opportunity has passed if you are now in your 70s.
 
 You may have had the talent to be a great painter but if you devoted your life to the practice of architecture in order to please your mother, your paintings will not display the greatness only a lifetime of dedication could have developed. So make your fitness goals achievable for you.
 
