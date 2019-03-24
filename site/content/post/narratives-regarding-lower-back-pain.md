@@ -29,10 +29,10 @@ Even though in my case surgery was necessary to relieve the pain and deal with t
 
 In some cases only surgery will resolve the symptoms you feel.  But in many cases, lower back pain can be treated and managed by strengthening the muscles that support the lumbar spine.  
 
-![medx lumbar extension](/img/medx-lumbar-extension.png "medx lumbar extension")
+![medx lumbar extension](/img/medx-lumbar-extension.png "medx lumbar extension")* At center: A MedX Lumbar Extension Machine.*<hr>
 
-\
-\
+### Deadlifts and the MedX Lumbar Extension Machine
+
 Few exercises do this as effectively as a properly performed barbell deadlift.
 
 However, I have helped alleviate LBP in myself and clients with the **MedX Lumber Extension machine** (pictured above) as well.
