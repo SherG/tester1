@@ -78,13 +78,15 @@ The requirement that a goal be achievable is closely related to the requirement 
 
 That is what the  "R" stands for.  
 
-> Create something epic.
+> Make choices that lead to a flourishing life.
 
 Unless you give yourself permission to be utterly self-interested with regard to your goal, it will not have the power to motivate you, especially with a longer term goal.  
 
 Goals are things we should strive for because they are signposts that we are moving in the right direction towards the best life we can male for ourselves.  
 
 We properly don't just want to "get by" in life or just meander from one random event to another.  We ought to exercise all the power we have as causal agents to fashion a flourishing existence.  
+
+> Create something epic.
 
 So that means we need to be more purposive then we see the characters in a typical French film being.  As director of your life you want to make it an epic, not just a series of events without a theme.  
 
