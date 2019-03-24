@@ -68,15 +68,19 @@ This can never be the case, for there is no effect without a cause and the most 
 
 Research periodicals publish work by academic exercise physiologists, a group whose bias is, in general, toward focusing on research devoted to so called “aerobic” exercise.  I’ll explain later why I place “aerobic” exercise in scare quotes. 
 
-Those who populate our exercise physiology departments tend to favor endurance type activities and are generally suspicious of the benefits of resistance training and of the muscular jocks who espouse the virtues of this type of exercise.  The reasons why this is so involve a bit of historical serendipity that would take us a bit far afield here. 
+Those who populate our exercise physiology departments tend to favor endurance type activities and are generally suspicious of the benefits of resistance training and of the muscular jocks who espouse the virtues of this type of exercise. The reasons why this is so involve a bit of historical serendipity that would take us a bit far afield here. 
 
-One cause, however, is cultural. By this I mean the emphasis that our culture places on the internal qualities of a person. They say you cannot judge a book by its cover and to look for the good inside everyone.  Similarly, most voices in exercise physiology claim that what really counts is “good health” by which they mean good internal indicators of health, such as a healthy cholesterol level, a healthy blood pressure, a strong heart, etc.
+One cause, however, is cultural. By this I mean the emphasis that our culture places on the internal qualities of a person. They say you cannot judge a book by its cover and to look for the good inside everyone. 
 
-While it is true that you can’t always judge a book by its cover, I submit that this is a false dichotomy, yet another variant of the popular dichotomy between mind and body.  There is no conflict between having strong shapely muscles and having a healthy cardiovascular system. In fact, having strong muscles is the best way to assure a healthy cardiovascular system.  I’ll come back to this point later.
+Similarly, most voices in exercise physiology claim that what really counts is “good health” by which they mean good internal indicators of health, such as a healthy cholesterol level, a healthy blood pressure, a strong heart, etc.
 
-Nor can you place too much confidence in the advice doled out by the big, muscular guys who strut around in your gym.  You have to be aware of the selection bias at work here. 
+While it is true that you can’t always judge a book by its cover, I submit that this is a false dichotomy, yet another variant of the popular dichotomy between mind and body. 
 
-These individuals gravitate toward weight training because they experience immediate success with it.  It’s a positive feedback loop. The truth is, and this relates to the point I made about genetics at the outset, these guys would have grown large muscles even if you’d thrown tomatoes at them. 
+There is no conflict between having strong shapely muscles and having a healthy cardiovascular system. In fact, having strong muscles is the best way to assure a healthy cardiovascular system. I’ll come back to this point later.
+
+Nor can you place too much confidence in the advice doled out by the big, muscular guys who strut around in your gym. You have to be aware of the selection bias at work here. 
+
+These individuals gravitate toward weight training because they experience immediate success with it. It’s a positive feedback loop. The truth is, and this relates to the point I made about genetics at the outset, these guys would have grown large muscles even if you’d thrown tomatoes at them. 
 
 Their training advice simply does not apply to the average trainee. Nor does the advice of most of these self-styled bodybuilding experts who have columns in the muscle magazines. 
 
@@ -90,7 +94,7 @@ Exercise is not important.  It is essential. Most people, however, do not realiz
 
 To further elaborate on this point, Arthur Jones, the inventor of Nautilus exercise equipment,  once used the following example during a Nautilus seminar:
 
-"If I were to grab you by the throat, and choke off your air supply, it would immediately become apparent to you that oxygen is absolutely essential for life.  If I were to lock you in a room with no water, after several hours, the degree of thirst you would experience would indicate to you that water is a requirement for life.  If I were to lock you in that room with water, but no food, it would take a little longer, a matter of a couple of days, before you would be ravenously hungry, and there would be no question in your mind that food was absolutely essential for life.  However, it often takes years before one’s body begins to show the harm done by a lack of proper exercise."
+"If I were to grab you by the throat, and choke off your air supply, it would immediately become apparent to you that oxygen is absolutely essential for life. If I were to lock you in a room with no water, after several hours, the degree of thirst you would experience would indicate to you that water is a requirement for life. If I were to lock you in that room with water, but no food, it would take a little longer, a matter of a couple of days, before you would be ravenously hungry, and there would be no question in your mind that food was absolutely essential for life.  However, it often takes years before one’s body begins to show the harm done by a lack of proper exercise."
 
 ### How to Prevent Loss of Muscle Mass
 
@@ -98,31 +102,45 @@ If nothing is done to prevent it, we gradually lose muscle tissue as we age, bec
 
 There are several problems associated with this, the most obvious being a decrease in metabolism resulting in increased body fat, which is a primary risk factor for heart disease and several other serious conditions such as diabetes. 
 
-Not so obvious though, are the effects of a lack of exercise on one’s bones. Let's take a look at osteoporosis then at preventions for both sarcopenia and osteoporosis.
+Not so obvious though, are the effects of a lack of exercise on one’s bones. 
+
+Let's take a look at osteoporosis then at preventions for both sarcopenia and osteoporosis.
 
 ### Osteoporosis: How to Reduce Your Risk
 
-We often hear about elderly people falling and breaking their hips, an injury which often turns out to be fatal.  It is often assumed that these people break their hips as a result of having fallen. In a large number of cases, however, the opposite is true: they suffer a fall because their hip breaks.  
+We often hear about elderly people falling and breaking their hips, an injury which often turns out to be fatal. It is often assumed that these people break their hips as a result of having fallen. 
+
+In a large number of cases, however, the opposite is true: they suffer a fall because their hip breaks.  
 
 Each year, an average of 80,000 men suffer a hip fracture and one-third of these men die within a year. The cause: osteoporosis.
+
+> Studies show that strength training can yield bone density increases as high as 1% per week.
 
 Osteoporosis, or porous bone, is a disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist. 
 
 In the U.S. today, over 10 million individuals already have osteoporosis and 18 million more have low bone mass, placing them at increased risk for this disease.  
 
-What can be done about it? Exercise. What kind of exercise? Strength training is the only safe and productive means of effectively addressing this disease. Some studies have shown increases in bone density as high as 1% per week with strength training.
+### The Benefits of Strength Training
 
-I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context.  Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
+What can be done about it? Exercise. 
+
+What kind of exercise? Strength training is the only safe and productive means of effectively addressing this disease. 
+
+Some studies have shown increases in bone density as high as 1% per week with strength training.
+
+I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context. Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
 
 Even Michael Pollock, PhD, a former member of Kenneth Cooper's Aerobics Clinic, and past president of the American College of Sports Medicine said "\[A]ll the aerobics activity and interest promoted within the fitness industry since the late 1960's has not fostered any long-term vascular health. Instead, it has caused an epidemic of joint and spine injury.”
 
 While properly performed strength training can be of tremendous potential benefit to anyone who performs it, one would be far worse off performing activities such as aerobics, plyometrics, and various ballistic training protocols, than if they had never exercised at all.  
 
-Not only are these activities not an effective means of stimulating any meaningful improvements in any factor of functional ability, they are downright dangerous. Often, the injuries and degenerative joint conditions which result from such activities will force a person to become much less active earlier in life, and/or prevent them from being able to properly strength train, accelerating their loss of muscular strength and functional ability.
+Not only are these activities not an effective means of stimulating any meaningful improvements in any factor of functional ability, they are downright dangerous. 
+
+Often, the injuries and degenerative joint conditions which result from such activities will force a person to become much less active earlier in life, and/or prevent them from being able to properly strength train, accelerating their loss of muscular strength and functional ability.
 
 If as a result of such activities one's mobility begins to decrease earlier in life, then that activity has effectively shortened that person's lifespan. Loss of mobility is the first step towards loss of all other factors of functional ability, and eventually death.
 
-### Start Now
+### Start Now:  It Only Takes 90 Minutes a Week
 
 There are many people out there who do not exercise, because there is always something else to do, or they can't or won't think much further ahead than the immediate present.  
 
