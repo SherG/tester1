@@ -1,7 +1,7 @@
 ---
 title: 'Be S.M.A.R.T About Your Fitness Goals: Achieve Results in 2019'
 date: 2019-03-24T04:04:30.183Z
-description: Improve the odds of attaining your fitness goals by using the SMART method.
+description: ' Improve the odds of attaining your fitness goals by using the SMART method.'
 image: /img/smart-goals.png
 ---
 I'm midway through the fourth week of my fat loss transformation and one of the factors that has helped from the start and throughout has been the application of the S.M.A.R.T formula.  
@@ -32,9 +32,11 @@ I could have said to myself that I wanted to "become less fluffy" or "lose weigh
 
 > You want your body to express the vitality you feel within.
 
-I used to geek out on taking body fat % measurements. Doing so can be useful in the sense of letting you know you are heading in the right direction and that you are focusing on a goal that actually matters to your health and appearance as opposed to just indiscriminate weight loss which could come from loss of water or even precious muscle.  
+Setting targets and measuring progress lets you know you are heading in the right direction. \
+\
+I used to geek out on taking body fat % measurements.  But I have found that the most precise fat % measurement, a[ DEXA scan](https://www.dexafit.com/services/dexa-scan/), is expensive and is not sufficiently motivating to me to be worth the expense.
 
-But I have found that the most precise fat % measurement, a[ DEXA scan](https://www.dexafit.com/services/dexa-scan/), is expensive and is not sufficiently motivating to me to be worth the expense.
+#### Tools to Track Progress
 
 For the purposes of generally tracking progress I would recommend using:
 
