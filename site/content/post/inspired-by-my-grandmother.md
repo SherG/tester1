@@ -1,6 +1,6 @@
 ---
 title: Inspired By My Grandmother
-date: 2019-03-24T05:24:39.434Z
+date: 2018-10-30T05:24:39.434Z
 description: >
   One of the great regrets of my life was that I was not successful in sharing
   my knowledge and enthusiasm for strength training with my late grandmother.
