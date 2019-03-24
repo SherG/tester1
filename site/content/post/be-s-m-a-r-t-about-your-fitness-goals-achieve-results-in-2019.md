@@ -44,7 +44,8 @@ For the purposes of generally tracking progress I would recommend using:
 * An [AccuMeasure caliper](https://www.accumeasurefitness.com/accu-measure-fitness-3000-body-fat-caliper.html) or 
 * Bioelectrical impedance scale.  
 
-![fat caliper](/img/fat-caliper.png "fat caliper")* A fat caliper is a simple device for measuring fat and tracking fat loss. You can purchase one on Amazon for under $10.*<hr>
+![fat caliper](/img/fat-caliper.png "fat caliper")
+*A fat caliper is a simple device for measuring fat and tracking fat loss. You can purchase one on Amazon for under $10.*<hr>
 
 #### No Need to Overdo Measurements
 
