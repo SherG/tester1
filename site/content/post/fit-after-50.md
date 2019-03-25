@@ -29,6 +29,8 @@ When you build your physical strength, the process helps to release stress and i
 
 If stress is chronic and serious enough, it can have negative impact on your immune system. A good strength training program can significantly boost your immune system.
 
+![thriving in retirement](/img/thriving-in-retirement.webp "thriving in retirement")
+
 ## Renew Your Vitality Through Strength Training
 
 One of the greatest joys I’ve known is assisting countless baby boomers and members of the Silent Generation achieve a level of vitality, independence and buffer from injury that amazed them and me.
@@ -40,8 +42,6 @@ One client came to me with a simple wish: could I help him get sufficiently stro
 Another client simply wanted to reach canned goods in her cupboards and carry groceries with a greater measure of confidence.
 
 Still another simply wanted to be strong enough to continue smashing the ball in her tennis matches.
-
-![thriving in retirement](/img/thriving-in-retirement.png "thriving in retirement")
 
 Whether you actively practice a sport or not, dealing intelligently with the advances of aging makes everyone over 50 a "Masters Athlete." 
 
