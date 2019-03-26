@@ -1,5 +1,6 @@
 ---
 title: A Top NYC Trainer Reveals How to Identify and Avoid Fitness Fads
+author: Francisco Villalobos
 date: 2018-06-11T02:49:35.357Z
 description: >-
   If you’ve ever stayed up late watching TV you’ve been bombarded by the fitness
