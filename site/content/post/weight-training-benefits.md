@@ -1,6 +1,6 @@
 ---
 title: 'Research: A Little Weight Training Yields Big Health Benefits'
-date: 2019-03-30T22:51:20.040Z
+date: 2019-02-27T23:51:20.040Z
 description: >-
   A recent study indicates that improving your cardiovascular health requires
   only a small amount of weight training.
