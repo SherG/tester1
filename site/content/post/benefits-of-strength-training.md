@@ -1,7 +1,8 @@
 ---
 title: Benefits of Strength Training
-author: Test Author
+author: Francisco Villalobos
 date: 2018-11-02T18:32:26.183Z
+meta_description: This is all about mobility
 description: 'Prioritizing our mobility keeps the door open to new adventures. '
 ---
 My wife and I recently visited Italy. It wasn't our first visit, but it was our first time together and we were committed to doing it right. 
