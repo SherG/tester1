@@ -1,5 +1,6 @@
 ---
 title: Benefits of Strength Training
+author: Test Author
 date: 2018-11-02T18:32:26.183Z
 description: 'Prioritizing our mobility keeps the door open to new adventures. '
 ---
