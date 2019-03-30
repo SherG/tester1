@@ -7,7 +7,9 @@ Football legend Vince Lombardi said, “Winning is not a sometime thing; it's an
 
 ## What's Required for Success?
 
-The same can be said of success. Successfully achieving your goals, in any area of endeavor, requires a family of virtues. But not all of the virtues required by success are equally fundamental.
+The same can be said of success. Successfully achieving your goals, in any area of endeavor, requires a family of virtues. 
+
+But not all of the virtues required by success are equally fundamental.
 
 > Half measures will not yield success. 
 
@@ -17,6 +19,8 @@ Rationality is the most fundamental virtue needed for success, with life in gene
 * It requires that you think about how to achieve your values and which values are going to imbue your life with the most meaning.
 
 But this rationality must be married to consistency. 
+
+![how to succeed](/img/how-to-succeed.png "how to succeed")
 
 ## The Power of Commitment
 
