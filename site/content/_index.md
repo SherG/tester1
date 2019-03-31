@@ -3,7 +3,7 @@ title: Smart Strength Training
 subtitle: 3 Manhattan locations
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Choose Us?
+  heading: Science-based fitness
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
