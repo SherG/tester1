@@ -15,11 +15,11 @@ intro:
     competitive. For location, choose from 3 peaceful, private gyms in midtown
     Manhattan or your residence.
 products:
-  - image: /img/weight-training-nyc.webp
+  - image: /img/socorro-lossy-image.webp
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
-  - image: /img/fitness-program-seniors-nyc.webp
+  - image: /img/francisco-fernand-lossy.webp
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our values
