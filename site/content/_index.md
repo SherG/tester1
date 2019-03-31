@@ -18,7 +18,7 @@ products:
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/francisco-villalobos-inner-strength-fitness-client-nyc.webp
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our values
