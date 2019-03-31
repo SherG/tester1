@@ -12,7 +12,7 @@ Then for several years we used an offshoot of HIT called SuperSlow.
 
 Over the last few years I noticed that despite having built considerable strength and stamina with those two protocols, Fernand was starting to experience some challenges with balance.
 
-## Improving Your Balance
+## Improving Balance
 
 The act of balancing one’s bodyweight and a barbell with resistance can help clients like Fernand develop and improve their balance. 
 
