@@ -10,10 +10,10 @@ blurb:
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
-    You'll be trained by an expert with 20+ years of experience. Our fitness
+    You'll be trained by an expert with an impeccable client rating. Our fitness
     training is based on   the very best exercise research. Our pricing is
-    competitive. Train at your choice of 3 private gyms in midtown Manhattan or
-    your private residence.
+    competitive. For location, choose from 3 peaceful, private gyms in midtown
+    Manhattan or your residence.
 products:
   - image: /img/weight-training-nyc.webp
     text: >-
