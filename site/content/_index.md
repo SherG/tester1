@@ -16,9 +16,8 @@ intro:
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      We provide strength training (also called resistance training) using
-      techniques drawn from HIT (High Intensity Training), SuperSlow, and
-      Starting Strength.
+      Our safety-first strength training using principles and techniques drawn
+      from HIT (High Intensity Training), SuperSlow, and Starting Strength.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
       We carefully measure your progress so you can see improvement within
