@@ -1,6 +1,6 @@
 ---
-title: Smart Strength Training
-subtitle: 3 Manhattan locations
+title: 5-Star Rated Personal Trainers
+subtitle: Smart strength training
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
