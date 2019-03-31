@@ -19,6 +19,12 @@ Even better, these health benefits accrued regardless of whether the participant
 
 ## Take Action Today for a Healthier Future
 
-Would you like to begin enjoying these health benefits for yourself? One of our long-term clients, Anne Moscona, M.D., has described our fitness program as "Outstanding."\
-\
+Would you like to begin enjoying these health benefits for yourself? 
+
+When you engage in resistance training, you are, in effect, investing in a "Fitness 401k" from which you can withdraw health benefits years into the future.
+
+One of our long-term clients, Anne Moscona, M.D., has described our fitness program as "Outstanding."
+
+### Book a Free Phone Appointment
+
 I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min?back=1&month=2019-04)with me, Francisco Villalobos, to learn more about resistance training and Inner Strength Fitness program.
