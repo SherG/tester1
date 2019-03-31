@@ -12,7 +12,7 @@ intro:
   heading: Personal Training
   text: >-
     "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
-    fitness program. We have a 5-star rating from our clients.
+    fitness program. We have a 5-star rating from our clients. [Find out more today.](https://calendly.com/isfny/15min)
 products:
   - image: img/illustrations-coffee.svg
     text: >-
