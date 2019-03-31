@@ -1,6 +1,6 @@
 ---
-title: 5-Star Rated Personal Trainers
-subtitle: Smart strength training
+title: Smart Strength Training for Baby Boomers
+subtitle: Get a 5-star rated personal trainer
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
