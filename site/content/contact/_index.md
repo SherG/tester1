@@ -4,14 +4,14 @@ logo: /img/logo.svg
 contact_entries:
   - heading: Main Location
     text: |-
-      133 E 58th St, Suite 902
+      133 E 58th St, Suite 902        
       New York, NY 10022
   - heading: Working hours
-    text: 'Monday – Friday: 6AM – 8PM We’re closed on weekends'
+    text: 'Monday – Friday: 6AM – 8PM '
 ---
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Have a question? We'd be delighted to hear it. 
+
+Send us a message and we’ll be in touch soon. 
 
 <h3 class="f4 b lh-title mb2">How can I …?</h3>
 
