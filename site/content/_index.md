@@ -5,10 +5,9 @@ image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
   text: >-
-    You'll be impressed by your newfound strength and agility after completing
-    your first segment of our 5-star rated fitness program. Endorsed by medical
-    researcher and long-term client Anne Moscona, M.D., our program is based in
-    the very best exercise science. 
+    You'll gain impressive strength with our 5-star rated fitness program.
+    Endorsed by medical researcher and long-term client Anne Moscona, M.D., our
+    program is based in the very best exercise science. 
 intro:
   heading: Personal Training
   text: >-
