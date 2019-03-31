@@ -14,7 +14,7 @@ intro:
     "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
     fitness program. We have a 5-star rating from our clients.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/socorro-morales-inner-strenght-fitness.webp
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
