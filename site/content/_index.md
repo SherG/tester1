@@ -1,6 +1,6 @@
 ---
 title: Inner Strength Fitness
-subtitle: Achieve vibrant health with our science-based strength training
+subtitle: Achieve vibrant health with science-based strength training
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
