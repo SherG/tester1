@@ -1,6 +1,6 @@
 ---
-title: Smart Strength Training
-subtitle: Optimize your health and fitness
+title: Inner Strength Fitness
+subtitle: Optimize your health with our science-based strength training
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
