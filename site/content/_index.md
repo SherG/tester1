@@ -9,12 +9,11 @@ blurb:
     smart solution for total body fitness. Get our personal training at 3
     private gyms or your residence. 
 intro:
-  heading: What we offer
+  heading: '"Outstanding"'
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    That's how long-term client Anne Moscona, M.D., describes our fitness
+    program. We have over 20 years of experience and a 5-star rating from our
+    clients.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
