@@ -9,10 +9,10 @@ blurb:
     smart solution for total body fitness. Get our personal training at 3
     private gyms or your residence. 
 intro:
-  heading: Outstanding Personal Training
+  heading: Personal Training
   text: >-
-    That's how long-term client Anne Moscona, M.D., describes our fitness
-    program. We have a 5-star rating from our clients.
+    "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
+    fitness program. We have a 5-star rating from our clients.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
