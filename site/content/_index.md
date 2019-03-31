@@ -1,5 +1,5 @@
 ---
-title: Smart Strength Training for Baby Boomers
+title: Smart Strength Training
 subtitle: Science-based resistance training
 image: /img/clear-group.webp
 blurb:
