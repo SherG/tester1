@@ -12,7 +12,7 @@ intro:
   heading: '"Outstanding"'
   text: >-
     That's how long-term client Anne Moscona, M.D., describes our fitness
-    program. We have over 20 years of experience and a 5-star rating from our
+    program. We have 20+ years of experience and a 5-star rating from our
     clients.
 products:
   - image: img/illustrations-coffee.svg
