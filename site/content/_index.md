@@ -1,7 +1,7 @@
 ---
 title: Smart Strength Training
 subtitle: 3 Manhattan locations
-image: /img/free-weights.png
+image: /img/personal-trainer-nyc.webp
 blurb:
   heading: Why ISF?
   text: >-
