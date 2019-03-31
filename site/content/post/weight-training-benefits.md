@@ -2,7 +2,7 @@
 title: 'Research: A Little Weight Training Yields Big Health Benefits'
 date: 2019-02-27T23:51:20.040Z
 description: >-
-  Just a small amount of weight training can reduce your risk of heart attack or
+  A small amount of weight training can reduce your risk of heart attack or
   stroke by 50%, according to a recent study.
 ---
 The most common excuse given for not exercising is lack of time.  Worry not, dear reader!  A recent [_New York Times_ article](https://nyti.ms/2DZQsRh) provides hope to the time compressed.  
