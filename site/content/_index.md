@@ -5,10 +5,9 @@ image: /img/home-jumbotron.jpg
 blurb:
   heading: Why ISF?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Inner Strength Fitness is for the health-conscious New Yorker who wants a
+    smart solution for total body fitness. Our methodology is based on the best
+    exercise science. 
 intro:
   heading: What we offer
   text: >-
