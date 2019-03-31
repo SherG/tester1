@@ -8,7 +8,7 @@ blurb:
     You'll gain impressive strength and agility with our 5-star rated program,
     which is endorsed by medical researcher Anne Moscona, M.D. 
 intro:
-  heading: 5-Star Rated Personal Trainers
+  heading: 5-Star Rated Personal Trainer
   text: >-
     Our fitness training is based on   the very best exercise research. Our
     pricing is competitive. Train at your choice of 3 private gyms in midtown
