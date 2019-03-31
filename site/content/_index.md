@@ -1,6 +1,6 @@
 ---
 title: Smart Strength Training
-subtitle: 'The science-based way to boost health and fitness '
+subtitle: Optimize your health and fitness
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
