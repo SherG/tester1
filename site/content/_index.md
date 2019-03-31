@@ -10,7 +10,7 @@ blurb:
     strength and agility with our fitness training.  We have a 5-star rating
     from our clients.
 intro:
-  heading: Personal Training
+  heading: 5-Star Rated Personal Training
   text: >-
     "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
     fitness program. We have a 5-star rating from our clients.
