@@ -14,11 +14,13 @@ intro:
     That's how long-term client Anne Moscona, M.D., describes our fitness
     program. We have a 5-star rating from our clients.
 products:
+ heading: Outstanding Personal Training
   - image: img/illustrations-coffee.svg
     text: >-
       We provide strength training (also called resistance training) using
       techniques drawn from HIT (High Intensity Training), SuperSlow, and
       Starting Strength.
+      heading: Outstanding Personal Training
   - image: /img/illustrations-coffee-gear.svg
     text: >-
       We carefully measure your progress so you can see improvement within
