@@ -9,7 +9,7 @@ I was preparing for my penultimate fight in mixed martial arts and my boss asked
 
 I was flattered and I believed in the book so I prepared diligently for the photoshoot and this was the result.
 
-![francisco villalobos mma](/img/francisco-villalobos-mma-2005.png "francisco villalobos mma") _A younger version of me, May 2005._<hr>
+![francisco villalobos 2005](/img/francisco-villalobos-mma-2005.webp "francisco villalobos 2005")*A younger version of me, May 2005.*<hr>
 
 ## Focus on What You're Moving _Towards_
 
