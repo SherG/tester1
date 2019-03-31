@@ -35,7 +35,3 @@ I continue to be inspired by General George S. Patton's remark,
 > "Success is how high you bounce when you hit the bottom."
 
 If you need help bouncing back from an injury please don’t hesitate to set up a [free phone appointment](https://calendly.com/isfny/15min/) with me.
-
-<hr>
-
-By Francisco Villalobos
