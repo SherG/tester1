@@ -1,6 +1,6 @@
 ---
-title: Smart Strength Training for Baby Boomers
-subtitle: Get a 5-star rated personal trainer
+title: 'Smart Strength Training '
+subtitle: Science-based resistance training
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
