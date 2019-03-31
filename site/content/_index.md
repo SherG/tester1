@@ -1,7 +1,7 @@
 ---
 title: Smart Strength Training
 subtitle: 3 Manhattan locations
-image: /img/adobestock_140453441_preview.jpeg
+image: /img/red-group.webp
 blurb:
   heading: Why ISF?
   text: >-
