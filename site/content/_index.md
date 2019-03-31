@@ -1,6 +1,6 @@
 ---
 title: Smart Strength Training
-subtitle: Personal training in midtown Manhattan
+subtitle: 3 Manhattan locations
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Choose Us?
