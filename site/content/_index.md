@@ -1,6 +1,6 @@
 ---
 title: Inner Strength Fitness
-subtitle: Optimize your health with our science-based strength training
+subtitle: Achieve optimal health with our science-based strength training
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
