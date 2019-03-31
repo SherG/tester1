@@ -5,13 +5,11 @@ description: >-
   Weight training twice a week can reduce your risk of heart attack or stroke by
   50%, according to a recent study.
 ---
-The most common excuse given for not exercising is lack of time.  Worry not, dear reader!  A recent [_New York Times_ article](https://nyti.ms/2DZQsRh) provides hope to the time compressed.  
-
-The article is based on a study published in October in the journal [_Medicine & Science in Sports & Exercise_](https://greysteel.us11.list-manage.com/track/click?u=45469f474a28b6a3c8167df48&id=311b2ae563&e=44cb3a58d3)_._ 
+The study is covered in this [_New York Times_ article.](https://nyti.ms/2DZQsRh)
 
 ## A 50% Decline in Risk of Heart Attack or Stroke
 
-Times report Gretchen Reynolds wrote: "The findings were dramatic: The risk of experiencing these events was roughly 50 percent lower for those who lifted weights occasionally, compared with those who never did — even when they were not doing the recommended endurance exercise."
+Reporter Gretchen Reynolds wrote: "The findings were dramatic: The risk of experiencing these events was roughly 50 percent lower for those who lifted weights occasionally, compared with those who never did — even when they were not doing the recommended endurance exercise."
 
 She added, <mark>"**People who lifted twice a week, for about an hour or so in total, had the greatest declines in risk**</mark>."
 
@@ -21,6 +19,6 @@ Even better, these health benefits accrued regardless of whether the participant
 
 ## Take Action Today for a Healthier Future
 
-Would you like to begin enjoying these health benefits for yourself? Find out why Anne Moscona, M.D., has described our fitness program as "Outstanding."\
+Would you like to begin enjoying these health benefits for yourself? One of our long-term clients, Anne Moscona, M.D., has described our fitness program as "Outstanding."\
 \
 I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min?back=1&month=2019-04)with me, Francisco Villalobos, to learn more about resistance training and Inner Strength Fitness program.
