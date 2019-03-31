@@ -12,7 +12,7 @@ intro:
   heading: Personal Training
   text: >-
     "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
-    fitness program. We have a 5-star rating from our clients. Book a <a href="https://calendly.com/isfny/15min?back=1&month=2019-04" target="blank">free phone appointment</a> with owner Francisco Villalobos to learn more.
+    fitness program. We have a 5-star rating from our clients.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
