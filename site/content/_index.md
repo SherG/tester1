@@ -6,8 +6,7 @@ blurb:
   heading: Why ISF?
   text: >-
     Inner Strength Fitness is for the health-conscious New Yorker who wants a
-    smart solution for total body fitness. Our methodology is based on the best
-    exercise science. 
+    smart solution for total body fitness. 
 intro:
   heading: What we offer
   text: >-
