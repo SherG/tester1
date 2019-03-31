@@ -16,12 +16,10 @@ intro:
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      Our safety-first strength training using principles and techniques drawn
-      from HIT (High Intensity Training), SuperSlow, and Starting Strength.
+      Our safety-first strength training gives you optimal results in the
+      shortest possible time frame.
   - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We carefully measure your progress so you can see improvement within
-      weeks. 
+    text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our values
   text: >-
