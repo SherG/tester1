@@ -6,12 +6,13 @@ blurb:
   heading: Why ISF?
   text: >-
     You'll gain impressive strength and agility with our 5-star rated program,
-    which is endorsed by medical researcher Anne Moscona, M.D.
+    which is endorsed by medical researcher Anne Moscona, M.D. 
 intro:
   heading: 5-Star Rated Personal Training
   text: >-
-    "Outstanding." That's how long-term client Anne Moscona, M.D., describes our
-    fitness program. We're proud of our 5-star rating from our clients.
+    Our fitness training is based on   the very best exercise research. Our
+    pricing is competitive. Train at your choice of 3 private gyms in midtown
+    Manhattan or your private residence.
 products:
   - image: /img/weight-training-nyc.webp
     text: >-
