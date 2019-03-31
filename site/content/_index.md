@@ -6,8 +6,9 @@ blurb:
   heading: Why ISF?
   text: >-
     Inner Strength Fitness is for the health-conscious New Yorker who wants a
-    smart solution for total body fitness.  Get personal training at 3 private
-    gyms or your residence.
+    smart solution for total body fitness. Get our personal training at 3
+    private gyms or your residence. We have a 5-star customer rating on Google,
+    Yelp, and Facebook.
 intro:
   heading: What we offer
   text: >-
