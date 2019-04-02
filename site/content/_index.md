@@ -23,7 +23,6 @@ products:
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our values
-  - image: /img/francisco-villalobos-inner-strength-fitness.webp
   text: >-
     New text about values.
 ---
