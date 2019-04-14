@@ -1,7 +1,7 @@
 ---
 title: 'Smart Strength Training '
 subtitle: For Baby Boomers
-image: /img/slice2.webp
+image: /img/slice-edge.webp
 blurb:
   heading: Why ISF?
   text: >-
