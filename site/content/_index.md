@@ -1,19 +1,18 @@
 ---
-title: Inner Strength Fitness
-subtitle: Achieve vibrant health with science-based strength training
+title: Smart Strength Training For Baby Boomers
+subtitle: 3 Manhattan locations
 image: /img/clear-group.webp
 blurb:
   heading: Why ISF?
   text: >-
-    You'll gain impressive strength and agility with our 5-star rated program,
-    which is endorsed by medical researcher Anne Moscona, M.D. 
+    Gain impressive strength and agility with our 5-star rated program, endorsed
+    by medical researcher Anne Moscona, M.D. 
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
-    You'll be trained by an expert with an impeccable client rating. Our fitness
-    training is based on   the very best exercise research. Our pricing is
-    competitive. For location, choose from 3 peaceful, private gyms in midtown
-    Manhattan or your residence.
+    You'll be trained by a veteran strength coach with an impeccable client
+    rating. Our fitness training is based on breakthrough exercise research. Our
+    pricing is competitive. 
 products:
   - image: /img/socorro-lossy-image.webp
     text: >-
@@ -23,7 +22,6 @@ products:
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our values
-  text: >-
-    New text about values.
+  text: New text about values.
 ---
 
