@@ -1,7 +1,7 @@
 ---
 title: Smart Strength Training For Baby Boomers
 subtitle: 3 Manhattan locations
-image: /img/slice.png
+image: /img/slice2.webp
 blurb:
   heading: Why ISF?
   text: >-
