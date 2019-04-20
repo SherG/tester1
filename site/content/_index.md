@@ -21,7 +21,12 @@ products:
   - image: /img/francisco-fernand-lossy.webp
     text: You'll see progress in only weeks. We carefully track your success.
 values:
-  heading: Our values
-  text: New text about values.
+  heading: Our Services
+  text: >+
+    A stronger you in mind and body is our passion. 
+
+
+    Our safety-first strength training is designed to help you achieve optimal
+    fitness.
 ---
 
