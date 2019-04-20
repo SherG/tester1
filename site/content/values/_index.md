@@ -29,11 +29,10 @@ values:
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
   - heading: Online personal training
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: /img/remote-fitness-program.png
     text: >-
-      Our fifties are a a time of contemplation. Sometimes we want to recreate
-      our lives or refashion new identities. Inner Strength approaches fitness
-      as as quality of both body and mind. Find out more about our life
-      coaching. Book a free phone appointment today to learn more.
+      Frequent traveler? Stay on top of your fitness goals with our remote
+      training program. We use mobile apps to bring you live one-on-one
+      training.
 ---
 
