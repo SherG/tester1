@@ -23,10 +23,8 @@ products:
 values:
   heading: Our Services
   text: >+
-    A stronger you in mind and body is our passion. 
-
-
-    Our safety-first strength training is designed to help you achieve optimal
-    fitness.
+    <p>A stronger you in mind and body is our passion.</p>
+    <p>Our safety-first strength training is designed to help you achieve optimal
+    fitness.</p>
 ---
 
