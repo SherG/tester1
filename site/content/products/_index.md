@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: /img/products-jumbotron.jpg
+image: /img/resistance-training.webp
 heading: What we offer
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
