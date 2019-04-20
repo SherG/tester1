@@ -12,11 +12,6 @@
     <p>{{ .description }}</p>
   </div>
 </div>
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
 
 <!-- Image grid -->
 {{ partial "image-grid" . }}
