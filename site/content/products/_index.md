@@ -60,11 +60,11 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: 'Anne Moscona, M.D.'
-    quote: '"Outstanding"'
+    quote: Outstanding
   - author: Gerald Grossman
     quote: >-
-      "I can not speak more highly of the personal fitness training provided by
-      Francisco – he's the best trainer I've ever had by far. "
+      I can not speak more highly of the personal fitness training provided by
+      Francisco – he's the best trainer I've ever had by far.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
