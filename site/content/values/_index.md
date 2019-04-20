@@ -5,12 +5,11 @@ values:
   - heading: Personal consultation
     imageUrl: /img/about-shade-grown.jpg
     text: >
-      To get started, [book a phone meeting](https://calendly.com/isfny/15m) in
-      with ISF owner Francisco Villalobos.  After discussing your needs and
-      goals we'll schedule your first in-person session. We'll review your
-      fitness state and any physical limitations. Together we'll refine your
-      goals. And you'll learn more about our method of training and why it's
-      remarkably effective.
+      To get started, book a phone meeting in with ISF owner Francisco
+      Villalobos.  After discussing your needs and goals we'll schedule your
+      first in-person session. We'll review your fitness state and any physical
+      limitations. Together we'll refine your goals. And you'll learn more about
+      our method of training and why it's remarkably effective.
   - heading: Strength training
     imageUrl: /img/about-single-origin.jpg
     text: >-
