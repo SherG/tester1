@@ -13,6 +13,13 @@ intro:
     You'll be trained by a veteran strength coach with an impeccable client
     rating. Our fitness training is based on breakthrough exercise research. Our
     pricing is competitive. 
+    
+    intro:
+  heading: 5-Star Rated Personal Trainer
+  text: >-
+    You'll be trained by a veteran strength coach with an impeccable client
+    rating. Our fitness training is based on breakthrough exercise research. Our
+    pricing is competitive. 
 products:
   - image: /img/socorro-lossy-image.webp
     text: >-
