@@ -1,14 +1,15 @@
 ---
-title: Services
+title: Values
 image: /img/private-gym-nyc.webp
 values:
-  - heading: Shade-grown coffee
+  - heading: Personal consultation
     imageUrl: /img/about-shade-grown.jpg
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
+      To get started, book a phone meeting with ISF owner Francisco Villalobos. 
+      After discussing your needs and goals we'll schedule your first in-person
+      session. We'll review your fitness state and any physical limitations.
+      Together we'll refine your goals. And you'll learn more about our method
+      of training and why it's remarkably effective.
   - heading: Single origin
     imageUrl: /img/about-single-origin.jpg
     text: >
