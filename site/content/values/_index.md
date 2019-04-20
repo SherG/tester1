@@ -1,11 +1,11 @@
 ---
-title: Values
+title: Services
 image: /img/private-gym-nyc.webp
 values:
   - heading: Personal consultation
     imageUrl: /img/about-shade-grown.jpg
     text: >
-      To get started, book a phone meeting with <a href="https://isfny.com">ISF</a> owner Francisco
+      To get started, book a phone meeting with ISF owner Francisco
       Villalobos.  After discussing your needs and goals we'll schedule your
       first in-person session. We'll review your fitness state and any physical
       limitations. Together we'll refine your goals. And you'll learn more about
