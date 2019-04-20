@@ -11,33 +11,30 @@ values:
       fitness state and any physical limitations. Together we'll refine your
       goals. And you'll learn more about our method of training and why it's
       remarkably effective.
-  - heading: Single origin
+  - heading: Strength training
     imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-  - heading: Sustainable farming
+    text: >-
+      Your personalized strength training program will be designed to develop
+      full body strength and optimal fitness. We keep meticulous records so you
+      can evaluate your progress. You'll train in a private gym at a safe
+      location. Or choose to be trained at your home gym. 
+  - heading: ExecuFit™
     imageUrl: /img/francisco-villalobos-inner-strength-fitness.webp
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-  - heading: Direct sourcing
+      Thrive in your career and manage stress by staying on top of your physical
+      fitness. We serve busy executives with a fast-paced and efficient workout
+      program. Our motto: "30 minutes and you're good."
+  - heading: Nutrition coaching
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-  - heading: Reinvest profits
+      Many of our clients have questions about diet trends, popular supplements,
+      and superfoods. We can provide expert advice on how to eat for wellness. 
+  - heading: Online personal training
     imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    text: >-
+      Our fifties are a a time of contemplation. Sometimes we want to recreate
+      our lives or refashion new identities. Inner Strength approaches fitness
+      as as quality of both body and mind. Find out more about our life
+      coaching. Book a free phone appointment today to learn more.
 ---
 
