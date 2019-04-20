@@ -18,7 +18,7 @@ values:
       can evaluate your progress. You'll train in a private gym at a safe
       location. Or choose to be trained at your home gym. 
   - heading: ExecuFit™
-    imageUrl: /img/francisco-villalobos-inner-strength-fitness.webp
+    imageUrl: /img/fidi-fitness-program.webp
     text: >
       Thrive in your career and manage stress by staying on top of your physical
       fitness. We serve busy executives with a fast-paced and efficient workout
