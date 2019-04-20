@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Services
 image: /img/private-gym-nyc.webp
 values:
   - heading: Shade-grown coffee
