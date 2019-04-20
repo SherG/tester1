@@ -23,8 +23,18 @@ products:
 values:
   heading: Our Services
   text: >+
-    A stronger you in mind and body is our passion.
+    A stronger you in mind and body is our passion. 
+
+
     Our safety-first strength training is designed to help you achieve optimal
-    fitness.
+    fitness. 
+
+
+    Our science-based program enables you to strengthen your body in an
+    efficient and comprehensive manner.
+
+
+    You’ll learn at your own pace with Francisco Villalobos, an expert personal
+    trainer with over 20 years of experience.
 ---
 
