@@ -11,7 +11,7 @@ values:
       Together we'll refine your goals. And you'll learn more about our method
       of training and why it's remarkably effective.
   - heading: Strength training
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/weight-training-over-50.webp
     text: >-
       Your personalized strength training program will be designed to develop
       full body strength and optimal fitness. We keep meticulous records so you
