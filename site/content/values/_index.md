@@ -24,7 +24,7 @@ values:
       fitness. We serve busy executives with a fast-paced and efficient workout
       program. Our motto: "30 minutes and you're good."
   - heading: Nutrition coaching
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: /img/nutrition-coaching.webp
     text: >
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
