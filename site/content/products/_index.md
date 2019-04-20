@@ -61,10 +61,10 @@ main:
 testimonials:
   - author: 'Anne Moscona, M.D.'
     quote: '"Outstanding"'
-  - author: Philipp Trommler
+  - author: Gerald Grossman
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      "I can not speak more highly of the personal fitness training provided by
+      Francisco – he's the best trainer I've ever had by far. "
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
