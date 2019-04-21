@@ -2,10 +2,10 @@
 title: Services
 image: /img/private-gym-nyc.webp
 values:
-  - heading: Personal consultation
+  - heading: Fitness consultation
     imageUrl: /img/francisco-villalobos.webp
     text: >
-      To get started, [book a phone meeting](https://google.com) with ISF owner Francisco Villalobos. 
+      To get started, book a phone meeting with ISF owner Francisco Villalobos. 
       We'll discuss your goals and you'll learn why our training is so
       effective. 
   - heading: Strength training
@@ -26,7 +26,7 @@ values:
     text: >
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
-  - heading: Remote personal training
+  - heading: Personal Training for Travelers
     imageUrl: /img/remote-fitness-program.png
     text: >-
       Frequent traveler? Stay on top of your fitness goals with our remote
