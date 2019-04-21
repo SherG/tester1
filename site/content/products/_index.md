@@ -12,11 +12,9 @@ intro:
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
     - image: /img/workout-for-over-50.webp
-      text: >
+      text: |
         Expert motivation.
-
-        We use philosophic practice to help you align your thinking with
-        action. 
+        We use philosophic practice to help you align your mind and actions. 
     - image: /img/francisco-villalobos-nyc.webp
       text: >+
         20 Years of Experience.
