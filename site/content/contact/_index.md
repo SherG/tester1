@@ -9,10 +9,8 @@ contact_entries:
   - heading: Working hours
     text: 'Monday – Friday: 6AM – 8PM '
 ---
-Have a question? We'd be delighted to hear it. 
+Have a question? Send us a message and we’ll get right back to you.
 
-Send us a message and we’ll be in touch soon. 
+<h3 class="f4 b lh-title mb2">Let's talk</h3>
 
-<h3 class="f4 b lh-title mb2">How can I …?</h3>
-
-You can also use the form below for any inquiries about our fitness program, schedule, monthly subscriptions and scheduling a 1-on-1 session with owner Francisco Villalobos. Don’t be shy, drop us a line!
+You can also use the form below for any inquiries about our fitness program and for scheduling a free phone consultation. Don’t be shy, drop us a line!
