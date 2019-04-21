@@ -45,7 +45,7 @@ main:
     image: /img/resistance-training-over-40.webp
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/fitness-after-50.webp
 testimonials:
   - author: 'Anne Moscona, M.D.'
     quote: Outstanding
