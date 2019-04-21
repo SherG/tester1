@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: /img/baby-boomer-fitness-nyc.webp
+image: /img/beardie.webp
 heading: 'Personal Training '
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
