@@ -28,7 +28,7 @@ values:
     text: >
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
-  - heading: Online personal training
+  - heading: Remote personal training
     imageUrl: /img/remote-fitness-program.png
     text: >-
       Frequent traveler? Stay on top of your fitness goals with our remote
