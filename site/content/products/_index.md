@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: /img/resistance-training.webp
+image: /img/resistance-training-nyc.webp
 heading: 'Personal Training '
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
