@@ -5,7 +5,7 @@ values:
   - heading: Personal consultation
     imageUrl: /img/francisco-villalobos.webp
     text: >
-      To get started, book a phone meeting with ISF owner Francisco Villalobos. 
+      To get started, [book a phone meeting](https://google.com) with ISF owner Francisco Villalobos. 
       We'll discuss your goals and you'll learn why our training is so
       effective. 
   - heading: Strength training
