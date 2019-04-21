@@ -21,8 +21,8 @@ intro:
       text: >+
         20 Years of Experience.
 
-        We've been in business since 1995, and have a passion for exceeding our
-        client's highest expectations. 
+        We have a long track record of exceeding our client's highest
+        expectations. 
 
     - image: /img/illustrations-meeting-space.svg
       text: >
