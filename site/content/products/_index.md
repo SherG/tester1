@@ -24,7 +24,7 @@ intro:
         We have a long track record of exceeding our client's highest
         expectations. 
 
-    - image: /img/5-star-rating.svg
+    - image: /img/5-star-personal-trainer.webp
       text: >
         5-Star Rating. We've been vetted by some of New York's finest including
         physician Anne Moscona, who calls our program "Outstanding."
