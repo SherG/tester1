@@ -11,7 +11,7 @@ intro:
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/resistance-training.webp
       text: >
         Expert motivation.
 
