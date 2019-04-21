@@ -3,7 +3,7 @@ title: Services
 image: /img/private-gym-nyc.webp
 values:
   - heading: Personal consultation
-    imageUrl: /img/fitness-consultation.png
+    imageUrl: /img/francisco-villalobos.webp
     text: >
       To get started, book a phone meeting with ISF owner Francisco Villalobos. 
       After discussing your needs and goals we'll schedule your first in-person
