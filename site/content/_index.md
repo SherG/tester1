@@ -6,7 +6,7 @@ blurb:
   heading: Why ISF?
   text: >-
     Get strong and fit with our 5-star rated program, endorsed by medical
-    researcher Anne Moscona, M.D. 
+    researcher [Anne Moscona, M.D](google.com).
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
@@ -22,7 +22,7 @@ products:
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our Services
-  text: >+
+  text: >-
     A stronger you in mind and body is our passion. 
 
 
