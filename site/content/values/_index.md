@@ -6,7 +6,7 @@ values:
     imageUrl: /img/francisco-villalobos.webp
     text: >
       To get started, book a phone meeting with ISF owner Francisco Villalobos. 
-      We'll discuss your goals and you'll learn why our training is so
+      We'll discuss your goals and you'll discover why our training is so
       effective. 
   - heading: Strength training
     imageUrl: /img/weight-training-over-50.webp
