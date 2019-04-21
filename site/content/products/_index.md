@@ -17,7 +17,7 @@ intro:
 
         We use philosophic practice to help you facilitate the changes to your
         thinking necessary for fitness success. 
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/francisco-villalobos-nyc.webp
       text: >+
         20 Years of Experience.
 
