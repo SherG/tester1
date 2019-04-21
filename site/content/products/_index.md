@@ -7,7 +7,7 @@ description: >-
   private gyms in Manhattan.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/weight-training-baby-boomers.webp
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
