@@ -57,32 +57,33 @@ testimonials:
       Francisco – he's the best trainer I've ever had by far.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Fitness Passport
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make fitness a part of your life. Choose one of our
+    monthly subscription plans to receive expert personal training. Contact us
+    about more details and payment information.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the new client who's just getting started
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - 8 sessions per month
+        - Nutrition coaching
+        - Precise measurement of progress
+      plan: Monthly
+      price: '500'
+    - description: Great for those who are committed and want to save
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 8 sessions per month
+        - Nutrition coaching
+        - Precise measurement of progress
+        - Optional something
+      plan: 6-Month plan
+      price: '2,700'
+    - description: 'Offers the greatest savings, get 1 month free'
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: '?'
+      plan: Annual
+      price: '5,500'
 ---
 
