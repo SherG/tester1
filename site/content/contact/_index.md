@@ -11,6 +11,6 @@ contact_entries:
 ---
 Have a question? Send us a message and we’ll get right back to you.
 
-<h3 class="f4 b lh-title mb2">Let's talk</h3>
+<h3 class="f4 b lh-title mb2">Let's get started</h3>
 
-You can also use the form below for any inquiries about our fitness program and for scheduling a free phone consultation. Don’t be shy, drop us a line!
+Just fill out the form below for any inquiries about our fitness program. Or request a free phone consultation with owner Francisco Villalobos. Don’t be shy, drop us a line!
