@@ -4,7 +4,7 @@ image: /img/resistance-training.webp
 heading: What we offer
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
-  private gyms in Manhattan. 
+  private gyms in Manhattan.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
