@@ -53,7 +53,7 @@ testimonials:
     quote: >-
       I can not speak more highly of the personal fitness training provided by
       Francisco – he's the best trainer I've ever had by far.
-full_image: /img/products-full-width.jpg
+full_image: /img/francisco-villalobos-with-client.webp
 pricing:
   heading: Fitness Passport
   description: >-
