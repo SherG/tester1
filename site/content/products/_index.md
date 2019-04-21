@@ -15,8 +15,8 @@ intro:
       text: >
         Expert motivation.
 
-        We use philosophic practice to help you facilitate the changes to your
-        thinking necessary for fitness success. 
+        We use philosophic practice to help you align your thinking with
+        action. 
     - image: /img/francisco-villalobos-nyc.webp
       text: >+
         20 Years of Experience.
