@@ -11,7 +11,7 @@ intro:
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
-    - image: /img/baby-boomer-fitness-nyc.webp
+    - image: /img/workout-for-over-50.webp
       text: >
         Expert motivation.
 
