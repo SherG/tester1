@@ -55,7 +55,7 @@ testimonials:
       Francisco – he's the best trainer I've ever had by far.
 full_image: /img/francisco-villalobos-with-client.webp
 pricing:
-  heading: Fitness Passport
+  heading: Passport to Optimal Fitness
   description: >-
     We make it easy to make fitness a part of your life. Choose one of our
     monthly subscription plans to receive expert personal training. Contact us
