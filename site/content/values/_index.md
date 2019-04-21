@@ -6,10 +6,8 @@ values:
     imageUrl: /img/francisco-villalobos.webp
     text: >
       To get started, book a phone meeting with ISF owner Francisco Villalobos. 
-      After discussing your needs and goals we'll schedule your first in-person
-      session. We'll review your fitness state and any physical limitations.
-      Together we'll refine your goals. And you'll learn more about our method
-      of training and why it's remarkably effective.
+      We'll discuss your goals and you'll learn why our training is so
+      effective. 
   - heading: Strength training
     imageUrl: /img/weight-training-over-50.webp
     text: >-
