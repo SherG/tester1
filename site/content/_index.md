@@ -27,8 +27,8 @@ values:
     A stronger you in mind and body is our passion. 
 
 
-    Our safety-first strength training is designed to help you achieve optimal
-    fitness. 
+    <p>Our **safety-first** strength training is designed to help you achieve
+    optimal fitness.</p> 
 
 
     Our science-based program enables you to strengthen your body in an
