@@ -78,9 +78,11 @@ pricing:
       price: '2,700'
     - description: 'Offers the greatest savings, get 1 month free'
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - 8 sessions per month
+        - Nutrition coaching
+        - Precise measurement of progress
+        - Optional item
+        - Optional item
       plan: Annual
       price: '5,500'
 ---
