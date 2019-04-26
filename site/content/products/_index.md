@@ -38,13 +38,13 @@ main:
     sciences of exercise physiology, nutrition, positive psychology and
     philosophic practice.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: strength training over 60
     image: /img/strength-training-over-60.webp
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: resistance training over 40
     image: /img/resistance-training-over-40.webp
   image3:
-    alt: Coffee beans
+    alt: fitness after 50
     image: /img/fitness-after-50.webp
 testimonials:
   - author: 'Anne Moscona, M.D.'
