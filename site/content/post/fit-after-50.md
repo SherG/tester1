@@ -3,8 +3,10 @@ title: Fit After 50
 date: 2019-03-24T05:29:32.373Z
 description: >-
   Baby boomers are stuck in the middle. As they enter their golden years,
-  they're facing a dual care burden.
+  they're facing a dual care burden. How can they get lasting stress relief?
 ---
+## Family Care Challenges
+
 Their elderly parents require additional care and support, all while their adult children need a helping hand to start their independent lives.
 
 In some cases, <a href="https://www.wsj.com/articles/i-was-hoping-to-be-retired-the-cost-of-supporting-parents-and-adult-children-1542381023" target="blank">adult children are moving back home</a> as they deal with job loss or ongoing fallout from the Great Recession that began in 2008.
