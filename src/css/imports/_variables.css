@@ -12,7 +12,8 @@
 
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
-	--line-height: 1.5;
+	--font-display: auto;
+        --line-height: 1.5;
 
 	--font-size: 18px;
 	--font-size-m: 20px;
