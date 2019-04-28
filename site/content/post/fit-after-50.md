@@ -7,13 +7,13 @@ description: >-
 ---
 Their elderly parents require additional care and support, all while their adult children need a helping hand to start their independent lives.
 
-In some cases, [adult children are moving back home](https://www.wsj.com/articles/i-was-hoping-to-be-retired-the-cost-of-supporting-parents-and-adult-children-1542381023) as they deal with job loss or ongoing fallout from the Great Recession that began in 2008.
+In some cases, <a href="https://www.wsj.com/articles/i-was-hoping-to-be-retired-the-cost-of-supporting-parents-and-adult-children-1542381023" target="blank">adult children are moving back home</a> as they deal with job loss or ongoing fallout from the Great Recession that began in 2008.
 
 Many boomers themselves are still digging out from the impact of the recession and their own job, portfolio, or other losses.
 
 ## The Sandwich Generation: Stressed Out and Squeezed at Both Ends
 
-Half of all Americans in their 60s are providing financial support to either a parent or an adult child, and 1.2 million boomers are supporting both, [according to Pew Research](http://www.pewsocialtrends.org/2013/01/30/the-sandwich-generation/). 
+Half of all Americans in their 60s are providing financial support to either a parent or an adult child, and 1.2 million boomers are supporting both, <a href="http://www.pewsocialtrends.org/2013/01/30/the-sandwich-generation/" target="blank">according to Pew Research</a>. 
 
 Such responsibilities are taking a toll, with boomers delaying retirement, experiencing significant stress, and facing a hit to their quality of life. 
 
@@ -47,6 +47,6 @@ Whether you actively practice a sport or not, dealing intelligently with the adv
 
 My clientele are composed exclusively of such athletes and I regard the fact that I’ve improved the quality of each of their lives as one of my crowning achievements as a strength coach.
 
-If you find yourself struggling with the groceries, stairs, stowing carry-on in an overhead compartment or would just like to see yourself playing a sport or attacking each day with greater vigor,[ book a phone appointment with me.](https://calendly.com/isfny/15min?back=1) 
+If you find yourself struggling with the groceries, stairs, stowing carry-on in an overhead compartment or would just like to see yourself playing a sport or attacking each day with greater vigor, <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment</a> with me.
 
 I look forward to discussing your goals and the Inner Strength Fitness program with you.
