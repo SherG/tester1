@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About
 image: /img/beardie.webp
 heading: 'Personal Training '
 description: >-
