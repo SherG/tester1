@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/beardie.webp
+image: /img/weight-training-for-over-50.webp
 heading: 'Personal Training '
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
