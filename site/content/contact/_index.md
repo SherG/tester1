@@ -9,8 +9,10 @@ contact_entries:
   - heading: Working hours
     text: 'Monday – Friday: 6AM – 8PM '
 ---
-<h3 class="f4 b lh-title mb2">Let's get started</h3>
+<h3 class="f4 b lh-title mb2">Let's talk</h3>
 
 <a href="https://calendly.com/isfny/15min" target="blank" style="color: #f32">Book a free phone consultation</a> with owner Francisco Villalobos. 
 
-Or fill out the form below for any inquiries about our fitness program. Don’t be shy, drop us a line!
+Or fill out the form below for any inquiries about our fitness program. 
+
+Don’t be shy, drop us a line!
