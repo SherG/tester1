@@ -28,7 +28,7 @@ values:
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
   - heading: Personal Training for Travelers
-    imageUrl: /img/remote-fitness-program.png
+    imageUrl: /img/remote-strength-training.webp
     text: >-
       Frequent traveler? Stay on top of your fitness goals with our remote
       training program. We use mobile apps to bring you live one-on-one
