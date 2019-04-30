@@ -21,7 +21,7 @@ products:
   - image: /img/francisco-fernand-lossy.webp
     text: You'll see progress in only weeks. We carefully track your success.
 values:
-  heading: Our Services
+  heading: Our Fitness Program
   text: >-
     A stronger you in mind and body is our passion. Our science-based program
     enables you to strengthen your body in an efficient and comprehensive
