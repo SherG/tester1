@@ -6,9 +6,9 @@ values:
     imageUrl: /img/francisco-villalobos.webp
     text: >-
       To get started, <a href="https://calendly.com/isfny/15min" target="blank"
-      style="color: #f42">book a phone meeting</a> with ISF owner Francisco
-      Villalobos.  We'll discuss your goals and you'll discover why our training
-      is so effective.
+      style="color: #f42">book a free phone consultation</a> with ISF owner
+      Francisco Villalobos.  We'll discuss your goals and you'll discover why
+      our training is so effective.
   - heading: Strength training
     imageUrl: /img/weight-training-over-50.webp
     text: >-
