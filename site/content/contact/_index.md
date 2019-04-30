@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-logo: /img/inner-strength-fitness-nyc-logo.png
+logo: /img/inner-strength-fitness-nyc-logo.webp
 contact_entries:
   - heading: Main Location
     text: |-
