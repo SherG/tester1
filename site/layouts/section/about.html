@@ -30,3 +30,9 @@
 {{ partial "table" .Params.pricing }}
 
 {{ end }}
+
+<div class="pb4">
+  {{ range .Params.testimonials }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
