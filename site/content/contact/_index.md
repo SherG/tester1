@@ -4,7 +4,7 @@ logo: /img/android-chrome-512x512.png
 contact_entries:
   - heading: Main Location
     text: |-
-      133 E 58th St, Suite 902        
+      133 E 58th St, Suite 902    <br>    
       New York, NY 10022
   - heading: Working hours
     text: 'Monday – Friday: 6AM – 8PM '
