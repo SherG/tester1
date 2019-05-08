@@ -16,7 +16,9 @@ From October through December of last year, my Mom underwent chemotherapy and ra
 
 The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
 
-The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  She would need all her strength for this fight!  
+The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  
+
+She would need all her strength for this fight!  
 
 ## Continuing to Work Out
 
@@ -29,6 +31,8 @@ She did lose some strength during her treatment period. But this past January, a
 After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts. 
 
 I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
+
+>  My mother’s cancer was defeated without the need for surgery
 
 So strong people are indeed “harder to kill” from all causes of mortality.  
 
