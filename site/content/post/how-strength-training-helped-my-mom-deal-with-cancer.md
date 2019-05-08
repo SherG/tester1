@@ -6,16 +6,22 @@ description: >-
   strength training sessions up until the last 10 days. I'm happy to say she
   beat cancer and is back in the gym.
 ---
-As I sit next to my Mom at Mt. Sinai for a follow up with her oncologist, I’m reminded of something the famous strength coach, Mark Rippetoe, wrote:
-
-“Strong people are harder to kill...”.
+As I sit next to my Mom at Mt. Sinai for a follow up with her oncologist, I’m reminded of something the famous strength coach, Mark Rippetoe, wrote: “Strong people are harder to kill." 
 
 From October through December of last year, my Mom underwent chemotherapy and radiation treatments in order to deal with a rare cancer that had developed in her colon.  The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
 
-The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  She would need all her strength for this fight!  To her credit, my Mom kept coming to her twice weekly strength training sessions with me throughout her treatment period, with the exception of the last 10 days in which the radiation had so irritated her skin that she couldn’t even sleep comfortably.  
+The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  She would need all her strength for this fight!  
 
-She did lose some strength during her treatment period.  But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.   After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts.  I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
+To her credit, my Mom kept coming to her twice weekly strength training sessions with me throughout her treatment period, with the exception of the last 10 days in which the radiation had so irritated her skin that she couldn’t even sleep comfortably.  
 
-So strong people are indeed “harder to kill” from all causes of mortality.  I credit my Mom’s pre-treatment strength and her dedication training for the stamina she displayed throughout her treatment period and with her ability to bounce back in its aftermath.  
+She did lose some strength during her treatment period.  But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
 
-You never know what curve balls life will throw at you.  Being the strongest you can be is the best way to face those challenges.  After months of despair,  I’m finally hopeful I will be able to enjoy having my Mom in my life for a long time to come.
+After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts.  I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
+
+So strong people are indeed “harder to kill” from all causes of mortality.  
+
+I credit my Mom’s pre-treatment strength and her dedication to training for the stamina she displayed throughout her treatment period and her ability to bounce back in its aftermath.  
+
+You never know what curve balls life will throw at you.  Being the strongest you can be is the best way to face those challenges.  
+
+After months of despair,  I’m finally hopeful I will be able to enjoy having my Mom in my life for a long time to come.
