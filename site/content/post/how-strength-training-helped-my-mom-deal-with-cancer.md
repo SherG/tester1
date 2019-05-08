@@ -14,7 +14,7 @@ From October through December of last year, my Mom underwent chemotherapy and ra
 
 > "Strong people are harder to kill."
 
-The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
+The oncologist gave the treatment a 50% chance of succeeding in treating the cancer.
 
 The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  
 
