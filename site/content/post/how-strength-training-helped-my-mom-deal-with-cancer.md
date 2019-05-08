@@ -8,15 +8,23 @@ description: >-
 ---
 As I sit next to my Mom at Mt. Sinai for a follow up with her oncologist, I’m reminded of something the famous strength coach, Mark Rippetoe, wrote: “Strong people are harder to kill." 
 
-From October through December of last year, my Mom underwent chemotherapy and radiation treatments in order to deal with a rare cancer that had developed in her colon.  The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
+## Battling Colon Cancer
+
+From October through December of last year, my Mom underwent chemotherapy and radiation treatments in order to deal with a rare cancer that had developed in her colon.  
+
+The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
 
 The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  She would need all her strength for this fight!  
 
+## Continuing to Work Out
+
 To her credit, my Mom kept coming to her twice weekly strength training sessions with me throughout her treatment period, with the exception of the last 10 days in which the radiation had so irritated her skin that she couldn’t even sleep comfortably.  
 
-She did lose some strength during her treatment period.  But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
+She did lose some strength during her treatment period. But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
 
-After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts.  I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
+After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts. 
+
+I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
 
 So strong people are indeed “harder to kill” from all causes of mortality.  
 
