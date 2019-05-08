@@ -12,7 +12,7 @@ People often ask me:
 * How long should a beginner work out?
 * Do I need to spend an hour in the gym for each session?
 
-There are some popular -- yet false -- notions about what constitutes an effective training session and regimen. 
+There are some popular — yet false — notions about what constitutes an effective training session and regimen. 
 
 Let's take a closer look at these so you can understand what the science says. 
 
@@ -34,7 +34,7 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to **_schedule time for working out._**
+The best way to prioritize fitness is to _**schedule time for working out.**_
 
 > Schedule time for working out.
 
@@ -63,13 +63,13 @@ I also recommend this video by McGuff on <a href="https://www.youtube.com/watch?
 
 ## High Intensity Training
 
-McGuff promotes HIT -- or "High Intensity Training" -- a particular form of strength training that emphasizes slow movements. 
+McGuff promotes HIT — or "High Intensity Training" — a particular form of strength training that emphasizes slow movements. 
 
 ### Double Your Strength
 
 In an interview with HITuni, a training resource, McGuff said: 
 
-"Most people . . . within 12-20 weeks will expect to easily see their **strength double** and their **body composition** will improve markedly and it will seem almost -- compared to other approaches that they may have tried -- it will almost seem too easy to them."
+"Most people . . . within 12-20 weeks will expect to easily see their **strength double** and their **body composition** will improve markedly and it will seem almost — compared to other approaches that they may have tried — it will almost seem too easy to them."
 
 He added, "The results are predictable and come about quickly" and that his clients are "just **mindblown**."
 
