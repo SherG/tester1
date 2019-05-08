@@ -20,6 +20,8 @@ The doctors and I told my Mom that the treatment would be difficult to endure an
 
 To her credit, my Mom kept coming to her twice weekly strength training sessions with me throughout her treatment period, with the exception of the last 10 days in which the radiation had so irritated her skin that she couldn’t even sleep comfortably.  
 
+![beat cancer exercise](/img/beat-cancer-exercise.webp)
+
 She did lose some strength during her treatment period. But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
 
 After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts. 
@@ -27,6 +29,8 @@ After a few weeks to let the radiation burns subside, my Mom was back in the gym
 I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is down to a healthier 152.  
 
 So strong people are indeed “harder to kill” from all causes of mortality.  
+
+## Stamina and Bouncing Back
 
 I credit my Mom’s pre-treatment strength and her dedication to training for the stamina she displayed throughout her treatment period and her ability to bounce back in its aftermath.  
 
