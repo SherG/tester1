@@ -12,6 +12,8 @@ As I sit next to my Mom at Mt. Sinai for a follow up with her oncologist, I’m 
 
 From October through December of last year, my Mom underwent chemotherapy and radiation treatments in order to deal with a rare cancer that had developed in her colon.  
 
+> "Strong people are harder to kill."
+
 The oncologist gave the treatment a 50/50 chance of succeeding in treating the cancer.
 
 The doctors and I told my Mom that the treatment would be difficult to endure and take a lot out of her.  She would need all her strength for this fight!  
