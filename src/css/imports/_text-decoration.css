@@ -1,5 +1,5 @@
 .strike       { text-decoration: line-through; }
-.underline    { text-decoration: underline; }
+.underline    { text-decoration: underline; color: #f42}
 .no-underline { text-decoration: none; }
 
 
