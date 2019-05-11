@@ -6,7 +6,8 @@ blurb:
   heading: Why ISF?
   text: >-
     Get strong and fit with our 5-star rated program, endorsed by medical
-    researcher Anne Moscona, M.D.
+    researcher Anne Moscona, M.D. [Get started
+    now](https://calendly.com/isfny/15min).
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
