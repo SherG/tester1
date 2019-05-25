@@ -12,7 +12,7 @@ blurb:
     Get strong and fit with our 5-star rated personal training, endorsed by
     medical researcher Anne Moscona, M.D. <a
     href="https://calendly.com/isfny/15min" target="blank" style="color:
-    #f42">Get started now</a>.
+    #f42"><br>Get started now</a>.
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
