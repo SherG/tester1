@@ -4,7 +4,7 @@ subtitle: For Baby Boomers
 image: /img/clear-group.webp
 description: >-
   We provide smart strength training for baby boomers at 3 locations in
-  Manhattan. Recommended by Anne Moscona, M.D.  Our personal trainer services
+  Manhattan. Recommended by Anne Moscona, M.D. Our personal trainer services
   have a 5-star rating.
 blurb:
   heading: Why ISF?
