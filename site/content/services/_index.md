@@ -1,6 +1,7 @@
 ---
 title: Services
 image: /img/private-gym-nyc.webp
+description: Resistance training
 values:
   - heading: Fitness consultation
     imageUrl: /img/francisco-villalobos.webp
