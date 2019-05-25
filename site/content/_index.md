@@ -2,6 +2,9 @@
 title: 'Smart Strength Training '
 subtitle: For Baby Boomers
 image: /img/clear-group.webp
+description: >-
+  We provide smart strength training for baby boomers at 3 locations in
+  Manhattan. Recommended by Anne Moscona, M.D.
 blurb:
   heading: Why ISF?
   text: >-
