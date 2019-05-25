@@ -1,6 +1,9 @@
 ---
 title: Contact Us
 logo: /img/android-chrome-512x512.png
+description: >-
+  Book a free phone consultation with 5-star personal trainer Francisco
+  Villalobos now. Or contact us via our online form.
 contact_entries:
   - heading: Main Location
     text: |-
