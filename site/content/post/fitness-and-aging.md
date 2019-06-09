@@ -1,6 +1,6 @@
 ---
 title: Lessons About Aging From Two Poets
-date: 2019-06-09T22:06:17.834Z
+date: 2019-05-02T22:06:17.834Z
 description: >-
   I’ve been an athlete all of my life, albeit never an excellent one.  I did
   well as a sprinter in high school, I was good enough at tennis to be invited
@@ -25,8 +25,9 @@ But just as Houseman’s poem serves as a reminder of those precious athletic me
 
 In this video below, I’m using paused deadlifts to help me recover from my second back surgery last fall. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKDFiSAhUl4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\
 The Olympic Committee or the UFC will never come a calling, but I cannot give up on my quest to continue working on my strength in the gym and practicing my skills in the dojo. 
 
 I’m an Athlete of Aging now and my arena is Life. My victory will be living out the rest of my years fully, ever striving, never quitting!
-
-{{ < youtube VKDFiSAhUl4 > }}
