@@ -28,8 +28,9 @@ intro:
         physician Anne Moscona, who calls our program "Outstanding."
   heading: What we offer
   description: >
-    Inner Strength Fitness provides smart strength training for baby boomers at
-    3 private gyms in Manhattan.
+    Inner Strength Fitness provides <a href="https://calendly.com/isfny/15min"
+    target="blank">smart strength training</a> for baby boomers at 3 private
+    gyms in Manhattan.
 main:
   heading: A superb fitness program with no compromises
   description: >
