@@ -1,6 +1,6 @@
 ---
 title: Personal Trainers For Baby Boomers
-date: 2019-06-09T21:48:14.800Z
+date: 2019-04-11T21:48:14.800Z
 description: >-
   "Forget the hotshot trainer with the six-pack," says the Wall St. Journal. 
   "Boomers want mature fitness coaches."
