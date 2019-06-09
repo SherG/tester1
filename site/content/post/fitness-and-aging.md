@@ -28,3 +28,5 @@ In this video below, I’m using paused deadlifts to help me recover from my sec
 The Olympic Committee or the UFC will never come a calling, but I cannot give up on my quest to continue working on my strength in the gym and practicing my skills in the dojo. 
 
 I’m an Athlete of Aging now and my arena is Life. My victory will be living out the rest of my years fully, ever striving, never quitting!
+
+{{ https://www.youtube.com/watch?v=VKDFiSAhUl4 }}
