@@ -6,31 +6,8 @@ description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
   private gyms in Manhattan.
 intro:
-  blurbs:
-    - image: /img/weight-training-after-50.webp
-      text: >-
-        Short workouts. Superior results. Our safety-first personal training is
-        rooted in the best exercise science.
-    - image: /img/workout-for-over-50.webp
-      text: |
-        Expert motivation.
-        We use philosophic practice to help you align your mind and actions. 
-    - image: /img/francisco-villalobos-personal-trainer-nyc.webp
-      text: >+
-        20 Years of Experience.
-
-        We have a long track record of exceeding our client's highest
-        expectations. 
-
-    - image: /img/over-50-exercise.webp
-      text: >
-        5-Star Rating. We've been vetted by some of New York's finest including
-        physician Anne Moscona, who calls our program "Outstanding."
-  heading: What we offer
-  description: >
-    Inner Strength Fitness provides <a href="https://calendly.com/isfny/15min"
-    target="blank">smart strength training</a> for baby boomers at 3 private
-    gyms in Manhattan.
+  heading: Here's some test info
+  text: Here's some more test info
 main:
   heading: A superb fitness program with no compromises
   description: >
