@@ -13,4 +13,4 @@ One woman explained: "I did not want a perky, 20-something in Spandex telling th
 
 A man told about his search for a mature trainer who could help him rebuild his strength after enduring a tropical illness.
 
-This is heartening news for boomer trainers like myself who focus on making other boomers and seniors the strongest versions of themselves.
+This article is heartening news for boomer trainers like myself who focus on making other boomers and seniors the strongest versions of themselves.
