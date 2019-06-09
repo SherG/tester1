@@ -6,8 +6,11 @@ description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
   private gyms in Manhattan.
 intro:
-  heading: Here's some test info
-  text: Here's some more test info
+  blurbs: []
+  heading: What we offer
+  description: >-
+    Inner Strength Fitness provides smart strength training for baby boomers at
+    3 private gyms in Manhattan.
 main:
   heading: A superb fitness program with no compromises
   description: >
