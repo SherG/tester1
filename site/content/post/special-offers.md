@@ -1,5 +1,5 @@
 ---
-title: Special Offers on Personal Trainers in Midtown Manhattan
+title: Special Offers on Personal Training in Midtown Manhattan
 date: 2019-04-01T03:33:13.503Z
 description: >-
   Get a discount on our 5-star rated personal trainer services. Choose from one
