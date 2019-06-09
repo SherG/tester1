@@ -3,7 +3,7 @@ title: About
 image: /img/weight-training-for-over-50.webp
 heading: 'Personal Training '
 description: >-
-  Inner Strength Fitness provides <a href="https://google.">smart</a> strength
+  Inner Strength Fitness provides <a href="https://google">smart</a> strength
   training for baby boomers at 3 private gyms in Manhattan.
 intro:
   blurbs:
