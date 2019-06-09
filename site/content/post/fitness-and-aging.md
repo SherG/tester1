@@ -31,3 +31,7 @@ In this video below, I’m using paused deadlifts to help me recover from my sec
 The Olympic Committee or the UFC will never come a calling, but I cannot give up on my quest to continue working on my strength in the gym and practicing my skills in the dojo. 
 
 I’m an Athlete of Aging now and my arena is Life. My victory will be living out the rest of my years fully, ever striving, never quitting!
+
+If you'd like to explore options for living life as your strongest self, feel free to <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment </a>with me, Francisco Villalobos, owner of Inner Strength Fitness. 
+
+It's empowering to discover the options you have.
