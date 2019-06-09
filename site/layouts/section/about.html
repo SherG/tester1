@@ -27,10 +27,7 @@
 <!-- Full-width image -->
 <img src="{{ .Params.full_image }}" alt="" class="db w-100">
 
-
-<h3 class="f2 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
-
+{{ partial "table" .Params.pricing }}
 
 
 {{ end }}
