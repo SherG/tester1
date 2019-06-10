@@ -13,8 +13,6 @@ The <a href="https://www.nytimes.com/2018/12/04/well/move/even-a-little-weight-t
 "The findings were dramatic: The risk of experiencing \[heart attack, stroke, or death] was roughly 50 percent lower for those who lifted weights occasionally, compared with those who never did — even when they were not doing the recommended endurance exercise. People who lifted twice a week, for about an hour or so in total, had the greatest declines in risk."
 
 > Those who lifted weights  only twice a week had the greatest declines in risk.
->
->
 
 What about those who did weight training more than twice a week? 
 
@@ -22,4 +20,12 @@ The _Times_ reports: "Interestingly, the subjects who reported weight training f
 
 Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise.  
 
-Would you like to discuss the benefits of strength training?  Feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
+Would you like to discuss the benefits of strength training?  Feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness. 
+
+### Related Reading:
+
+[Can Short Workouts Be Effective?](/post/short-workouts/)
+
+[What's the Best Fitness Program For Baby Boomers?](/post/boomers-fitness-program/)
+
+Read about the [Inner Strength Fitness Program](/about/) and our [Services](/services)
