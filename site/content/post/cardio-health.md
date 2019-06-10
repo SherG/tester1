@@ -20,4 +20,6 @@ What about those who did weight training more than twice a week?
 
 The _Times_ reports: "Interestingly, the subjects who reported weight training four or more times per week did not show any significant health benefits compared with those who never lifted, although the researchers believe this finding is probably a statistical anomaly."
 
-Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise.  So what’s your excuse now?
+Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise.  
+
+Would you like to discuss the benefits of strength training?  Feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
