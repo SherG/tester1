@@ -7,7 +7,9 @@ description: >-
 ---
 I’ve accomplished another week of progress on my fat loss journey.  As happy as I was that I was still heading in the  right direction last week, I decided to see if I could speed the fat loss process along by knocking an additional 175 calories off of my daily consumption.  
 
-Small incremental changes like this work well for me.  Instead of losing .4 lbs. as I did last week, I lost 1.2 lbs. this week!  Not a bad ROI: 3x the rate of fat loss for a daily investment of 175 calories. 
+Small incremental changes like this work well for me.  Instead of losing .4 lbs. as I did last week, I lost 1.2 lbs. this week!  
+
+Not a bad ROI: 3x the rate of fat loss for a daily investment of 175 calories. 
 
 ![francisco villalobos fat loss](/img/francisco-villalobos-fat-loss.png "francisco villalobos fat loss")
 
