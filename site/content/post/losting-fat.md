@@ -27,9 +27,13 @@ Take the average of all the days you weigh and compare that average from week to
 
 Progress in my circumference measurements also slowed. Whereas I lost a total of 3 inches from the sum of all circumference measurements taken after my first week, after the second week I lost a respectable 2.5 inches total.  
 
+## Losing An Inch Off My Waist
+
 I am happy that one whole inch of that total came off my waist—the target of my fat loss efforts.  
 
-As buoyed as I am by my results thus far I’m a little disheartened that I don’t see much of a difference in my pictures. I’ve made a point of keeping the lighting, the distance of the camera, background, clothing and poses the same.  
+As buoyed as I am by my results thus far I’m a little disheartened that I don’t see much of a difference in my pictures. 
+
+I’ve made a point of keeping the lighting, the distance of the camera, background, clothing and poses the same.  
 
 ![fat loss 50s](/img/fat-loss-francisco-villalobos.png "fat loss 50s")
 
