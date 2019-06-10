@@ -16,8 +16,8 @@ The <a href="https://www.nytimes.com/2018/12/04/well/move/even-a-little-weight-t
 >
 >
 
-What about those who did weight training more than twice a week? "Interestingly, the subjects who reported weight training four or more times per week did not show any significant health benefits compared with those who never lifted, although the researchers believe this finding is probably a statistical anomaly."\
-\
-The article referenced a study published in October in the journal <a href="https://greysteel.us11.list-manage.com/track/click?u=45469f474a28b6a3c8167df48&id=311b2ae563&e=44cb3a58d3" target="blank">Medicine & Science in Sports & Exercise</a>.
+What about those who did weight training more than twice a week? 
+
+The _Times_ reports: "Interestingly, the subjects who reported weight training four or more times per week did not show any significant health benefits compared with those who never lifted, although the researchers believe this finding is probably a statistical anomaly."
 
 Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise.  So what’s your excuse now?
