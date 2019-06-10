@@ -11,6 +11,8 @@ I'm especially happy that my waist measurement continued to go down as that is t
 
 The belt line definitely feels more comfortable.  I have one more inch to go to get to my modest fat loss goal of a 35 inch waist.
 
+![francisco villalobos fat loss](/img/weight-loss-in-50s.png "francisco villalobos fat loss")
+
 I doubt I will have anything approximating a "six-pack" when I achieve that goal.  Even at my leanest for the 2005 photoshoot picture I shared previously in this blog, I was not as "ripped" as many physique athletes are on the cover of fitness magazines. 
 
 But being "ripped", "shredded" or "peeled" was never my goal.  I'll leave those worthy goals to professional physique competitors. 
