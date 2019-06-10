@@ -28,3 +28,13 @@ One of our long-term clients, Anne Moscona, M.D., has described our fitness prog
 ### Book a Free Phone Appointment
 
 I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min?back=1&month=2019-04)with me, Francisco Villalobos, to learn more about resistance training and Inner Strength Fitness program.
+
+### 
+
+### Related Reading:
+
+[Can Short Workouts Be Effective?](/post/short-workouts/)
+
+[What's the Best Fitness Program For Baby Boomers?](/post/boomers-fitness-program/)
+
+Read about the [Inner Strength Fitness Program](/about/) and our [Services](/services)
