@@ -47,4 +47,4 @@ However, little evidence exists supporting such a belief for persistent or recur
 \
 The study emphasizes our need to formulate our narratives around a biopsychosocial approach and cautions disseminating negative beliefs centered around a “body as machine” discourse.
 
-If you're dealing with lower back pain and would like more information about strength training feel free to <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
+If you're dealing with lower back pain and would like more information about strength training to alleviate lower back pain, feel free to <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
