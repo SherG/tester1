@@ -41,8 +41,10 @@ However, I have helped alleviate LBP in myself and clients with the **MedX Lumbe
 
 > In many cases, lower back pain can be treated and managed by strengthening the muscles that support the lumbar spine.  
 
-The authors of the study admit that initial causes of low back pain may be related to biomedical issues. 
+The authors of the study admit that _initial_ causes of low back pain may be related to biomedical issues. 
 
 However, little evidence exists supporting such a belief for persistent or recurrent low back pain, and instead demonstrates a biopsychosocial and multi-factorial approach.  \
 \
 The study emphasizes our need to formulate our narratives around a biopsychosocial approach and cautions disseminating negative beliefs centered around a “body as machine” discourse.
+
+If you're dealing with lower back pain and would like more information about strength training feel free to <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
