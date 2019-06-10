@@ -5,7 +5,9 @@ description: >-
   Can you tone up after 50?  Absolutely! As a personal trainer, I'm sharing tip
   that I use for my own process.
 ---
-I’ve accomplished another week of progress on my fat loss journey.  As happy as I was that I was still heading in the  right direction last week, I decided to see if I could speed the fat loss process along by knocking an additional 175 calories off of my daily consumption.  
+I’ve accomplished another week of progress on my fat loss journey.  
+
+As happy as I was that I was still heading in the  right direction last week, I decided to see if I could speed the fat loss process along by knocking an additional 175 calories off of my daily consumption.  
 
 Small incremental changes like this work well for me.  Instead of losing .4 lbs. as I did last week, I lost 1.2 lbs. this week!  
 
