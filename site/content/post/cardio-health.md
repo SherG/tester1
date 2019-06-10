@@ -1,6 +1,6 @@
 ---
 title: Cardio Health
-date: 2019-06-10T01:28:58.278Z
+date: 2019-02-28T02:28:58.278Z
 description: '--'
 ---
 The most common excuse given for not exercising is lack of time.  Worry not, dear reader!  A recent New York Times article provides hope to the time compressed.  
