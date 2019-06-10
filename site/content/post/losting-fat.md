@@ -1,5 +1,5 @@
 ---
-title: losting fat
+title: Losing Fat in Your 50s - Week 2
 date: 2019-01-23T03:52:09.290Z
 description: >-
   I'm in week 2 of my 2019 Fat Loss Transformation challenge. What are my
