@@ -1,5 +1,5 @@
 ---
-title: weight loss 50s
+title: Losing Fat In Your 50s - Week 6
 date: 2019-02-16T03:01:56.410Z
 description: >-
   I'm now in week 6 of achieving my post-holiday fat loss goals. I hope to
