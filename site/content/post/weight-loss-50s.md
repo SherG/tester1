@@ -18,3 +18,7 @@ When I tried on my suits this morning, feeling comfortable in my slacks made the
 So even if you are in your fifties like me, if you find yourself fluffier then you like or pushing into your belt line more then is comfortable, you can definitely become leaner. 
 
 It will require honesty, integrity, courage and consistency but feeling more comfortable in your body makes the investment of these virtues worthwhile!
+
+If you're interested in working with a personal trainer to achieve optimal health and fitness, feel free to set up a <a href="https://calendly.com/isfny/15min" target="blank">free phone appointment</a> with me, Francisco Villalobos, owner here at Inner Strength Fitness. 
+
+We offer training at 3 private gyms in Manhattan or at your own home. I also train individuals remotely: all you need is a smartphone and a fitness app.
