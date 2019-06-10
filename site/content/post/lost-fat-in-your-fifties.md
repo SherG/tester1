@@ -1,6 +1,6 @@
 ---
 title: Lost Fat in Your Fifties
-date: 2019-06-10T03:04:44.710Z
+date: 2019-01-17T04:04:44.710Z
 description: The first week of a fat loss diet is always the most motivating
 ---
 The 1st week of my 2019 fat loss journey is in the books.  As I expected based on past experience and experience with clients, the first week saw larger then average weight loss due to water loss.  
