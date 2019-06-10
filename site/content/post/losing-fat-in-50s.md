@@ -1,5 +1,5 @@
 ---
-title: Losing fat in 50s
+title: Losing Fat in Your Fifties-Week 4
 date: 2019-02-05T03:21:45.842Z
 description: >-
   Can you tone up after 50?  Absolutely! As a personal trainer, I'm sharing tip
