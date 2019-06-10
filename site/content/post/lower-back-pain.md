@@ -17,6 +17,8 @@ The name of the study is "[Individuals' explanations for their persistent or rec
 
 The majority of the study’s participants identified healthcare professionals as the source of their beliefs regarding persistent and recurrent LBP.  
 
+> Not all narratives about lower back pain are reliable. 
+
 And the narrative virtually all of the participants identified as getting from their health care professional was structuralist in nature: “Like a machine, the body is considered to be able to break and can sometimes be repaired.  LBP persists because something is physically defective.” 
 
 Moreover, these same professionals often catastrophized LBP. 
@@ -29,7 +31,7 @@ Even though in my case surgery was necessary to relieve the pain and deal with t
 
 In some cases only surgery will resolve the symptoms you feel.  But in many cases, lower back pain can be treated and managed by strengthening the muscles that support the lumbar spine.  
 
-![medx lumbar extension](/img/medx-lumbar-extension.png "medx lumbar extension")* At center: A MedX Lumbar Extension Machine.*<hr>
+![medx lumbar extension](/img/medx-lumbar-extension.png "medx lumbar extension") _At center: A MedX Lumbar Extension Machine._<hr>
 
 ### Deadlifts and the MedX Lumbar Extension Machine
 
