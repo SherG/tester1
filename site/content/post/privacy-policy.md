@@ -148,6 +148,6 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 ### How to contact us
 
-If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at (646) 760-9330.
+If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at [(646) 760-9330](tel:6467609330).
 
-Last Modified: 1/23/2019
+Last Modified: 6/06/2019
