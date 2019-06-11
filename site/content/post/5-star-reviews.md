@@ -69,3 +69,45 @@ He delivers information, attention and guidance with a confident and gentle mann
 I was so impressed with Francisco's personal training that I recommended him to my wife and daughter, and they love him too. It's hard to say anything better than that."
 
 _– Gerald Grossman_
+
+## "a huge positive impact"
+
+"Working out with Francisco has made a huge positive impact to my well-being and fitness level. 
+
+I was initially skeptical about being able to make progress and getting stronger week after week, but Francisco keeps proving me wrong after several months of working together. 
+
+I also thought that once I had learned the basics of weight training I would not need a trainer anymore. 
+
+I was again wrong – I cannot replicate his expertise, patience and fine tuning of the program to fit my body and help me improve even on days when I have gotten little sleep or have not eaten properly. 
+
+Added bonus – Francisco is a great motivator and someone I can exchange ideas with on a wide variety of subjects (philosophy, literature, history)."
+
+_– Gabi Powell_
+
+
+
+## "I am stronger than I have ever been my whole life."
+
+"I was always intimidated by the idea of even stepping into the weight room with all those guys sweating and grunting. 
+
+Francisco has shown me how to lift weights carefully but without fear. 
+
+I am stronger than I have ever been my whole life. 
+
+He patiently taught me how to squat, bench and dead lift. I have no issues stepping into a weight room and I love weight lifting."
+
+_– Socorro Morales_
+
+
+
+## "the best!"
+
+"Francisco understands all types and ages of bodies. 
+
+ He is an outstanding trainer and knows what to focus on for each individual needs and especially good at making the most with what you have. 
+
+ I've worked out with many trainers and always ended up injured by being pushed to do exercises my body couldn't handle. 
+
+ You can trust him to know what you need.  He's the best!
+
+_– Carlos Hatch_
