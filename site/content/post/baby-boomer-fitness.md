@@ -1,6 +1,6 @@
 ---
 title: Why Exercise is Not Optional for Baby Boomers
-date: 2019-03-24T04:48:06.428Z
+date: 2018-09-01T04:48:06.428Z
 description: >-
   I'm going to start where most who write about exercise for popular magazines
   will not start — with a discussion of our genetic limitations.
