@@ -16,6 +16,8 @@ Here's a selection, starting with Dr. Anne Moscona, a prominent physician, medic
 
 I am a physician and have been truly impressed, over the years, by Francisco’s careful attention to tailoring his training to the level and condition of each individual.
 
+> "I give him my highest possible recommendation."
+
 I trust him to train my ailing 83-year-old mother as well as my 8-year-old child, confident that Francisco will bring out the best possible effort from each, without ever overlooking medical issues.
 
 For my own training, Francisco has gladly dealt with my limited schedule and interruptions, and has made me stronger and stronger each month and year. 
@@ -46,7 +48,9 @@ I give him my highest possible recommendation."
 
 "I have been involved in personal training since 1983 as a trainer, manager, and educator, and Francisco is one of the few of the many that I’ve come across that I would have train me if I were the client.
 
-I have no reservation about recommending him to anyone considering hiring a trainer. Few people, much less personal trainers, have the poise and class that Francisco has; along with the personal training skills. 
+I have no reservation about recommending him to anyone considering hiring a trainer. 
+
+Few people, much less personal trainers, have the poise and class that Francisco has; along with the personal training skills. 
 
 Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) with any questions; but I recommend Francisco without hesitation."
 
@@ -61,6 +65,8 @@ Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) 
 "I can not speak more highly of the personal fitness training provided by Francisco – he's the best trainer I've ever had by far. 
 
 Francisco is passionate, intelligent and knowledgeable about fitness, health and nutrition. 
+
+> "wonderfully supportive"
 
 He's also wonderfully supportive, sensitive and patient – yet firm and disciplined – in his approach to working with clients.
 
@@ -77,6 +83,8 @@ _– Gerald Grossman_
 "Working out with Francisco has made a huge positive impact to my well-being and fitness level. 
 
 I was initially skeptical about being able to make progress and getting stronger week after week, but Francisco keeps proving me wrong after several months of working together. 
+
+> "Francisco is a great motivator."
 
 I also thought that once I had learned the basics of weight training I would not need a trainer anymore. 
 
@@ -113,3 +121,41 @@ _– Socorro Morales_
  You can trust him to know what you need.  He's the best!
 
 _– Carlos Hatch_
+
+__
+
+## "no more chiropractor visits"
+
+"Francisco helped transition my body from an average 40-something to the strength I had when I was in college.
+
+He motivated me and pushed me to obtain results I never thought were possible at my age. Before meeting Francisco I would have monthly visits to the chiropractor.
+
+After two months with Francisco, no more chiropractor visits.
+
+> "I have not felt this glued together in over twenty years."
+
+I really looked forward to my Saturday morning workouts. I would begin to mentally prepare myself on Thursday for the 30 intense minutes on Saturday. 
+
+I 100% endorse Francisco as a Personal Trainer and a trusted professional."
+
+_– Mark Evangelist_
+
+
+
+## "My overall improvement was dramatic."
+
+"I have done regular weight training with Francisco over the last few years and found his efforts to be highly beneficial. 
+
+In particular he was able to effectively custom-tailor his approach to focus on strengthening specific areas that had been impaired by sports related repetitive motion injuries. 
+
+My overall improvement was dramatic. His close monitoring through diligent record keeping allowed genuine progress to be accurately traced. 
+
+As an aging life-long squash player I was faced with the compelling need to improve my overall strength capabilities in order to continue playing and reduce the chances of injury.
+
+> "Francisco enabled me to achieve my goals."
+
+In particular, I feel strongly that all squash players should undertake this kind of training and that Francisco would be an ideal choice.
+
+In addition to Francisco’s highly sophisticated and time efficient approach to weight-training, his broad and deep knowledge of fitness and health issues generally significantly enhance overall client benefits."
+
+_– Peter R. Lasusa, Jr. – Chairman, U.S. Squash_
