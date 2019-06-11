@@ -26,8 +26,6 @@ I give him my highest possible recommendation."
 
 – <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">_Anne Moscona, M.D._</a>, _Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University_.
 
-
-
 ## "amazingly efficient"
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
@@ -38,7 +36,7 @@ _– David Liebowitz___
 
 "Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs."
 
-– _John Gillis, John Gillis Architecture___
+_– John Gillis, John Gillis Architecture___
 
 ## "poise and class"
 
