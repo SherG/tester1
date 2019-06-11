@@ -5,7 +5,7 @@ description: This policy details how we handle data collection.
 ---
 ## Introduction
 
-This Privacy Policy outlines Inner Strength Fitness Consulting, LLC ("we", "our" or "the Company") practices with respect to information collected from users who access our website at https://isfny.com ("Site"), or otherwise share personal information with us (collectively: "Users"). 
+This Privacy Policy outlines <a href="https://www.chamberofcommerce.com/new-york-ny/1338881613-inner-strength-fitness" target="blank">Inner Strength Fitness Consulting, LLC</a> ("we", "our" or "the Company") practices with respect to information collected from users who access our website at https://isfny.com ("Site"), or otherwise share personal information with us (collectively: "Users"). 
 
 ### Grounds for data collection
 
@@ -102,7 +102,7 @@ c. 'Third party cookies' which are set by other online services who run content 
 
 Cookies do not contain any information that personally identifies you, but Personal Information that we store about you may be linked, by us, to the information stored in and obtained from cookies. You may remove the cookies by following the instructions of your device preferences; however, if you choose to disable cookies, some features of our Site may not operate properly and your online experience may be limited.
 
-We also use a tool called “Google Analytics” to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
+We also use a tool called <a href="https://marketingplatform.google.com/about/analytics/" target="blank">Google Analytics</a> to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics <a href="https://www.google.com/analytics/terms/us.html" target="blank">Terms of Use</a> and the Google Privacy Policy.
 
 ## Third party collection of information
 
@@ -114,9 +114,9 @@ This Privacy Policy does not apply to the practices of companies that we do not 
 
 We take great care in implementing and maintaining the security of the Site and your information. We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy. 
 
-For example, we use TLS/SSL to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is hosted on Amazon Web Services (AWS), one of the industry’s most trusted and secure cloud-based solutions. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+For example, we use <a href="https://www.digicert.com/ssl/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with <a href="https://jamstack.org/" target="blank">JAMstack technology</a> and distributed by the <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a> application delivery network, one of the industry’s most secure, reliable, and advanced platforms. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-## Transfer of data outside the European Economic Area (EEA) 
+## Transfer of data outside the <a href="https://en.wikipedia.org/wiki/European_Economic_Area" target="blank">European Economic Area (EEA)</a>
 
 Please note that some data recipients may be located outside the EEA. In such cases we will transfer your data only to such countries as approved by the European Commission as providing adequate level of data protection, or enter into legal agreements ensuring an adequate level of data protection.
 
@@ -124,7 +124,7 @@ Please note that some data recipients may be located outside the EEA. In such ca
 
  We may use a third-party advertising technology to serve advertisements when you access the Site. This technology uses your information with regards to your use of the Services to serve advertisements to you (e.g., by placing third-party cookies on your web browser). 
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information about this practice by NAI and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: http://optout.networkadvertising.org/#!/ and http://optout.aboutads.info/#!/.
+You may opt-out of many third-party ad networks, including those operated by members of the [Network Advertising Initiative ("NAI")](https://www.networkadvertising.org/) and the [Digital Advertising Alliance ("DAA")](https://digitaladvertisingalliance.org/). For more information about this practice by NAI and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: http://optout.networkadvertising.org/#!/ and http://optout.aboutads.info/#!/.
 
 ## Marketing
 
@@ -151,4 +151,3 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at (646) 760-9330.
 
 Last Modified: 1/23/2019
-
