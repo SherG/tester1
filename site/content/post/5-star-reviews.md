@@ -158,4 +158,16 @@ In particular, I feel strongly that all squash players should undertake this kin
 
 In addition to Francisco’s highly sophisticated and time efficient approach to weight-training, his broad and deep knowledge of fitness and health issues generally significantly enhance overall client benefits."
 
-_– Peter R. Lasusa, Jr. – Chairman, U.S. Squash_
+_– Peter R. Lasusa, Jr. – Chairman, U.S. Squash___
+
+## "optimal outcomes"
+
+"Francisco Villalobos has over 20 years of experience providing highly effective strength training. I've been impressed with how Inner Strength Fitness achieves optimal outcomes for clients: strength and fitness are core to living well, living adventurously, and living with confidence. 
+
+Every client gets a highly personalized plan and approach. There's no generic "one-size-fits-all" approach here. Just real science and real results. 
+
+I'm impressed with the depth of Francisco's expertise: this is a man who's not going to waste your time. 
+
+He's a natural communicator with a warm personality and a person of great integrity. Francisco's personality really shines: you can see how enthusiastic he is to create win-wins for his clients. I also appreciate his safety-first approach.".
+
+_— Sherrie Gossett, Founder, MindX_
