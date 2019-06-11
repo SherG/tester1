@@ -6,9 +6,11 @@ description: >-
   from clients. In fact, all of our customer reviews are 5-star reviews.
 image: /img/francisco-villalobos-clients.png
 ---
-Here's a selection, starting with Dr. Anne Moscona, a prominent physician, medical researcher, and long-term client of ours. 
+<br/>Here's a selection, starting with Dr. Anne Moscona, a prominent physician, medical researcher, and long-term client of ours. 
+<br/><br/>
 
 ![](/img/5-star-reviews.png)
+<br/>
 
 ## "Outstanding"
 
@@ -27,22 +29,24 @@ In addition to being a talented and dedicated professional, Francisco is a thoug
 I give him my highest possible recommendation."
 
 – <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">_Anne Moscona, M.D._</a>, _Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University_.
+<br/><br/>
 
 ## "amazingly efficient"
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
 
 <em>- David Liebowitz</em>
+<br/><br/>
 
 ## "excellent"
 
 "Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs."
 
-<em>– John Gillis, John Gillis Architecture</em>
+<em>– John Gillis, John Gillis Architecture</em><br/><br/>
 
 ![personal trainer nyc](/img/personal-trainer-nyc.png "personal trainer nyc")
 
-## 
+<br/>
 
 ## "poise and class"
 
@@ -56,9 +60,7 @@ Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) 
 
 – _Bill DeSimone, Owner, <a href="http://optimalexercisenj.com/index.html" target="blank">Optimal Exercise Personal Training Studio</a>_
 
-## 
-
-## 
+<br/>
 
 ## "the best"
 
@@ -74,9 +76,10 @@ He delivers information, attention and guidance with a confident and gentle mann
 
 I was so impressed with Francisco's personal training that I recommended him to my wife and daughter, and they love him too. It's hard to say anything better than that."
 
-_– Gerald Grossman_
+_– Gerald Grossman_<br/><br/>
 
 ![inner strength fitness nyc](/img/inner-strength-fitness-nyc.png "inner strength fitness nyc")
+<br/>
 
 ## "a huge positive impact"
 
@@ -94,7 +97,7 @@ Added bonus – Francisco is a great motivator and someone I can exchange ideas 
 
 _– Gabi Powell_
 
-
+<br/>
 
 ## "I am stronger than I have ever been my whole life."
 
@@ -107,7 +110,7 @@ I am stronger than I have ever been my whole life.
 He patiently taught me how to squat, bench and dead lift. I have no issues stepping into a weight room and I love weight lifting."
 
 _– Socorro Morales_
-
+<br/><br/>
 
 
 ## "the best!"
@@ -122,7 +125,7 @@ _– Socorro Morales_
 
 _– Carlos Hatch_
 
-__
+<br/>
 
 ## "no more chiropractor visits"
 
@@ -140,7 +143,7 @@ I 100% endorse Francisco as a Personal Trainer and a trusted professional."
 
 _– Mark Evangelist_
 
-
+<br/>
 
 ## "My overall improvement was dramatic."
 
@@ -158,7 +161,8 @@ In particular, I feel strongly that all squash players should undertake this kin
 
 In addition to Francisco’s highly sophisticated and time efficient approach to weight-training, his broad and deep knowledge of fitness and health issues generally significantly enhance overall client benefits."
 
-_– Peter R. Lasusa, Jr. – Chairman, U.S. Squash___
+<em>– Peter R. Lasusa, Jr. – Chairman, U.S. Squash</em>
+<br/><br/>
 
 ## "optimal outcomes"
 
