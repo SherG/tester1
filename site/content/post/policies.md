@@ -1,5 +1,5 @@
 ---
-title: Policies
+title: Initial Consultation and Policies
 date: 2018-05-02T03:28:26.787Z
 description: >-
   What happens during your initial consultation at Inner Strength Fitness? And
