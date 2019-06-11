@@ -70,6 +70,8 @@ I was so impressed with Francisco's personal training that I recommended him to 
 
 _– Gerald Grossman_
 
+![inner strength fitness nyc](/img/inner-strength-fitness-nyc.png "inner strength fitness nyc")
+
 ## "a huge positive impact"
 
 "Working out with Francisco has made a huge positive impact to my well-being and fitness level. 
