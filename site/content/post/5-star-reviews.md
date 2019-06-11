@@ -38,6 +38,10 @@ I give him my highest possible recommendation."
 
 <em>– John Gillis, John Gillis Architecture</em>
 
+![personal trainer nyc](/img/personal-trainer-nyc.png "personal trainer nyc")
+
+## 
+
 ## "poise and class"
 
 "I have been involved in personal training since 1983 as a trainer, manager, and educator, and Francisco is one of the few of the many that I’ve come across that I would have train me if I were the client.
@@ -48,7 +52,9 @@ Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) 
 
 – _Bill DeSimone, Owner, <a href="http://optimalexercisenj.com/index.html" target="blank">Optimal Exercise Personal Training Studio</a>_
 
-##  __
+## 
+
+## 
 
 ## "the best"
 
