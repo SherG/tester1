@@ -1,6 +1,9 @@
 
 # Redirects from what the browser requests to what we serve
-/blog    /post
+/blog    /post/
+/about  /about/
+/services  /services/
+/contact  /contact/
 /strong-people-are-harder-to-kill   /post/exercise-cancer/
 /maintaining-after-fat-loss   /post/keeping-weight-off/
 /boomer-trainers-for-baby-boomers  /post/personal-trainers-baby-boomers/
