@@ -4,12 +4,15 @@ date: 2017-12-02T04:58:01.525Z
 description: >-
   We're proud of the 5-star Google, Yelp, and Facebook reviews we've received
   from clients. In fact, all of our customer reviews are 5-star reviews.
+image: /img/francisco-villalobos-clients.png
 ---
 Here's a selection, starting with Dr. Anne Moscona, a prominent physician, medical researcher, and long-term client of ours. 
 
+![](/img/5-star-reviews.png)
+
 ## "Outstanding"
 
-"Franciso Villalobos is an outstanding professional. As a personal trainer, he brings a true understanding of exercise physiology and health to his focused, responsible approach to strength training. 
+"Franciso Villalobos is an outstanding professional. As a personal trainer, he brings a true understanding of exercise physiology and health to his focused, responsible approach to [strength training](/services/). 
 
 I am a physician and have been truly impressed, over the years, by Francisco’s careful attention to tailoring his training to the level and condition of each individual.
 
@@ -21,4 +24,4 @@ In addition to being a talented and dedicated professional, Francisco is a thoug
 
 I give him my highest possible recommendation."
 
-– <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">Anne Moscona, M.D.</a>, Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University.
+– <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">_Anne Moscona, M.D._</a>, _Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University_.
