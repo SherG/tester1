@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2019-05-26T03:37:00.225Z
+date: 2017-05-26T03:37:00.000Z
 description: This policy details how we handle data collection.
 ---
 ## Introduction
