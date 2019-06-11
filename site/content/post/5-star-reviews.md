@@ -1,5 +1,5 @@
 ---
-title: 5-star reviews
+title: '5-Star Reviews: Personal Training NYC'
 date: 2017-12-02T04:58:01.525Z
 description: >-
   We're proud of the 5-star Google, Yelp, and Facebook reviews we've received
