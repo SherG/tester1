@@ -47,3 +47,19 @@ I have no reservation about recommending him to anyone considering hiring a trai
 Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) with any questions; but I recommend Francisco without hesitation."
 
 – _Bill DeSimone, Owner, <a href="http://optimalexercisenj.com/index.html" target="blank">Optimal Exercise Personal Training Studio</a>_
+
+##  __
+
+## "the best"
+
+"I can not speak more highly of the personal fitness training provided by Francisco – he's the best trainer I've ever had by far. 
+
+Francisco is passionate, intelligent and knowledgeable about fitness, health and nutrition. 
+
+He's also wonderfully supportive, sensitive and patient – yet firm and disciplined – in his approach to working with clients.
+
+He delivers information, attention and guidance with a confident and gentle manner that balances wit, humor, encouragement and drive in a quest to get the best results he can for his clients. 
+
+I was so impressed with Francisco's personal training that I recommended him to my wife and daughter, and they love him too. It's hard to say anything better than that."
+
+_– Gerald Grossman_
