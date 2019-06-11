@@ -30,13 +30,13 @@ I give him my highest possible recommendation."
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
 
-–_David Liebowitz___
+<em>- David Liebowitz</em>
 
 ## "excellent"
 
 "Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs."
 
-– _John Gillis, John Gillis Architecture___
+<em>– John Gillis, John Gillis Architecture</em>
 
 ## "poise and class"
 
