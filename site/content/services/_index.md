@@ -2,9 +2,7 @@
 title: Services
 image: /img/private-gym-nyc.png
 description: >-
-  Get superior resistance training (sometimes called strength training) from
-  5-star rated personal trainer Francisco Villalobos. Remote training and
-  nutrition coaching also available. 
+  Our services include strength training with a 5-star rated personal trainer, nutrition coaching, and remote fitness training. We specialize in baby boomer fitness.
 values:
   - heading: Fitness consultation
     imageUrl: /img/francisco-villalobos-personal-trainer-nyc.png
