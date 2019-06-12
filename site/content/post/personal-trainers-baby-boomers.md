@@ -21,8 +21,10 @@ This article is heartening news for boomer trainers like myself who focus on mak
 
 ![baby boomer personal trainer](/img/francisco-villalobos-nyc.webp "baby boomer personal trainer")
 
-If you're a baby boomer searching for a personal trainer your age, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
+_Are you a baby boomer looking for intelligent answers to serious fitness questions? Let's talk._ <hr>
 
-I'd be delighted to discuss your fitness training questions, concerns, and goals.
+If you're searching for a personal trainer with proven expertise in baby boomer fitness, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
 
-We have 3 locations in Manhattan and we also train individuals in their private residences. In addition, we provide remote training via live video.
+I'm also a baby boomer. And I'd be delighted to discuss with you your fitness training options, questions, concerns, and goals.
+
+"Outstanding" is how medical researcher Anne Moscona, M.D. describes our unique program.
