@@ -7,7 +7,7 @@ description: >-
   to play doubles for U.C. Berkeley and I’ve been practicing some martial or
   other since I was 6.
 ---
-As a martial artist I’ve one my share of trophies and belts in full-contact karate, Brazilian Jiu-Jitsu, submission gaping and Mixed Martial Arts competition, the latter in which I competed professionally for about six years while in my mid- to late thirties.  
+As a martial artist I’ve one my share of trophies and belts in full-contact karate, Brazilian Jiu-Jitsu, submission grappling and Mixed Martial Arts competition, the latter in which I competed professionally for about six years while in my mid- to late thirties.  
 
 But I was never at the level of Olympic athletes or UFC fighters.  
 
