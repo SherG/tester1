@@ -13,9 +13,13 @@ Reporter Gretchen Reynolds wrote: "The findings were dramatic: The risk of exper
 
 She added, <mark>"**People who lifted twice a week, for about an hour or so in total, had the greatest declines in risk**</mark>."
 
-![socorro morales inner strength fitness nyc](/img/socorro-morales-inner-strenght-fitness.webp "socorro morales inner strength fitness")_One of our clients, acquiring the health benefits of weight training!_<hr>
-
 Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise. 
+
+![weight training nyc](/img/weight-lifting-nyc.png "weight training nyc")
+
+_A client of ours, enjoying the benefits of weight lifting!_
+<hr><br/>
+
 
 ## Take Action Today for a Healthier Future
 
