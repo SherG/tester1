@@ -1,7 +1,7 @@
 ---
 title: 'Smart Strength Training '
 subtitle: For Baby Boomers
-image: /img/clear-group.webp
+image: /img/nyc-personal-trainer.png
 description: >-
   We provide smart strength training for baby boomers at 3 locations in
   Manhattan. Recommended by Anne Moscona, M.D. Our personal trainer services
@@ -20,11 +20,11 @@ intro:
     rating. Our fitness training is based on breakthrough exercise research. Our
     pricing is competitive. 
 products:
-  - image: /img/socorro-lossy-image.webp
+  - image: /img/weight-lifting-nyc.png
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
-  - image: /img/francisco-fernand-lossy.webp
+  - image: /img/francisco-villalobos-nyc.png
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our Fitness Program
