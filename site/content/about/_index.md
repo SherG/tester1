@@ -22,7 +22,8 @@ intro:
     - image: /img/over-50-exercise.webp
       text: >-
         5-Star Rating. We've been vetted by some of New York's finest including
-        physician Anne Moscona, who calls our program "Outstanding."
+        physician Anne Moscona, who calls our program "<a
+        href="/post/5-star-reviews/">Outstanding</a>."
   heading: What we offer
   description: >-
     Inner Strength Fitness provides smart strength training for baby boomers at
@@ -51,36 +52,5 @@ testimonials:
       I can not speak more highly of the personal fitness training provided by
       Francisco – he's the best trainer I've ever had by far.
 full_image: /img/francisco-villalobos-with-client.webp
-pricing:
-  heading: Passport to Optimal Fitness
-  description: >-
-    We make it easy to make fitness a part of your life. Choose one of our
-    monthly subscription plans to receive expert personal training. Contact us
-    about more details and payment information.
-  plans:
-    - description: Perfect for the new client who's just getting started
-      items:
-        - 8 sessions per month
-        - Nutrition coaching
-        - Precise measurement of progress
-      plan: Monthly
-      price: '500'
-    - description: Great for those who are committed and want to save
-      items:
-        - 8 sessions per month
-        - Nutrition coaching
-        - Precise measurement of progress
-        - Optional something
-      plan: 6-Month plan
-      price: '2,700'
-    - description: 'Offers the greatest savings, get 1 month free'
-      items:
-        - 8 sessions per month
-        - Nutrition coaching
-        - Precise measurement of progress
-        - Optional item
-        - Optional item
-      plan: Annual
-      price: '5,500'
 ---
 
