@@ -1,25 +1,25 @@
 ---
 title: About
-image: /img/weight-training-for-over-50.webp
+image: /img/weight-training-for-over-50.png
 heading: 'Personal Training '
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
   private gyms in Manhattan.
 intro:
   blurbs:
-    - image: /img/weight-training-after-50.webp
+    - image: /img/weight-training-after-50.png
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
-    - image: /img/workout-for-over-50.webp
+    - image: /img/workout-for-over-50.png
       text: >-
         Expert motivation. We use philosophic practice to help you align your
         mind and actions.
-    - image: /img/francisco-villalobos-personal-trainer-nyc.webp
+    - image: /img/francisco-villalobos-personal-trainer-nyc.png
       text: >-
         20 Years of Experience. We have a long track record of exceeding our
         client's highest expectations.
-    - image: /img/over-50-exercise.webp
+    - image: /img/over-50-exercise.png
       text: >-
         5-Star Rating. We've been vetted by some of New York's finest including
         physician Anne Moscona, who calls our program "<a
@@ -37,13 +37,13 @@ main:
     philosophic practice.
   image1:
     alt: strength training over 60
-    image: /img/strength-training-over-60.webp
+    image: /img/strength-training-over-60.png
   image2:
     alt: resistance training over 40
-    image: /img/resistance-training-over-40.webp
+    image: /img/resistance-training-over-40.png
   image3:
     alt: fitness after 50
-    image: /img/fitness-after-50.webp
+    image: /img/fitness-after-50.png
 testimonials:
   - author: 'Anne Moscona, M.D.'
     quote: Outstanding
@@ -51,6 +51,6 @@ testimonials:
     quote: >-
       I can not speak more highly of the personal fitness training provided by
       Francisco – he's the best trainer I've ever had by far.
-full_image: /img/francisco-villalobos-with-client.webp
+full_image: /img/francisco-villalobos-with-client.png
 ---
 
