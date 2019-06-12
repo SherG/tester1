@@ -92,8 +92,7 @@ But these neurological improvements can only drive strength adaptations so far. 
 
 Just as the tensile strength of a rope or cable increases in proportion to increases in its cross sectional area so to does the strength of a muscle increase as it grows larger, through an increase in the cross sectional area of its fibers.
 
-![resistance training](/img/resistance-training.png "resistance training")
-_Resistance training provides a remarkable array of health benefits._<hr>
+![resistance training nyc](/img/resistance-training-nyc.png "resistance training nyc")
 
 ### How Does Resistance Training Work?
 
@@ -173,7 +172,6 @@ You can do aerobic activities such as a dance class, cardio-kickboxing, step aer
 
 Just don’t deceive yourself into thinking that these activities will radically transform your body.
 
-
 A friend and recent resistance training convert who had formerly devoted herself exclusively to steady state exercise related the following story to me:
 
 "_So many of the women I take class with say ‘I take step, kickboxing, dance class, run, etc. and I still look the same.’  They may lose a few pounds but they don’t look lean. I get approached all the time and they ask me for my secret and I tell them the classes are for fun. The key to transforming your body is strength training, a well-balanced diet and the dedication to making these part of your lifestyle_."
@@ -194,7 +192,7 @@ But at the outset of your resistance training journey if you train three times p
 
 Not a significant time investment considering all the benefits.
 
-![baby boomers recreation](/img/baby-boomers-recreation.png "baby boomers recreation")*Strength training can enable you to enjoy an active lifestyle.*
+![baby boomers recreation](/img/baby-boomers-recreation.png "baby boomers recreation")_Strength training can enable you to enjoy an active lifestyle._
 
 ## Myth #3: Your muscles will turn into fat if you stop working out or take an extended break
 
