@@ -26,6 +26,9 @@ To her credit, my Mom kept coming to her twice weekly strength training sessions
 
 ![beat cancer exercise](/img/beat-cancer-exercise.png)
 
+_My mom at the doctor's office (upper left), working out at the_ [_Inner Strength Fitness_](https://isfny.com) _studios, and climbing the stairs at the nearby subway station._
+
+<hr><br/>
 She did lose some strength during her treatment period. But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
 
 After a few weeks to let the radiation burns subside, my Mom was back in the gym faithfully performing her squats, presses and deadlifts. 
