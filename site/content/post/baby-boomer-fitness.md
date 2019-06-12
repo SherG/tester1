@@ -41,7 +41,11 @@ Within the boundaries imposed by the facts of our genetic reality there is freed
 
 That said, I’m not an existentialist.  I don’t equate freedom with total freedom from the constraints of reality -- freedom to recreate ourselves independent and in defiance of the facts of reality.  
 
-I agree, with Francis Bacon that “nature to be commanded must be obeyed.”  Just as we can emphasize the importance of volitionally adhering to the facts of reality, so we can emphasize that doing so gives us great freedom and power in commanding nature.  So it is with our nature, whether it be our physical nature or our spiritual nature, our consciousness.
+I agree, with Francis Bacon that “nature to be commanded must be obeyed.”  
+
+Just as we can emphasize the importance of volitionally adhering to the facts of reality, so we can emphasize that doing so gives us great freedom and power in commanding nature.  
+
+So it is with our nature, whether it be our physical nature or our spiritual nature, our consciousness.
 
 ## Becoming Strong: It's More Than Just a Physical Transformation
 
@@ -53,8 +57,11 @@ Becoming stronger is about projecting how we feel about ourselves — projecting
 
 Applying the knowledge and discipline it takes to exercise correctly is about externalizing our spiritual selves — it's about projecting our ideals outward.
 
-![baby boomer workout](/img/baby-boomer-workout.png "baby boomer workout")
- _The best time to start is always now. You'll be surprised by what you are capable of._<hr>
+![baby boomer workout](/img/workout-for-over-50.png "baby boomer workout")
+
+_The time to start is always now. You'll be surprised at what you're capable of._ 
+
+<hr><br/>
 
 ### Beware of Fitness Fairy Tales and Bias
 
@@ -66,11 +73,15 @@ This can never be the case, for there is no effect without a cause and the most 
 
 Research periodicals publish work by academic exercise physiologists, a group whose bias is, in general, toward focusing on research devoted to so called “aerobic” exercise.  I’ll explain later why I place “aerobic” exercise in scare quotes. 
 
-Those who populate our exercise physiology departments tend to favor endurance type activities and are generally suspicious of the benefits of resistance training and of the muscular jocks who espouse the virtues of this type of exercise. The reasons why this is so involve a bit of historical serendipity that would take us a bit far afield here. 
+Those who populate our exercise physiology departments tend to favor endurance type activities and are generally suspicious of the benefits of resistance training and of the muscular jocks who espouse the virtues of this type of exercise. 
+
+The reasons why this is so involve a bit of historical serendipity that would take us a bit far afield here. 
 
 One cause, however, is cultural. By this I mean the emphasis that our culture places on the internal qualities of a person. They say you cannot judge a book by its cover and to look for the good inside everyone. 
 
 Similarly, most voices in exercise physiology claim that what really counts is “good health” by which they mean good internal indicators of health, such as a healthy cholesterol level, a healthy blood pressure, a strong heart, etc.
+
+> There is no effect without a cause.
 
 While it is true that you can’t always judge a book by its cover, I submit that this is a false dichotomy, yet another variant of the popular dichotomy between mind and body. 
 
@@ -128,6 +139,8 @@ Some studies have shown increases in bone density as high as 1% per week with st
 
 I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context. Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
 
+> According to Dr. Michael Pollock, aerobics has led to "an epidemic of joint and spine injury."
+
 Even Michael Pollock, PhD, a former member of Kenneth Cooper's Aerobics Clinic, and past president of the American College of Sports Medicine said "\[A]ll the aerobics activity and interest promoted within the fitness industry since the late 1960's has not fostered any long-term vascular health. Instead, it has caused an epidemic of joint and spine injury.”
 
 While properly performed strength training can be of tremendous potential benefit to anyone who performs it, one would be far worse off performing activities such as aerobics, plyometrics, and various ballistic training protocols, than if they had never exercised at all.  
@@ -170,6 +183,6 @@ Regarding your muscles and the functional vitality they make possible, the stark
 
 ## You Can Start Today
 
-Feel free to [book a phone appointment](https://calendly.com/isfny/15min?back=1) with me, Francisco Villalobos, the owner of Inner Strength Fitness. 
+Feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, the owner of Inner Strength Fitness. 
 
-There's no charge. I'd love to discuss your fitness goals and the Inner Strength Fitness program with you.
+I'd love to discuss your fitness goals and the Inner Strength Fitness program with you.
