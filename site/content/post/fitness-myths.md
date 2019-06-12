@@ -94,6 +94,10 @@ Just as the tensile strength of a rope or cable increases in proportion to incre
 
 ![resistance training nyc](/img/resistance-training-nyc.png "resistance training nyc")
 
+_Resistance training provides a remarkable array of health benefits._ 
+
+<hr><br/>
+
 ### How Does Resistance Training Work?
 
 The foregoing adaptations caused by resistance exercise follow what is called the <a href="https://en.wikipedia.org/wiki/SAID_principle" target="blank">S.A.I.D. principle</a>, short for Specific Adaptation to Imposed Demands. 
