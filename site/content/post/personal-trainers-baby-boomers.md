@@ -13,4 +13,14 @@ One woman explained: "I did not want a perky, 20-something in Spandex telling th
 
 A man told about his search for a mature trainer who could help him rebuild his strength after enduring a tropical illness.
 
+## Baby Boomer Fitness Training in NYC
+
 This article is heartening news for boomer trainers like myself who focus on making other boomers and seniors the strongest versions of themselves.
+
+![baby boomer personal trainer](/img/francisco-villalobos-nyc.webp "baby boomer personal trainer")
+
+If you're a baby boomer searching for a personal trainer your age, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
+
+I'd be delighted to discuss your fitness training questions, concerns, and goals.
+
+We have 3 locations in Manhattan and we also train individuals in their private residences. In addition, we provide remote training via live video.
