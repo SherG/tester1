@@ -31,7 +31,7 @@ When you build your physical strength, the process helps to release stress and i
 
 If stress is chronic and serious enough, it can have negative impact on your immune system. A good strength training program can significantly boost your immune system.
 
-![thriving in retirement](/img/thriving-in-retirement.webp "thriving in retirement")
+![thriving in retirement](/img/thriving-in-retirement.png "thriving in retirement")
 
 ## Renew Your Vitality Through Strength Training
 
