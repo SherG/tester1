@@ -19,7 +19,7 @@ A man told about his search for a mature trainer who could help him rebuild his 
 
 This article is heartening news for boomer trainers like myself who focus on making other boomers and seniors the strongest versions of themselves.
 
-![baby boomer personal trainer](/img/francisco-villalobos-nyc.webp "baby boomer personal trainer")
+![baby boomer personal trainer](/img/francisco-villalobos-personal-trainer.png "baby boomer personal trainer")
 
 _Are you a baby boomer looking for intelligent answers to serious fitness questions?_  <a href="https://calendly.com/isfny/15min" target="blank">_Let's talk</a>._ <hr>
 
