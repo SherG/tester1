@@ -22,7 +22,8 @@ intro:
     - image: /img/over-50-exercise.webp
       text: >-
         5-Star Rating. We've been vetted by some of New York's finest including
-        physician Anne Moscona, who calls our program "Outstanding."
+        physician Anne Moscona, who calls our program "<a
+        href="/post/5-star-reviews/" style="color: f42">Outstanding</a>."
   heading: What we offer
   description: >-
     Inner Strength Fitness provides smart strength training for baby boomers at
