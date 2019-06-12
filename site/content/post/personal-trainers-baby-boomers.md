@@ -9,6 +9,8 @@ Journal reporter <a href="https://www.wsj.com/articles/forget-the-hotshot-traine
 
 She writes "As older people hit the gym in record numbers, demand rises for trainers in their 50s and 60s."
 
+![baby boomer personal trainers](/img/inner-strength-fitness-nyc.png "baby boomer personal trainers")
+
 One woman explained: "I did not want a perky, 20-something in Spandex telling this 60-something year-old body to do things it shouldn’t—or couldn’t—be doing."
 
 A man told about his search for a mature trainer who could help him rebuild his strength after enduring a tropical illness.
