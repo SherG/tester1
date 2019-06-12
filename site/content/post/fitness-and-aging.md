@@ -4,10 +4,13 @@ date: 2019-05-02T22:06:17.834Z
 description: >-
   I’ve been an athlete all of my life, albeit never an excellent one.  I did
   well as a sprinter in high school, I was good enough at tennis to be invited
-  to play doubles for U.C. Berkeley and I’ve been practicing some martial or
-  other since I was 6.
+  to play doubles for U.C. Berkeley.
 ---
-As a martial artist I’ve one my share of trophies and belts in full-contact karate, Brazilian Jiu-Jitsu, submission grappling and Mixed Martial Arts competition, the latter in which I competed professionally for about six years while in my mid- to late thirties.  
+I’ve been practicing some martial or other since I was 6.
+ 
+As a martial artist I’ve won my share of trophies and belts in full-contact karate, Brazilian jiu-jitsu, submission grappling, and Mixed Martial Arts (MMA) competition. 
+
+I competed professionally in MMA for about six years while in my mid- to late thirties.  
 
 But I was never at the level of Olympic athletes or UFC fighters.  
 
