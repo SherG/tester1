@@ -24,7 +24,7 @@ She would need all her strength for this fight!
 
 To her credit, my Mom kept coming to her twice weekly strength training sessions with me throughout her treatment period, with the exception of the last 10 days in which the radiation had so irritated her skin that she couldn’t even sleep comfortably.  
 
-![beat cancer exercise](/img/beat-cancer-exercise.webp)
+![beat cancer exercise](/img/beat-cancer-exercise.png)
 
 She did lose some strength during her treatment period. But this past January, all the tests indicated my mother’s cancer had been defeated without the need for surgery.  
 
