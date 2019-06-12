@@ -7,4 +7,4 @@ description: >-
 ---
 Book a short [phone appointment](https://calendly.com/isfny/15min) with owner Francisco Villalobos to find out which discount package will best suit your needs. 
 
-![personal trainer cost](/img/baby-boomer-fitness-nyc.webp "personal trainer cost")
+![personal trainer cost](/img/baby-boomer-fitness-nyc.png "personal trainer cost")
