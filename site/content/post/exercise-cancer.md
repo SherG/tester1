@@ -43,3 +43,9 @@ I credit my Mom’s pre-treatment strength and her dedication to training for th
 You never know what curve balls life will throw at you.  Being the strongest you can be is the best way to face those challenges.  
 
 After months of despair,  I’m finally hopeful I will be able to enjoy having my Mom in my life for a long time to come.
+
+## Exercise and Preventive Care
+
+If you would like to explore a <a href="/about/>fitness program</a> that optimizes your strength and decreases your health risks, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villialobos, owner of Inner Strength Fitness. 
+
+Our program is recommended by Anne Moscona, M.D., who is also a long-term client of ours.
