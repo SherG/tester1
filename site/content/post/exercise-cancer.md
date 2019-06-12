@@ -51,4 +51,4 @@ After months of despair,  I’m finally hopeful I will be able to enjoy having m
 
 If you would like to explore a [fitness program](https://www.isfny.com) that optimizes your strength and decreases your health risks, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness. 
 
-Our program is recommended by Anne Moscona, M.D., who is also a long-term client of ours.
+Our program is recommended as "[Outstanding](/post/5-star-reviews/)" by Anne Moscona, M.D., who is also a long-term client of ours.
