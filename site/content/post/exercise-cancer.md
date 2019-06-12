@@ -49,6 +49,6 @@ After months of despair,  I’m finally hopeful I will be able to enjoy having m
 
 ## Exercise and Preventive Care
 
-If you would like to explore a [fitness program](/about/) that optimizes your strength and decreases your health risks, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villialobos, owner of Inner Strength Fitness. 
+If you would like to explore a [fitness program](/about/) that optimizes your strength and decreases your health risks, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness. 
 
 Our program is recommended by Anne Moscona, M.D., who is also a long-term client of ours.
