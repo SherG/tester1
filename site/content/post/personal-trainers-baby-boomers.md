@@ -21,10 +21,12 @@ This article is heartening news for boomer trainers like myself who focus on mak
 
 ![baby boomer personal trainer](/img/francisco-villalobos-nyc.webp "baby boomer personal trainer")
 
-_Are you a baby boomer looking for intelligent answers to serious fitness questions? Let's talk._ <hr>
+_Are you a baby boomer looking for intelligent answers to serious fitness questions?_  <a href="https://calendly.com/isfny/15min" target="blank">_Let's talk</a>._ <hr>
 
 If you're searching for a personal trainer with proven expertise in baby boomer fitness, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness.
 
 I'm also a baby boomer. And I'd be delighted to discuss with you your fitness training options, questions, concerns, and goals.
 
-"Outstanding" is how medical researcher Anne Moscona, M.D. describes our unique program.
+"Outstanding" is how medical researcher Anne Moscona, M.D. describes our unique program. 
+
+Read what our clients have to say [here](/post/5-star-reviews/).
