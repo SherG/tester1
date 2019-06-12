@@ -31,9 +31,9 @@ values:
   text: >-
     A stronger you in mind and body is our passion. Our science-based program
     enables you to strengthen your body in an efficient and comprehensive
-    manner. You’ll learn at your own pace with Francisco Villalobos, an expert
-    personal trainer with over 20 years of experience. <a
+    manner. You’ll learn at your own pace with <a
     href="https://calendly.com/isfny/15min" style="color: #f42"
-    target="blank">Talk to Francisco</a>.
+    target="blank">Francisco Villalobos</a>, an expert personal trainer with
+    over 20 years of experience.
 ---
 
