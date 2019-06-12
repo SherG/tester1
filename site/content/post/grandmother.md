@@ -28,3 +28,7 @@ Still another simply wanted to be strong enough to continue smashing the ball in
 Whether you actively practice a sport or not, anyone over 50 should have a proactive plan for fitness.
 
 My clientele are composed exclusively of such individuals -- baby boomers as well as seniors -- and I regard the fact that I’ve improved the quality of each of their lives as one of my crowning achievements of my life.
+
+If you have questions about the best fitness programs for baby boomers or for seniors, feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment </a>with me, Francisco Villalobos, owner of Inner Strength Fitness in New York City. 
+
+I would be delighted to help you find the best way forward for yourself or for a loved one.
