@@ -1,13 +1,15 @@
 ---
 title: Can This 50-Year Old Lose Fat Efficiently?
 date: 2019-01-08T03:39:12.586Z
-description: Sharing my goals and progress with others to fuel my resolve
+description: >-
+  In this new year, I'm sharing my goals and progress with others to fuel my
+  resolve and share what works when it comes to fat loss.
 ---
+## Holiday Delights
+
 There are times we can and should loosen the reins and enjoy the many delights life has to offer—special family gatherings, holiday get-togethers, vacations.  
 
 But the cumulative effect of these celebrations can often leave us looking fluffier then we want to be.
-
-## Fluffy After the Holidays
 
 These occasional periods of indulgence need not define who we are or determine the long term shape of our bodies. 
 
