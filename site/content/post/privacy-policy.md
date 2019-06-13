@@ -108,7 +108,7 @@ Cookie Declaration Pending
 
 On June 13, 2019 we began using a new third-party service to scan and report our cookies below. The scanning should be completed by June 16, 2019.
 
-<script id="CookieDeclaration" src="https://consent.cookiebot.com/b828fbb1-91b4-43d0-920d-774850d3a4b4/cd.js" type="text/javascript" async></script>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/b828fbb1-91b4-43d0-920d-774850d3a4b4/cd.js" type="text/javascript" async></script><br/>
 
 ## Third party collection of information
 
