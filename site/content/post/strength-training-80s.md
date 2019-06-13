@@ -6,7 +6,7 @@ description: >-
   great and feels stronger than ever.
 image: ''
 ---
-I started training him with a basic High Intensity Training (HIT) approach. 
+I started training him with a basic <a href="https://en.wikipedia.org/wiki/High-intensity_training" target="blank">High Intensity Training (HIT)</a> approach. 
 
 Then for several years we used an offshoot of HIT called <a href="https://en.wikipedia.org/wiki/Super_Slow" target="blank">SuperSlow</a>.
 
@@ -31,6 +31,14 @@ So I coached Fernand on various barbell movements like the squat, press, deadlif
 Yesterday marked 25 years that I've had the privilege of coaching Fernand. Over the course of those years I'm even more proud to call him a friend.
 
 Thank you dear Fernand for granting me the trust to guide you this past quarter century. You are my inspiration and my purpose!
+
+## An Invitation For You
+
+If you're interested in exploring what strength training can do for your health and well-being, I invite you to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness in Manhattan. 
+
+There's no other topic that I enjoy discussing more. After all, our strength and health is the foundation for a well-lived life.
+
+
 <br/><hr>
 
 ### Related Reading
