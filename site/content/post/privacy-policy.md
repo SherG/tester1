@@ -107,6 +107,7 @@ We also use a tool called <a href="https://marketingplatform.google.com/about/an
 ### Cookie Declaration Pending
 
 On June 13, 2019 we began using a new third-party service to scan and report our cookies below. The scanning should be completed by June 16, 2019.
+
 <hr>
 
 <script id="CookieDeclaration" src="https://consent.cookiebot.com/b828fbb1-91b4-43d0-920d-774850d3a4b4/cd.js" type="text/javascript" async></script><br/><hr>
@@ -121,7 +122,13 @@ This Privacy Policy does not apply to the practices of companies that we do not 
 
 We take great care in implementing and maintaining the security of the Site and your information. We employ industry standard procedures and policies to ensure the safety of the information we collect and retain, and prevent unauthorized use of any such information, and we require any third party to comply with similar security requirements, in accordance with this Privacy Policy. 
 
-For example, we use <a href="https://www.digicert.com/ssl/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with <a href="https://jamstack.org/" target="blank">JAMstack technology</a> and distributed by the <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a> application delivery network, one of the industry’s most secure, reliable, and advanced platforms. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+For example: 
+
+* We use <a href="https://www.digicert.com/ssl/" target="blank">TLS/SSL</a> to encrypt the connection between this Site and its web servers and the transmission of all data. This Site is built with <a href="https://jamstack.org/" target="blank">JAMstack technology</a>, and therefore has no databases or plugins. (Databases and plugins are two common points of entry for malicious hacks.)
+* This site is distributed by the <a href="https://www.netlify.com/products/edge/" target="blank">Netlify Edge</a> application delivery network, one of the industry’s most secure, reliable, and advanced platforms. 
+* The code for the site is secured via physical U2F security key with an authenticator app as a backup. 
+
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Site, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
 ## Transfer of data outside the <a href="https://en.wikipedia.org/wiki/European_Economic_Area" target="blank">European Economic Area (EEA)</a>
 
