@@ -104,6 +104,8 @@ Cookies do not contain any information that personally identifies you, but Perso
 
 We also use a tool called <a href="https://marketingplatform.google.com/about/analytics/" target="blank">Google Analytics</a> to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics <a href="https://www.google.com/analytics/terms/us.html" target="blank">Terms of Use</a> and the Google Privacy Policy.
 
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/b828fbb1-91b4-43d0-920d-774850d3a4b4/cd.js" type="text/javascript" async></script>
+
 ## Third party collection of information
 
 Our policy only addresses the use and disclosure of information we collect from you. To the extent you disclose your information to other parties or sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Accordingly, we encourage you to read the terms and conditions and privacy policy of each third party that you choose to disclose information to. 
