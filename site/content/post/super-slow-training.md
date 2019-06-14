@@ -1,5 +1,5 @@
 ---
-title: Super Slow Training
+title: Strength Through Super Slow Training
 date: 2019-06-14T17:34:31.283Z
 description: >-
   For about a decade helping my client David become the strongest version of
