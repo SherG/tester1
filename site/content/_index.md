@@ -33,7 +33,6 @@ values:
     enables you to strengthen your body in an efficient and comprehensive
     manner. You’ll learn at your own pace with an expert personal trainer. Book
     a free <a href="https://calendly.com/isfny/15min" style="color: #f42"
-    target="blank">phone appointment<a href="https://calendly.com/isfny/15min"
-    style="color: #f42" target="blank"> to learn more.
+    target="blank">phone appointment</a> to learn more.
 ---
 
