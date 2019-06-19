@@ -3,7 +3,7 @@ title: The Best Healthcare Investment You Can Make
 date: 2019-06-19T19:48:43.955Z
 description: >-
   The field of medicine has given us countless life saving medications and
-  procedures but the best medicine is still the one only you can administer.
+  procedures but the best medicine is still one only you can administer.
 image: /img/cartoon.jpg
 ---
 My first reaction to this cartoon was to laugh.  As someone who makes a living as a strength coach, I can certainly attest to how difficult it is to get someone to make a long-term, persistent committment to changing their lifestyle.  But as effortful as such a commitment is it behooves us to remember that a life degraded by symptoms associated with heart desease, insulin resistance, muscle and bone loss are often the alternative.
