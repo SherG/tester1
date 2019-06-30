@@ -14,8 +14,8 @@ contact_entries:
 ---
 <h3 class="f4 b lh-title mb2">Let's talk</h3>
 
-<a href="https://calendly.com/isfny/15min" target="blank" style="color: #f32">Book a free phone consultation</a> with owner Francisco Villalobos. 
+We invite you to book a <a href="https://calendly.com/isfny/15min" target="blank" style="color: #f32">free phone consultation</a> with owner Francisco Villalobos. 
 
-Or fill out the form below with any questions about our fitness program. 
+Or fill out the form below.
 
 Don’t be shy, drop us a line!
