@@ -90,7 +90,13 @@ We may rectify, replenish or remove incomplete or inaccurate information, at any
 
 We and our trusted partners use cookies and other technologies in our related services, including when you visit our Site or access our services. 
 
-A "cookie" is a small piece of information that a website assign to your device while you are viewing a website. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services. 
+A "cookie" is a small piece of information that a website assign to your device while you are viewing a website. 
+
+Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our Services quicker and easier. 
+
+Cookies are also used to help ensure that the advertisements you see are relevant to you and your interests and to compile statistical data on your use of our Services. 
+
+<a href="https://www.cookiesandyou.com" target="blank">Learn more about cookies</a>.
 
 The Site uses the following types of cookies:
 
@@ -102,11 +108,17 @@ c. 'Third party cookies' which are set by other online services who run content 
 
 Cookies do not contain any information that personally identifies you, but Personal Information that we store about you may be linked, by us, to the information stored in and obtained from cookies. You may remove the cookies by following the instructions of your device preferences; however, if you choose to disable cookies, some features of our Site may not operate properly and your online experience may be limited.
 
-We also use a tool called <a href="https://marketingplatform.google.com/about/analytics/" target="blank">Google Analytics</a> to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics <a href="https://www.google.com/analytics/terms/us.html" target="blank">Terms of Use</a> and the Google Privacy Policy.
+We also use a tool called <a href="https://marketingplatform.google.com/about/analytics/" target="blank">Google Analytics</a> to collect information about your use of the Site. Google Analytics collects information such as how often users access the Site, what pages they visit when they do so, etc. We use the information we get from Google Analytics only to improve our Site and services. 
+
+Google Analytics collects the IP address assigned to you on the date you visit sites, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. 
+
+Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics <a href="https://www.google.com/analytics/terms/us.html" target="blank">Terms of Use</a> and the Google Privacy Policy.
 
 ## Third party collection of information
 
-Our policy only addresses the use and disclosure of information we collect from you. To the extent you disclose your information to other parties or sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Accordingly, we encourage you to read the terms and conditions and privacy policy of each third party that you choose to disclose information to. 
+Our policy only addresses the use and disclosure of information we collect from you. To the extent you disclose your information to other parties or sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. 
+
+Accordingly, we encourage you to read the terms and conditions and privacy policy of each third party that you choose to disclose information to. 
 
 This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals whom we do not employ or manage, including any of the third parties which we may disclose information as set forth in this Privacy Policy. 
 
@@ -156,4 +168,4 @@ We reserve the right to periodically amend or revise the Privacy Policy; materia
 
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at [(646) 760-9330](tel:6467609330).
 
-Last Modified: 6/13/2019
+Last Modified: 6/30/2019
