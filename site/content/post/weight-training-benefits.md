@@ -5,7 +5,7 @@ description: >-
   Weight training twice a week can reduce your risk of heart attack or stroke by
   50%, according to a recent study.
 ---
-The study is covered in this [_New York Times_ article.](https://nyti.ms/2DZQsRh)
+The study is covered in this <a href="https://nyti.ms/2DZQsRh" target="blank">New York Times article</a>.
 
 ## A 50% Decline in Risk of Heart Attack or Stroke
 
@@ -18,8 +18,8 @@ Even better, these health benefits accrued regardless of whether the participant
 ![weight training nyc](/img/weight-lifting-nyc.png "weight training nyc")
 
 _A client of ours, enjoying the benefits of weight lifting!_
-<hr><br/>
 
+<hr><br/>
 
 ## Take Action Today for a Healthier Future
 
@@ -31,7 +31,7 @@ One of our long-term clients, Anne Moscona, M.D., has described our fitness prog
 
 ### Book a Free Phone Appointment
 
-I invite you to [book a free phone appointment ](https://calendly.com/isfny/15min?back=1&month=2019-04)with me, Francisco Villalobos, to learn more about resistance training and Inner Strength Fitness program.
+I invite you to book a <a href="https://calendly.com/isfny/15min?back=1&month=2019-07" target="blank">free phone appointment</a> with me, Francisco Villalobos, to learn more about resistance training and Inner Strength Fitness program.
 
 ### 
 
