@@ -16,6 +16,4 @@ contact_entries:
 
 We invite you to book a <a href="https://calendly.com/isfny/15min" target="blank" style="color: #f32">free phone consultation</a> with owner Francisco Villalobos. 
 
-Or fill out the form below.
-
-Don’t be shy, drop us a line!
+Or fill out the form below. Don’t be shy, drop us a line!
