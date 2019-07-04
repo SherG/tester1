@@ -8,6 +8,3 @@ if (window.netlifyIdentity) {
     }
   });
 }
-// lazy loading
-const observer = lozad();
-observer.observe();
