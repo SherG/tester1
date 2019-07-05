@@ -1,6 +1,6 @@
 ---
 title: Services
-image: /img/private-gym-nyc.png
+image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562318211/private-gym-nyc_scg4pb.png
 description: >-
   Our services include strength training with a 5-star rated personal trainer, nutrition coaching, and remote fitness training. We specialize in baby boomer fitness.
 values:
