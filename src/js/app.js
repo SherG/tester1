@@ -9,6 +9,8 @@ if (window.netlifyIdentity) {
   });
 }
 
-const observer = lozad(); // lazy loads elements with default selector as ".lozad"
-observer.observe();
+// Lazy loader
+$(function() {
+        $('.lazy').Lazy();
+    });
 
