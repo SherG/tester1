@@ -1,5 +1,5 @@
 ---
-title: Personal Training Services
+title: Personal training services
 image: >-
   https://res.cloudinary.com/icecloud7/image/upload/q_auto:eco,f_auto/v1562318211/private-gym-nyc_scg4pb.png
 description: >-
