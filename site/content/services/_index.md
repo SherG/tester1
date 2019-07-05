@@ -36,7 +36,7 @@ values:
     text: >
       Many of our clients have questions about diet trends, popular supplements,
       and superfoods. We can provide expert advice on how to eat for wellness. 
-  - heading: Personal Training for Travelers
+  - heading: Remote training for travelers
     imageUrl: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562318438/remote-strength-training_xgtwqf.png
     text: >-
