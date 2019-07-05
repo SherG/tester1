@@ -20,7 +20,7 @@ Rationality is the most fundamental virtue needed for success, with life in gene
 
 But this rationality must be married to consistency. 
 
-![how to succeed](/img/how-to-succeed.png "how to succeed")
+<img src="https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562300884/how-to-succeed_lwmxgs.png"/>
 
 ## The Power of Commitment
 
