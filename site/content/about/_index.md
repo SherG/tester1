@@ -7,7 +7,7 @@ description: >-
   private gyms in Manhattan.
 intro:
   blurbs:
-    - image: /img/weight-training-after-50.png
+    - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316869/weight-training-after-50_d1hsln.png
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
