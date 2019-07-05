@@ -24,7 +24,7 @@ products:
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
-  - image: /img/francisco-villalobos-nyc.png
+  - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562303719/francisco-villalobos-nyc_vpqfft.png
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our Fitness Program
