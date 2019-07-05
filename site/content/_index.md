@@ -1,7 +1,7 @@
 ---
 title: 'Smart Strength Training '
 subtitle: For Baby Boomers
-image: https://res.cloudinary.com/icecloud7/image/q_auto,f_auto/upload/qv1562304023/nyc-personal-trainer_btruio.png
+image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562304023/nyc-personal-trainer_btruio.png
 description: >-
   We provide smart strength training for baby boomers at 3 locations in
   Manhattan. Recommended by Anne Moscona, M.D. Our personal trainer services
