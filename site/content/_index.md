@@ -20,7 +20,7 @@ intro:
     rating. Our fitness training is based on breakthrough exercise research. Our
     pricing is competitive. 
 products:
-  - image: /img/weight-lifting-nyc.png
+  - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562303357/weight-lifting-nyc_cxhx0z.png
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
