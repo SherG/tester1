@@ -9,8 +9,3 @@ if (window.netlifyIdentity) {
   });
 }
 
-// Lazy loader
-$(function() {
-        $('.lazy').Lazy();
-    });
-
