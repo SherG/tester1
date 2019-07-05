@@ -1,6 +1,6 @@
 ---
 title: About
-image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316866/resistance-training-nyc_ouvtne.png
+image: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1562316866/resistance-training-nyc_ouvtne.png
 heading: 'Personal Training '
 description: >-
   Inner Strength Fitness provides smart strength training for baby boomers at 3
