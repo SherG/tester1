@@ -11,15 +11,15 @@ intro:
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
-    - image: /img/workout-for-over-50.png
+    - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316870/workout-for-over-50_pe3k7a.png
       text: >-
         Expert motivation. We use philosophic practice to help you align your
         mind and actions.
-    - image: /img/francisco-villalobos-personal-trainer-nyc.png
+    - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316821/francisco-villalobos-personal-trainer-nyc_teroxr.png
       text: >-
         20 Years of Experience. We have a long track record of exceeding our
         client's highest expectations.
-    - image: /img/over-50-exercise.png
+    - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316866/over-50-exercise_ekn15p.png
       text: >-
         5-Star Rating. We've been vetted by some of New York's finest including
         physician Anne Moscona, who calls our program "<a
@@ -37,13 +37,13 @@ main:
     philosophic practice.
   image1:
     alt: strength training over 60
-    image: /img/strength-training-over-60.png
+    image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316870/strength-training-over-60_m8gknt.png
   image2:
     alt: resistance training over 40
-    image: /img/resistance-training-over-40.png
+    image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316870/resistance-training-over-40_jqkmzk.png
   image3:
     alt: fitness after 50
-    image: /img/fitness-after-50.png
+    image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316825/fitness-after-50_j7kfoi.png
 testimonials:
   - author: 'Anne Moscona, M.D.'
     quote: Outstanding
