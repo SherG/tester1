@@ -31,13 +31,17 @@ I give him my highest possible recommendation."
 – <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">_Anne Moscona, M.D._</a>, _Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University_.
 <br/><br/>
 
+
+![](/img/5-star-reviews.png)
+<br/>
 ## "amazingly efficient"
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
 
 <em>- David Liebowitz</em>
-<br/><br/>
-
+<br/><br/><br/>
+![](/img/5-star-reviews.png)
+<br/>
 ## "excellent"
 
 "Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs."
@@ -46,6 +50,10 @@ I give him my highest possible recommendation."
 
 ![personal trainer nyc](/img/personal-trainer-nyc.png "personal trainer nyc")
 
+<br/>
+<br/>
+
+![](/img/5-star-reviews.png)
 <br/>
 
 ## "poise and class"
@@ -60,6 +68,10 @@ Please feel free to call me at my studio at [(609) 462-7722](<tel: 6094627722>) 
 
 – _Bill DeSimone, Owner, <a href="http://optimalexercisenj.com/index.html" target="blank">Optimal Exercise Personal Training Studio</a>_
 
+<br/>
+<br/>
+
+![](/img/5-star-reviews.png)
 <br/>
 
 ## "the best"
@@ -81,6 +93,12 @@ _– Gerald Grossman_<br/><br/>
 ![inner strength fitness nyc](/img/inner-strength-fitness-nyc.png "inner strength fitness nyc")
 <br/>
 
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
+
+
 ## "a huge positive impact"
 
 "Working out with Francisco has made a huge positive impact to my well-being and fitness level. 
@@ -99,6 +117,11 @@ _– Gabi Powell_
 
 <br/>
 
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
+
 ## "I am stronger than I have ever been my whole life."
 
 "I was always intimidated by the idea of even stepping into the weight room with all those guys sweating and grunting. 
@@ -112,6 +135,10 @@ He patiently taught me how to squat, bench and dead lift. I have no issues stepp
 _– Socorro Morales_
 <br/><br/>
 
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
 
 ## "the best!"
 
@@ -126,6 +153,12 @@ _– Socorro Morales_
 _– Carlos Hatch_
 
 <br/>
+
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
+
 
 ## "no more chiropractor visits"
 
@@ -145,6 +178,12 @@ _– Mark Evangelist_
 
 <br/>
 
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
+
+
 ## "My overall improvement was dramatic."
 
 "I have done regular weight training with Francisco over the last few years and found his efforts to be highly beneficial. 
@@ -163,6 +202,12 @@ In addition to Francisco’s highly sophisticated and time efficient approach to
 
 <em>– Peter R. Lasusa, Jr. – Chairman, U.S. Squash</em>
 <br/><br/>
+
+<br/>
+
+![](/img/5-star-reviews.png)
+<br/>
+
 
 ## "optimal outcomes"
 
