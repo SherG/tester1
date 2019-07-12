@@ -199,7 +199,7 @@ In addition to Francisco’s highly sophisticated and time efficient approach to
 <em>– Peter R. Lasusa, Jr. – Chairman, U.S. Squash</em>
 <br/><br/>
 
-<br/>
+
 
 ![](/img/5-star-reviews.png)
 <br/>
