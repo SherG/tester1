@@ -208,9 +208,9 @@ In addition to Francisco’s highly sophisticated and time efficient approach to
 ![](/img/5-star-reviews.png)
 <br/>
 
-Becoming stronger with Inner Strength Fitness was a positively transformative experience.  The Inner Strength workout is tough but it makes everything else you do throughout the day easier.  
+## "transformative experience"
 
-> "transformative"
+Becoming stronger with Inner Strength Fitness was a positively transformative experience.  The Inner Strength workout is tough but it makes everything else you do throughout the day easier.  
 
 Francisco is deeply knowledgeable, experienced and attentive to the details of proper form.  His empathetic encouragement pushed me and made me feel I could do or accomplish anything.
 
