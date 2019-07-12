@@ -133,8 +133,6 @@ He patiently taught me how to squat, bench and dead lift. I have no issues stepp
 _– Socorro Morales_
 <br/><br/>
 
-<br/>
-
 ![](/img/5-star-reviews.png)
 <br/>
 
