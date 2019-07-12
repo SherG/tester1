@@ -175,8 +175,6 @@ _– Mark Evangelist_
 
 <br/>
 
-<br/>
-
 ![](/img/5-star-reviews.png)
 <br/>
 
