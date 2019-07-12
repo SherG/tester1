@@ -94,8 +94,6 @@ _– Gerald Grossman_<br/><br/>
 ![inner strength fitness nyc](/img/inner-strength-fitness-nyc.png "inner strength fitness nyc")
 <br/>
 
-<br/>
-
 ![](/img/5-star-reviews.png)
 <br/>
 
