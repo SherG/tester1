@@ -201,7 +201,14 @@ In addition to Francisco’s highly sophisticated and time efficient approach to
 
 <br/>
 
+![](/img/5-star-reviews.png)
 <br/>
+
+## Defy your age
+
+Francisco is a healer. The Inner Strength workout can take you from a point where you are feeling your age to a point where you are defying your age!
+
+<em>– Gil Rios</em>
 
 ![](/img/5-star-reviews.png)
 <br/>
