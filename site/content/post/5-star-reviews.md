@@ -31,9 +31,9 @@ I give him my highest possible recommendation."
 – <a href="https://microbiology.columbia.edu/faculty-anne-moscona" target="blank">_Anne Moscona, M.D._</a>, _Professor of Pediatrics; Physiology and Cellular Biophysics; and Microbiology and Immunology; Columbia University_.
 <br/><br/>
 
-
 ![](/img/5-star-reviews.png)
 <br/>
+
 ## "amazingly efficient"
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
@@ -42,6 +42,7 @@ I give him my highest possible recommendation."
 <br/><br/><br/>
 ![](/img/5-star-reviews.png)
 <br/>
+
 ## "excellent"
 
 "Francisco’s understanding of the human body’s mechanics leads to excellent tailoring of a program suitable for each individual’s needs."
@@ -97,7 +98,6 @@ _– Gerald Grossman_<br/><br/>
 
 ![](/img/5-star-reviews.png)
 <br/>
-
 
 ## "a huge positive impact"
 
@@ -159,7 +159,6 @@ _– Carlos Hatch_
 ![](/img/5-star-reviews.png)
 <br/>
 
-
 ## "no more chiropractor visits"
 
 "Francisco helped transition my body from an average 40-something to the strength I had when I was in college.
@@ -183,7 +182,6 @@ _– Mark Evangelist_
 ![](/img/5-star-reviews.png)
 <br/>
 
-
 ## "My overall improvement was dramatic."
 
 "I have done regular weight training with Francisco over the last few years and found his efforts to be highly beneficial. 
@@ -205,9 +203,24 @@ In addition to Francisco’s highly sophisticated and time efficient approach to
 
 <br/>
 
+<br/>
+
 ![](/img/5-star-reviews.png)
 <br/>
 
+Becoming stronger with Inner Strength Fitness was a positively transformative experience.  The Inner Strength workout is tough but it makes everything else you do throughout the day easier.  
+
+> "transformative"
+
+Francisco is deeply knowledgeable, experienced and attentive to the details of proper form.  His empathetic encouragement pushed me and made me feel I could do or accomplish anything.
+
+I can’t recommend Francisco and the Inner Strength Fitness experience enough!
+
+<em>– Enrie Morales</em>
+<br/><br/>
+
+![](/img/5-star-reviews.png)
+<br/>
 
 ## "optimal outcomes"
 
