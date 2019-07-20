@@ -15,11 +15,14 @@ Often, advances in one science come from discoveries made in other fields.  So i
 
 Scientists in agriculture have discovered a genetic factor which has profound implications for the field of exercise science.  This is the story of the Belgian Blue cows.
 
-Due this genetic factor, Belgian Blues lack a protein that regulates muscular growth.  This mutation is called “double muscling” and it causes the cows to look like the bovine equivalent of Arnold Schwarzenegger.
+Due this genetic factor, Belgian Blues lack a protein that regulates muscular growth.  T
+his mutation is called “double muscling” and it causes the cows to look like the bovine equivalent of Arnold Schwarzenegger.
 
 ### The Relationship Between Muscle Development and Genetics
 
-What is even more interesting for the purposes of this article is that a similar myostatin deletion has been discovered in Flex Wheeler, and other  top-ranked professional bodybuilders. Anyone with eyes could see that genetics plays a role in how they look.
+What is even more interesting is that a similar myostatin deletion has been discovered in Flex Wheeler, and other top-ranked professional bodybuilders. 
+
+Anyone can see that genetics plays a role here.
 
 Now we have concrete evidence of at least one genetic factor involved in how muscular (and lean) some of us have the potential to become. 
 
@@ -33,7 +36,9 @@ Many may take this to be a cause for depression or an excuse for inactivity.  Af
 
 My answer is a resounding yes! Later in this article I will go into the reasons why you should.
 
-For now let me point out how flawed this thinking is by reference to a conversation I once had with a friend and colleague.  My friend and I argued about the implications of the fact that genetics plays a large role in determining an individual’s intellectual capacity or I.Q.  
+For now let me point out how flawed this thinking is by reference to a conversation I once had with a friend and colleague.
+
+My friend and I argued about the implications of the fact that genetics plays a large role in determining an individual’s intellectual capacity or I.Q.  
 
 My point was that even if one accepts that genetics imposes definite limitations on what we are capable of intellectually, as we attempt to maximize our unknown potential throughout our lifetimes, we don’t know what those boundaries are, except in hindsight. 
 
