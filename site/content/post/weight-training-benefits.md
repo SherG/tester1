@@ -5,7 +5,7 @@ description: >-
   Weight training twice a week can reduce your risk of heart attack or stroke by
   50%, according to a recent study.
 ---
-The study is covered in this <a href="https://nyti.ms/2DZQsRh" target="blank">_New York Times_</a> article.
+The study is covered in this <a href="https://www.nytimes.com/2018/12/04/well/move/even-a-little-weight-training-may-cut-the-risk-of-heart-attack-and-stroke.html" target="blank">_New York Times_</a> article.
 
 ## A 50% Decline in Risk of Heart Attack or Stroke
 
