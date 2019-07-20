@@ -1,6 +1,6 @@
 <head>
 
-	<title>{{ .Title }} | Inner Strength Fitness </title>
+	<title>{{ .Title }} - Inner Strength Fitness </title>
         <link rel="preload" href="/css/main.css" as="style">
         <link rel="stylesheet" href="/css/main.css" />
 
@@ -16,7 +16,9 @@
 	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
 	<meta name="theme-color" content="#fff">
         <meta name="description" content="{{ .Description }}">
-	<script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	{{ if .IsHome }}
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ end }}
 	<script type="application/ld+json">
 {
 	"@context": "http://schema.org",
