@@ -101,3 +101,6 @@ In my judgement, erring on the side of less risk of injury is entirely consisten
 So you can train ballistically if you want to and if you are a trainer, you are legally allowed to train your clients in this way.  
 
 But unless you want to suffer the fate of most projectiles, what good is training like one?
+
+<hr>
+<p><smaller><em><br/> Photo of weight lifter by <a href="https://stock.adobe.com/contributor/205191830/yakobchuk-olena?load_type=author&prev_url=detail" target="blank">Yakobchuk Olena</a>. Image of <a href="https://stock.adobe.com/images/businessman-shot-out-of-cannon/216083894" target="blank">man + cannon</a> by <a href="https://stock.adobe.com/contributor/205565275/blocberry?load_type=author&prev_url=detail" target="blank">blocberry</a>.</smaller> Both via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license.</a></em></smaller></p>
