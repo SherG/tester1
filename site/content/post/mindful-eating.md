@@ -145,7 +145,7 @@ I awoke to see the gleaming new bike at the foot of my bed so in the short term 
 \
 But for many years after that, all the way into my college years I was a faithful plate cleaner.
 
-![red bicycle](/img/red-bicycle.png "red bicycle")
+![red bicycle](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto,e_sharpen/v1563656445/red-bicycle_bdgj98.png "red bicycle")
 
 ### 
 
