@@ -47,9 +47,11 @@ Feel free to book a <a href="https://calendly.com/isfny" target="blank">phone ap
 
 ### Recommended Reading on Strength Training
 
-<a href="/post/weight-training-benefits/" target="blank">Research: A Little Weight Training Yields Big Health Benefits</a>
+[Research: A Little Weight Training Yields Big Health Benefits](/post/weight-training-benefits/)
 
 Weight training twice a week can reduce your risk of heart attack or stroke by 50%, according to a recent study publicized by the <a href="https://www.nytimes.com/2018/12/04/well/move/even-a-little-weight-training-may-cut-the-risk-of-heart-attack-and-stroke.html" target="blank">_New York Times</a>_.
+
+[Can Short Workouts Be Effective? ](/post/short-workouts/)
 
 <br/><hr/>
 
