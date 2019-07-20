@@ -11,7 +11,7 @@ Why is that? After all, I thought ballistics was the science that studied the be
 
 Why ask human beings to mimic projectiles in their exercise programs?  I’m going to be pollyanna for a moment and assume the best rationale.
 
-![plyometrics](/img/plyometrics.png "plyomtetrics") _Is this was your workout feels like?_ <hr>
+![plyometrics](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto/v1563649190/plyometrics_xrbhgv.png "plyomtetrics") _Is this was your workout feels like?_ <hr>
 
 Trainers, and indeed many athletes, are educated to believe that you need to move fast if you are going to be fast. This is sometimes referred to as "explosive power."
 
