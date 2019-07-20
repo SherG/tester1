@@ -127,7 +127,7 @@ Each year, an average of 80,000 men suffer a hip fracture and one-third of these
 
 <a href="https://www.bones.nih.gov/health-info/bone/osteoporosis/overview" target="blank">Osteoporosis</a>, or porous bone, is a described by the National Institutes of Health as a "disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist." 
 
-In the U.S. today, over 10 million individuals already have osteoporosis and 18 million more have low bone mass, placing them at increased risk for this disease.  
+According to the National Osteoporosis Foundation, some <a href="https://www.nof.org/news/54-million-americans-affected-by-osteoporosis-and-low-bone-mass/" target="blank">54 million Americans</a> are affected by low bone density.
 
 ### The Benefits of Strength Training
 
