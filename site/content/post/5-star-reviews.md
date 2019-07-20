@@ -232,4 +232,4 @@ _— Sherrie Gossett, Founder, MindX_
 <hr>
 
 ## Looking for a personal trainer?
-We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. There's no charge. 
+We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
