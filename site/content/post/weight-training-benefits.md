@@ -19,7 +19,7 @@ Even better, these health benefits accrued regardless of whether the participant
 
 _A client of ours, enjoying the benefits of weight lifting!_
 
-<hr><br/>
+<hr>
 
 ## Take Action Today for a Healthier Future
 
