@@ -38,5 +38,11 @@ If strength training, properly performed, is not the fabled fountain of youth, I
 
 Feel free to book a <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness, to discuss these ideas and your fitness concerns.
 
+### Recommended Reading on Strength Training
+
+<a href="/post/weight-training-benefits/" target="blank">Research: A Little Weight Training Yields Big Health Benefits</a>
+
+Weight training twice a week can reduce your risk of heart attack or stroke by 50%, according to a recent study publicized by the _New York Times_.
+
 <hr/>
 <p><smaller><em>Image of Cantino planisphere (1502) by <a href="https://en.wikipedia.org/wiki/Biblioteca_Estense" target="blank">Biblioteca Estense</a>, Modena, Italy; via <a href="https://en.wikipedia.org/wiki/Cantino_planisphere#/media/File:Cantino_planisphere_(1502).jpg" target="blank">Wikipedia</a>. Image is in the public domain. Photo of <a href="https://stock.adobe.com/images/senior-waterskiing/24159528" target="blank">water skier</a> by <a href="https://stock.adobe.com/contributor/200583219/mary-durden?load_type=author&prev_url=detail" target="blank">Mary Durden</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license</a>.</em></smaller></p>
