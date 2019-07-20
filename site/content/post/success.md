@@ -38,4 +38,4 @@ To end with another quote, this one from Will Durant, summarizing Aristotle: "\[
 <br/>
 
 <hr>
-<p class="smaller"><em>Illustration of <a href=https://stock.adobe.com/images/mountain-climbing-route-to-peak-business-journey-path-in-progress-to-success-vector-concept/199086508" target="blank">mountain</a> by <a href="https://stock.adobe.com/contributor/206206823/microone?load_type=author&prev_url=detail" target="blank">MicroOne</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license</a></em></p>
+<p class="smaller"><em>Illustration of <a href="https://stock.adobe.com/images/mountain-climbing-route-to-peak-business-journey-path-in-progress-to-success-vector-concept/199086508" target="blank">mountain</a> by <a href="https://stock.adobe.com/contributor/206206823/microone?load_type=author&prev_url=detail" target="blank">MicroOne</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license</a></em></p>
