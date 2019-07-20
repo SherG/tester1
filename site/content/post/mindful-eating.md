@@ -1,6 +1,6 @@
 ---
 title: 'Mindful Eating: A Personal Journey'
-date: 2018-09-06T18:50:59.477Z
+date: 2019-07-18T18:50:59.477Z
 description: This is my story of how I grew out of a rule-bound approach to eating.
 ---
 I once accepted certain rules about eating, rules that had nothing to do with a healthy relationship with food. 
