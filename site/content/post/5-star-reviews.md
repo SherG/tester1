@@ -3,7 +3,8 @@ title: '5-Star Reviews: Personal Training NYC'
 date: 2017-12-02T04:58:01.525Z
 description: >-
   We're proud of the 5-star Google, Yelp, and Facebook reviews we've received
-  from clients. In fact, all of our customer reviews are 5-star reviews.
+  from clients. In fact, <em>all</em> of our customer reviews are 5-star
+  reviews.
 image: /img/francisco-villalobos-clients.png
 ---
 <br/>Here's a selection, starting with Dr. Anne Moscona, a prominent physician, medical researcher, and long-term client of ours. 
