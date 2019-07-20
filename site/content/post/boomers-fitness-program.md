@@ -21,7 +21,7 @@ Whether it’s tennis, golf or swimming, there are a number of ways to create an
 
 And that touches on an important truth about how many, young and old, approach exercise today. If it’s not fun, they won’t stick with it.
 
-![baby boomer fitness](/img/baby-boomer-fitness.png "baby boomer fitness ")
+![baby boomer fitness](https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1563651082/baby-boomer-fitness_cwpozh.png "baby boomer fitness ")
 
 _Strength training can enable you to continue to excel at and enjoy your favorite activities._<hr>
 
