@@ -7,7 +7,8 @@ I remember being fascinated by the <a href="https://en.wikipedia.org/wiki/Age_of
 
 One of the most famous of the Age of Discovery’s quests was the search for the fountain of youth in Florida by Ponce de Leon.
 
-![cantino planisphere](/img/cantino-planisphere.png "cantino planisphere")*A section of the Cantino Planisphere, the earliest known map depicting Portugese discoveries. At upper left is Florida and the east coast of the United States.*<hr>
+![cantino planisphere](https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1563650398/cantino-planisphere_syppu4.png "cantino planisphere")
+<em>A section of the Cantino Planisphere, the earliest known map depicting Portugese discoveries. At upper left is Florida and the east coast of the United States.</em><hr>
 
 Although they have yet to find a literal fountain of youth there, many elderly have found it to be an ideal place with which to extend their twilight years through a number of activities, many with a beneficial exercise effect. 
 
@@ -35,3 +36,6 @@ This form of exercise, although effortful, makes the muscles stronger, yielding 
 And these benefits will not only extend the vitality of your years, they make every recreational activity you pursue more rewarding. 
 
 If strength training, properly performed, is not the fabled fountain of youth, I don’t know what is.
+
+<hr/>
+<p><smaller><em>Image of Cantino planisphere (1502) by <a href="https://en.wikipedia.org/wiki/Biblioteca_Estense" target="blank">Biblioteca Estense</a>, Modena, Italy; via <a href="https://en.wikipedia.org/wiki/Cantino_planisphere#/media/File:Cantino_planisphere_(1502).jpg" target="blank">Wikipedia</a>. Image is in the public domain.</em></smaller></p>
