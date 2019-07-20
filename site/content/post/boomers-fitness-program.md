@@ -2,9 +2,9 @@
 title: 'What''s the Best Fitness Program for Baby Boomers? '
 date: 2018-06-08T20:29:43.010Z
 description: >-
-  Is there a fountain of youth for baby boomers? A growing body of research
-  indicates strength training is the best prescription against the effects of
-  aging.
+  Is there a fountain of youth for baby boomers? A growing body of excercise
+  research indicates strength training is the best prescription against the
+  effects of aging.
 ---
 I remember being fascinated by the <a href="https://en.wikipedia.org/wiki/Age_of_Discovery" target="blank">Age of Discovery</a> when I first read about it in grade school. The world back then must have seemed like an O. Henry short story — marvelous discoveries and revelations waiting behind every corner.
 
