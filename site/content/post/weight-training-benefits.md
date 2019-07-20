@@ -1,6 +1,6 @@
 ---
 title: 'Research: A Little Weight Training Yields Big Health Benefits'
-date: 2019-07-20T22:51:20.040Z
+date: 2019-07-20T17:51:00.000Z
 description: >-
   Weight training twice a week can reduce your risk of heart attack or stroke by
   50%, according to a recent study.
