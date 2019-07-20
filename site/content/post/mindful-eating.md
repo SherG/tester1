@@ -229,7 +229,6 @@ The goal as I’ve come to see it is to experience the joy of someone’s nurtur
 
 When we have accepted another’s loving nourishment _without cost to our health and self-esteem_, only then are we **genuinely honoring** our host.
 
-![]()
 
 ### Postscript
 
