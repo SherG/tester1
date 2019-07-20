@@ -8,7 +8,9 @@ image: ''
 ---
 Recently I came across <a href="https://images.app.goo.gl/e1NtZPz2gTuTiQ8RA" target="blank">this cartoon</a> on a friend's social media feed.
 
-My first reaction to this cartoon was to laugh.  As someone who makes a living as a strength coach, I can certainly attest to how difficult it is to get someone to make a long-term, persistent committment to changing their lifestyle.  
+My first reaction to this cartoon was to laugh.  
+
+As someone who makes a living as a [strength coach](/about), I can certainly attest to how difficult it is to get someone to make a long-term, persistent commitment to changing their lifestyle.  
 
 But as effortful as such a commitment is it behooves us to remember that a life degraded by symptoms associated with heart disease, insulin resistance, muscle and bone loss are often the alternative.
 
@@ -24,7 +26,7 @@ In my own case, I'm grateful to each of my surgeons for the ACL reconstructions 
 
 And thank goodness that the opiods I was consuming like Skittles before each of [my back surgeries](/post/back-surgery/) made the pain bearable.  
 
-> But once each surgery was done, it was my responsibility to rebuild the strength I had lost so that I could get back to living the full, active life I wanted to live.  
+But once each surgery was done, it was my responsibility to rebuild the strength I had lost so that I could get back to living the full, active life I wanted to live.  
 
 So let us never forget how fortunate we are to live at a time when medicine allows us to face down assaults to our health that would have been crippling or fatal to generations past.  
 
