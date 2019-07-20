@@ -229,3 +229,8 @@ I'm impressed with the depth of Francisco's expertise: this is a man who's not g
 He's a natural communicator with a warm personality and a person of great integrity. Francisco's personality really shines: you can see how enthusiastic he is to create win-wins for his clients. I also appreciate his safety-first approach.".
 
 _— Sherrie Gossett, Founder, MindX_
+
+<hr>
+
+## Looking for a personal trainer?
+We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. There's no charge. 
