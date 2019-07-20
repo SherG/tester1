@@ -25,7 +25,7 @@ Book a [free phone appointment](https://calendly.com/isfny/15min?back=1) with Fr
 
 ## What Do Our Clients Say?
 
-We're proud of our client testimonials like these:
+We're proud of our 5-star [client testimonials](/post/5-star-reviews/) like these:
 
 ### "no more chiropractor visits"
 
