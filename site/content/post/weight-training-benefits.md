@@ -18,6 +18,7 @@ Even better, these health benefits accrued regardless of whether the participant
 ![weight training nyc](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto/v1563652930/socorro-morales-weight-lifting_ikfrzr.png "weight training nyc")
 
 _A client of ours, enjoying the benefits of weight lifting!_
+
 <hr><br/>
 
 ## Take Action Today for a Healthier Future
@@ -26,7 +27,7 @@ Would you like to begin enjoying these health benefits for yourself?
 
 When you engage in resistance training, you are, in effect, investing in a "Fitness 401k" from which you can withdraw health benefits years into the future.
 
-One of our long-term clients, Anne Moscona, M.D., has described our fitness program as "Outstanding."
+One of our long-term clients, Anne Moscona, M.D., has described our fitness program as "[Outstanding](/post/5-star-reviews/)."
 
 ### Book a Free Phone Appointment
 
