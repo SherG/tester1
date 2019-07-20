@@ -45,7 +45,7 @@ As was my habit back then, I had divided my plate into little compartments.
 
 Rice and beans in one section, well-seasoned roasted pork in another section, sweet plantains in another. I liked all the foods on this particular plate.  
 
-![rice beans plantains](/img/rice-beans-plantains.png "rice beans plantains")_Rice and beans with plantains and meat is one of my favorite dishes._ <hr>
+![rice beans plantains](https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1563656438/rice-beans-plantains_bhrdrx.png "rice beans plantains")_Rice and beans with plantains and meat is one of my favorite dishes._ <hr>
 
 The point of this separation wasn’t to pick out foods I refused to eat but to enjoy the foods in a particular order — from least to most favorite. 
 
