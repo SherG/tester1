@@ -6,16 +6,20 @@ description: >-
   body of research indicates that it's best prescription against the effects of
   aging.
 ---
-I remember being fascinated by the <a href="https://en.wikipedia.org/wiki/Age_of_Discovery" target="blank">Age of Discovery</a> when I first read about it in grade school. The world back then must have seemed like an O. Henry short story — marvelous discoveries and revelations appeared to be waiting behind every corner.
+I remember being fascinated by the <a href="https://en.wikipedia.org/wiki/Age_of_Discovery" target="blank">Age of Discovery</a> when I first read about it in grade school. The world back then must have seemed like an O. Henry short story — marvelous discoveries and revelations waiting behind every corner.
 
 One of the most famous of the Age of Discovery’s quests was the search for the fountain of youth in Florida by Ponce de Leon.
 
 ![cantino planisphere](https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1563650398/cantino-planisphere_syppu4.png "cantino planisphere")
 <em>A section of the Cantino Planisphere, the earliest known map depicting Portugese discoveries. At upper left is Florida and the east coast of the United States.</em><hr>
 
-Although they have yet to find a literal fountain of youth there, many elderly have found it to be an ideal place with which to extend their twilight years through a number of activities, many with a beneficial exercise effect. 
+Although they have yet to find a literal fountain of youth in Florida, many active retirees have found it to be an ideal place to spend their twilight years in.
 
-And that is another important relationship between exercise and time. We measure our lives in terms of the span of our years but it’s also the life in our years that is of tremendous value. Herein lies the valuable distinction between our chronological age and our actual age, a distinction made popular by such celebrities as Dr. Oz.
+## Aging and Fitness Choices
+
+There is an important relationship between exercise and time. We measure our lives in terms of the span of our years but it’s also the life in our years that is of tremendous value. 
+
+Herein lies the valuable distinction between our chronological age and our actual age, a distinction made popular by celebrities like Dr. Oz.
 
 Could it be that these septuagenarians have found something that eluded the Spanish conquistador? 
 
@@ -41,7 +45,6 @@ If strength training, properly performed, is not the fabled fountain of youth, I
 
 Feel free to book a <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness, to discuss these ideas and your fitness concerns.
 
-
 ### Recommended Reading on Strength Training
 
 <a href="/post/weight-training-benefits/" target="blank">Research: A Little Weight Training Yields Big Health Benefits</a>
@@ -49,4 +52,5 @@ Feel free to book a <a href="https://calendly.com/isfny" target="blank">phone ap
 Weight training twice a week can reduce your risk of heart attack or stroke by 50%, according to a recent study publicized by the _New York Times_.
 
 <br/><hr/>
+
 <p><smaller><em>Image of Cantino planisphere (1502) by <a href="https://en.wikipedia.org/wiki/Biblioteca_Estense" target="blank">Biblioteca Estense</a>, Modena, Italy; via <a href="https://en.wikipedia.org/wiki/Cantino_planisphere#/media/File:Cantino_planisphere_(1502).jpg" target="blank">Wikipedia</a>. Image is in the public domain. Photo of <a href="https://stock.adobe.com/images/senior-waterskiing/24159528" target="blank">water skier</a> by <a href="https://stock.adobe.com/contributor/200583219/mary-durden?load_type=author&prev_url=detail" target="blank">Mary Durden</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license</a>.</em></smaller></p>
