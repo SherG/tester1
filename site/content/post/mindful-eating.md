@@ -13,7 +13,7 @@ In her essay “Philosophical Detection” Ayn Rand writes:
 
 That passage has inspired me to share this personal journey.
 
-![punta cana](/img/punta-cana.png "punta cana")_The beach at Punta Cana_<hr>
+![punta cana](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto,e_sharpen/v1563656432/punta-cana_af277z.png "punta cana")_The beach at Punta Cana_<hr>
 
 ## Growing Up in the Dominican Republic
 
