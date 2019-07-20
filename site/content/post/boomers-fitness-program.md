@@ -26,7 +26,7 @@ _Strength training can enable you to continue to excel at and enjoy your favorit
 
 ## What's the Most Effective Form of Exercise for Baby Boomers?
 
-The most effective form of exercise for extending life and vitality is [**strength training**](/post/weight-training-benefits/).
+The most effective form of exercise for extending life and vitality is [strength training](/post/weight-training-benefits/).
 
 The strength training approach that best strikes a balance between effectiveness, time-efficiency and safety is a high intensity, slow motion approach like [the one I employ](/about/) at Inner Strength Fitness. 
 
