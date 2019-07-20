@@ -234,3 +234,5 @@ _— Sherrie Gossett, Founder, MindX_
 ## Looking for a personal trainer?
 
 We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
+
+We provide [smart strength training](/about) to baby boomers in the Manhattan area. Choose from 3 private gyms or be trained at your residence. Remote training for travelers also available.
