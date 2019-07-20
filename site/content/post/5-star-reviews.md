@@ -229,7 +229,8 @@ He's a natural communicator with a warm personality and a person of great integr
 
 _— Sherrie Gossett, Founder, MindX_
 
-<hr>
+<hr><br/>
 
 ## Looking for a personal trainer?
+
 We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
