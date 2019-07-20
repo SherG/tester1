@@ -23,7 +23,7 @@ What is even more interesting for the purposes of this article is that a similar
 
 Now we have concrete evidence of at least one genetic factor involved in how muscular (and lean) some of us have the potential to become. 
 
-![flex wheeler](/img/flex-wheeler-bodybuilding-belgian-blue.png "flex wheeler") 
+![flex wheeler](/img/flex-wheeler-bodybuilding-belgian-blue.png "flex wheeler")
 
 _Champion bodybuilder Flex Wheeler and a Belgian Blue bull. We know that genetics plays a role in muscle development, both in humans and animals._<hr>
 
@@ -169,9 +169,11 @@ Heart surgeries can cost well over $200,000, and one must often spend as much as
 
  If, due to lack of exercise, your mobility prematurely decreases to the point where you can't care for yourself, you may end up spending over $3,000 per month for the last 5 to 10 years of your life wasting away in a nursing home.
 
-So, would you rather spend $500 per year on a gym membership and make the effort to stay in shape? Or end up spending upwards of $30,000 per year (or wasting taxpayer’s money) to stay in a nursing home and have somebody else dress, feed, and bathe you because you're too weak to do so yourself.  
+So, would you rather spend $500 per year on a gym membership and make the effort to stay in shape? 
 
-Frankly, you can't afford not to exercise
+Or end up spending upwards of $30,000 per year (or wasting taxpayer’s money) to stay in a nursing home and have somebody else dress, feed, and bathe you because you're too weak to do so yourself.  
+
+Frankly, you — and I — can't afford not to exercise
 
 ### Mobility and Thriving
 
@@ -185,4 +187,4 @@ Regarding your muscles and the functional vitality they make possible, the stark
 
 Feel free to book a <a href="https://calendly.com/isfny/15min" target="blank">phone appointment</a> with me, Francisco Villalobos, the owner of Inner Strength Fitness. 
 
-I'd love to discuss your fitness goals and the Inner Strength Fitness program with you.
+I'd love to discuss your fitness goals and the Inner Strength Fitness[ program](/about) with you.
