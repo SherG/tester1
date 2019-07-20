@@ -218,7 +218,7 @@ Instead of eating more than you want to, you can show appreciation for your host
 
 If you truly enjoy someone’s cooking, you want to be able to enjoy without the tinge of regret. 
 
-![mindful eating](/img/mindful-eating-healthy-food.png "mindful eating")
+![mindful eating](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto,e_sharpen/v1563656427/mindful-eating-healthy-food_ck1f1v.png "mindful eating")
 
 \
 You want to be able to say, “I really enjoyed that meal” without having to feel miserable about how your clothes feel afterwards or with the indigestion that keeps you up all night.  
