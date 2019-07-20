@@ -14,7 +14,6 @@ Although they have yet to find a literal fountain of youth there, many elderly h
 
 And that is another important relationship between exercise and time. We measure our lives in terms of the span of our years but it’s also the life in our years that is of tremendous value. Herein lies the valuable distinction between our chronological age and our actual age, a distinction made popular by such celebrities as Dr. Oz.
 
-
 Could it be that these septuagenarians have found something that eluded the Spanish conquistador? 
 
 Whether it’s tennis, golf or swimming, there are a number of ways to create an exercise effect through an activity you enjoy. 
@@ -36,6 +35,8 @@ This form of exercise, although effortful, makes the muscles stronger, yielding 
 And these benefits will not only extend the vitality of your years, they make every recreational activity you pursue more rewarding. 
 
 If strength training, properly performed, is not the fabled fountain of youth, I don’t know what is.
+
+Feel free to book a <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with me, Francisco Villalobos, owner of Inner Strength Fitness, to discuss these ideas and your fitness concerns.
 
 <hr/>
 <p><smaller><em>Image of Cantino planisphere (1502) by <a href="https://en.wikipedia.org/wiki/Biblioteca_Estense" target="blank">Biblioteca Estense</a>, Modena, Italy; via <a href="https://en.wikipedia.org/wiki/Cantino_planisphere#/media/File:Cantino_planisphere_(1502).jpg" target="blank">Wikipedia</a>. Image is in the public domain. Photo of <a href="https://stock.adobe.com/images/senior-waterskiing/24159528" target="blank">water skier</a> by <a href="https://stock.adobe.com/contributor/200583219/mary-durden?load_type=author&prev_url=detail" target="blank">Mary Durden</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license.</em></smaller></p>
