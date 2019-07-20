@@ -33,7 +33,7 @@ One of our long-term clients, Anne Moscona, M.D., has described our fitness prog
 
 If you would like to learn more about resistance training and Inner Strength Fitness (ISF) [program](/about), I invite you to book a <a href="https://calendly.com/isfny/15min?back=1&month=2019-07" target="blank"> phone appointment</a> with me, Francisco Villalobos, owner of ISF. 
 
-### 
+Our future is always beginning right now. 
 
 ### Related Reading:
 
