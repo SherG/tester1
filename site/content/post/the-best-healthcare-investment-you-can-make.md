@@ -20,7 +20,9 @@ As amazing and necessary as my Mom's chemotherapy and radiation where, my traini
 
 As strength coach extraordinaire Mark Rippetoe famously wrote, "strong people are harder to kill..."
 
-In my own case, I'm grateful to each of my surgeons for the ACL reconstructions and <a href="https://www.mayoclinic.org/tests-procedures/diskectomy/about/pac-20393837" target="blank">lumbar diskectomies</a> that have allowed me to continue practicing the martial art I love: Brazilian Jiu-jitsu.  And thank goodness that the opiods I was consuming like skittles before each of my back surgeries made the pain bearable.  
+In my own case, I'm grateful to each of my surgeons for the ACL reconstructions and <a href="https://www.mayoclinic.org/tests-procedures/diskectomy/about/pac-20393837" target="blank">lumbar diskectomies</a> that have allowed me to continue practicing the martial art I love: Brazilian Jiu-jitsu.  
+
+And thank goodness that the opiods I was consuming like Skittles before each of [my back surgeries](/post/back-surgery/) made the pain bearable.  
 
 > But once each surgery was done, it was my responsibility to rebuild the strength I had lost so that I could get back to living the full, active life I wanted to live.  
 
