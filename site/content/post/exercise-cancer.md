@@ -37,11 +37,11 @@ I’m happy to boast that her deadlift is back up to 160 lbs. and her weight is 
 
 >  My mother’s cancer was defeated without the need for surgery
 
-So strong people are indeed “harder to kill” from all causes of mortality.  
+So strong people are indeed “harder to kill.".  
 
 ## Stamina and Bouncing Back
 
-I credit my Mom’s pre-treatment strength and her dedication to training for the stamina she displayed throughout her treatment period and her ability to bounce back in its aftermath.  
+I credit my Mom’s pre-treatment strength and her continued [strength training](/about) for the stamina she displayed throughout her treatment period and her ability to bounce back in its aftermath.  
 
 You never know what curve balls life will throw at you.  Being the strongest you can be is the best way to face those challenges.  
 
