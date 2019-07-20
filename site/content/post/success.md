@@ -35,3 +35,6 @@ Success requires a set of behaviors and commitments that are habitually pointed 
 Half measures will not yield success. There are no short cuts. 
 
 To end with another quote, this one from Will Durant, summarizing Aristotle: " . . . we are what we repeatedly do. Excellence, then is not an act but a habit.”
+<br/>
+<hr>
+<p class="smaller"><em>Illustration of <a href=https://stock.adobe.com/images/mountain-climbing-route-to-peak-business-journey-path-in-progress-to-success-vector-concept/199086508" target="blank">mountain</a> by <a href="https://stock.adobe.com/contributor/206206823/microone?load_type=author&prev_url=detail" target="blank">MicroOne</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe license</a></em></p>
