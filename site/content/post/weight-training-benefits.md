@@ -15,7 +15,7 @@ She added, <mark>"**People who lifted twice a week, for about an hour or so in t
 
 Even better, these health benefits accrued regardless of whether the participants engaged in frequent aerobic exercise. 
 
-![weight training nyc](/img/weight-lifting-nyc.png "weight training nyc")
+![weight training nyc](https://res.cloudinary.com/icecloud7/image/upload/w_650,q_auto,f_auto/v1563652930/socorro-morales-weight-lifting_ikfrzr.png "weight training nyc")
 
 _A client of ours, enjoying the benefits of weight lifting!_
 
