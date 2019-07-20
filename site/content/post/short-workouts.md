@@ -1,6 +1,6 @@
 ---
 title: Can Short Workouts Be Effective? What Does Medical Research Say?
-date: 2018-06-07T19:07:17.422Z
+date: 2019-07-19T19:07:17.422Z
 description: 'Short or long strength training sessions: Which is better?'
 ---
 As a fitness consultant, I’ve been thinking about and working in the fields of exercise and nutrition for over twenty years. 
