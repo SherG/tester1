@@ -125,7 +125,7 @@ Each year, an average of 80,000 men suffer a hip fracture and one-third of these
 
 > Studies show that strength training can yield bone density increases as high as 1% per week.
 
-Osteoporosis, or porous bone, is a disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist. 
+<a href="https://www.bones.nih.gov/health-info/bone/osteoporosis/overview" target="blank">Osteoporosis</a>, or porous bone, is a described by the National Institutes of Health as a "disease characterized by low bone mass and structural deterioration of bone tissue, leading to bone fragility and an increased susceptibility to fractures of the hip, spine, and wrist." 
 
 In the U.S. today, over 10 million individuals already have osteoporosis and 18 million more have low bone mass, placing them at increased risk for this disease.  
 
@@ -137,7 +137,9 @@ What kind of exercise? Strength training is the only safe and productive means o
 
 Some studies have shown increases in bone density as high as 1% per week with strength training.
 
-I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context. Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
+I cannot emphasize enough that only strength training counts as an effective exercise intervention in this context. 
+
+Nothing else qualifies, and many of the activities that have been recommended as exercise by the so-called "experts" in this field will do absolutely nothing to help anyone, and will in most cases do quite a bit to hurt people.  
 
 > According to Dr. Michael Pollock, aerobics has led to "an epidemic of joint and spine injury."
 
