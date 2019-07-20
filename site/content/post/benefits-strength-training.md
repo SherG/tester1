@@ -21,7 +21,9 @@ With the right strength training regimen, you can obtain the following health be
 
 Find out how today.
 
-Book a [free phone appointment](https://calendly.com/isfny/15min?back=1) with Francisco Villalobos.
+Book a [free phone appointment](https://calendly.com/isfny/15min?back=1) with Francisco Villalobos, owner of Inner Strength Fitness. 
+
+We provide smart strength training for baby boomers at 3 private gyms in Manhattan. Or  choose to be trained at your home gym.
 
 ## What Do Our Clients Say?
 
