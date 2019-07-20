@@ -1,6 +1,6 @@
 ---
 title: 'What''s the Best Fitness Program for Baby Boomers? '
-date: 2018-06-08T20:29:43.010Z
+date: 2018-07-20T20:29:43.010Z
 description: >-
   Is there a fountain of youth for baby boomers? A growing body of exercise
   research indicates strength training is the best prescription against the
