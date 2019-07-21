@@ -57,7 +57,9 @@ For example, a recent [research study](/post/weight-training-benefits/) publishe
 
 The research study was led by <a href="https://www.kin.hs.iastate.edu/directory/profile.php?u=dclee&embedded=true" target="blank">Dr. Duck-chul Lee</a>, professor of Kinesiology  at Iowa State University. 
 
-In an <a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">interview</a> with the American Association of Universities, Lee said "People may think they need to spend a lot of time lifting weights, but just two sets of bench presses that take less than 5 minutes could be effective." 
+In an <a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">interview</a> Lee said: "People may think they need to spend a lot of time lifting weights, but just two sets of bench presses that take less than 5 minutes could be effective." 
+
+## Body By Science by Dr. Doug McGuff
 
 For an elaboration on this concept see chapter 5 in <a href="https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/" target="blank"><em>Body by Science</em></a> by physician Doug McGuff and John Little. 
 
