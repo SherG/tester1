@@ -90,3 +90,6 @@ Find out now how you can get optimal outcomes from your fitness investment.
 <a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">Doug McGuff MD, explains High Intensity Training</a>
 
 <a href="https://www.youtube.com/watch?v=DYnx49pTqhc" target="blank">Dr. Doug McGuff on the Best Routines and Frequency of Training For Those Over-40</a> - video
+
+<a href="https://www.wsj.com/articles/forget-the-hotshot-trainer-with-the-six-pack-boomers-want-mature-fitness-coaches-11554557400" target="blank">Forget the Hotshot Trainer with the Six-Pack, Boomers Want Mature Fitness Coaches</a> <br/>
+This <em>Wall St. Journal</em> article explores why baby boomers want personal trainers their own age. 
