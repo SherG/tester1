@@ -9,12 +9,12 @@ description: >-
 intro:
   blurbs:
     - image: >-
-        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316869/weight-training-after-50_d1hsln.png
+        https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1562316869/weight-training-after-50_d1hsln.png
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
     - image: >-
-        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316870/workout-for-over-50_pe3k7a.png
+        https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1562316870/workout-for-over-50_pe3k7a.png
       text: >-
         Expert motivation. We use philosophic practice to help you align your
         mind and actions.
@@ -43,15 +43,15 @@ main:
   image1:
     alt: strength training over 60
     image: >-
-      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316870/strength-training-over-60_m8gknt.png
+      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316870/strength-training-over-60_m8gknt.png
   image2:
     alt: resistance training over 40
     image: >-
-      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316870/resistance-training-over-40_jqkmzk.png
+      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316870/resistance-training-over-40_jqkmzk.png
   image3:
     alt: fitness after 50
     image: >-
-      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316825/fitness-after-50_j7kfoi.png
+      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316825/fitness-after-50_j7kfoi.png
 testimonials:
   - author: 'Anne Moscona, M.D.'
     quote: Outstanding
