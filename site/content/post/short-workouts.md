@@ -93,6 +93,8 @@ Find out now how you can get optimal outcomes from your fitness investment.
 
 ### Recommended Reading
 
+<a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">Weight Lifting is Good For Your Heart, and It Doesn't Take Much</a> - Iowa State University
+
 <a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">Doug McGuff MD, explains High Intensity Training</a>
 
 <a href="https://www.youtube.com/watch?v=DYnx49pTqhc" target="blank">Dr. Doug McGuff on the Best Routines and Frequency of Training For Those Over-40</a> - video
