@@ -60,6 +60,6 @@ testimonials:
       I can not speak more highly of the personal fitness training provided by
       Francisco – he's the best trainer I've ever had by far.
 full_image: >-
-  https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316824/francisco-villalobos-with-client_ho1hyn.png
+  https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316824/francisco-villalobos-with-client_ho1hyn.png
 ---
 
