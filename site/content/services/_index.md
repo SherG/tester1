@@ -29,7 +29,8 @@ values:
     text: >
       Thrive in your career and manage stress by staying on top of your physical
       fitness. We serve busy executives with a fast-paced and efficient workout
-      program. Our motto: "30 minutes and you're good."
+      program. Our motto: "<a href="https://isfny.com/post/short-workouts/"
+      target="blank">30 minutes</a> and you're good."
   - heading: Nutrition coaching
     imageUrl: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562318402/nutrition-coaching_z1buno.png
