@@ -34,7 +34,7 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to **_schedule time for working out._**
+The best way to prioritize fitness is to _**schedule time for working out.**_
 
 > Schedule time for working out.
 
@@ -53,7 +53,13 @@ There are at least two reasons why saying, “I don’t have the time” is an i
 
 It sounds like quackery but one to three 30-minute sessions per week is the only time investment necessary to get the cardiovascular, muscular and bone strengthening benefits that the best exercise provides. 
 
-For an elaboration on this see chapter 5 in <a href="https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/" target="blank"><em>Body by Science</em></a> by physician Doug McGuff and John Little. 
+For example, a recent [research study](/post/weight-training-benefits/) published in the March 2019 edition of <a href="https://journals.lww.com/acsm-msse/Citation/2019/03000/Associations_of_Resistance_Exercise_with.14.aspx" target="blank"><em>Medicine & Science in Sport & Exercise</em></a> found that it only takes an hour or less of weight lifting per week to decrease your risk of cardiovascular disease and stroke by 40% - 70%.
+
+The research study was led by <a href="https://www.kin.hs.iastate.edu/directory/profile.php?u=dclee&embedded=true" target="blank">Dr. Duck-chul Lee</a>, professor of Kinesiology  at Iowa State University. 
+
+In an <a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">interview</a> with the American Association of Universities, Lee said "People may think they need to spend a lot of time lifting weights, but just two sets of bench presses that take less than 5 minutes could be effective." 
+
+For an elaboration on this concept see chapter 5 in <a href="https://www.amazon.com/Body-Science-Research-Program-Results-ebook/dp/B001NLL38S/" target="blank"><em>Body by Science</em></a> by physician Doug McGuff and John Little. 
 
 ![body by science](/img/body-by-science.png "body by science")
 
@@ -92,4 +98,4 @@ Find out now how you can get optimal outcomes from your fitness investment.
 <a href="https://www.youtube.com/watch?v=DYnx49pTqhc" target="blank">Dr. Doug McGuff on the Best Routines and Frequency of Training For Those Over-40</a> - video
 
 <a href="https://www.wsj.com/articles/forget-the-hotshot-trainer-with-the-six-pack-boomers-want-mature-fitness-coaches-11554557400" target="blank">Forget the Hotshot Trainer with the Six-Pack, Boomers Want Mature Fitness Coaches</a> <br/>
-This <em>Wall St. Journal</em> article explores why baby boomers want personal trainers their own age. 
+This <em>Wall St. Journal</em> article explores why baby boomers want personal trainers their own age.
