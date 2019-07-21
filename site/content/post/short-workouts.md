@@ -88,3 +88,5 @@ Find out now how you can get optimal outcomes from your fitness investment.
 ### Recommended Reading
 
 <a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">Doug McGuff MD, explains High Intensity Training</a>
+
+<a href="https://www.youtube.com/watch?v=DYnx49pTqhc" target="blank">Dr. Doug McGuff on the Best Routines and Frequency of Training For Those Over-40</a> - video
