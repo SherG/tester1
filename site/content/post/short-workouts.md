@@ -34,7 +34,7 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to _**schedule time for working out.**_
+The best way to prioritize fitness is to **_schedule time for working out._**
 
 > Schedule time for working out.
 
@@ -84,3 +84,7 @@ Feel free to book a[ free phone consultation](https://calendly.com/isfny/15min?b
 We will discuss your goals and fitness challenges. 
 
 Find out now how you can get optimal outcomes from your fitness investment.
+
+### Recommended Reading
+
+<a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">Doug McGuff MD, explains High Intensity Training</a>
