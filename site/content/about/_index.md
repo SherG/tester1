@@ -19,7 +19,7 @@ intro:
         Expert motivation. We use philosophic practice to help you align your
         mind and actions.
     - image: >-
-        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562316821/francisco-villalobos-personal-trainer-nyc_teroxr.png
+        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316821/francisco-villalobos-personal-trainer-nyc_teroxr.png
       text: >-
         20 Years of Experience. We have a long track record of exceeding our
         client's highest expectations.
