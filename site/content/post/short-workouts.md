@@ -67,7 +67,7 @@ McGuff promotes HIT — or "High Intensity Training" — a particular form of st
 
 ### Double Your Strength
 
-In an interview with HITuni, a training resource, McGuff said: 
+In an <a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">interview</a> with HITuni, a training resource, McGuff said: 
 
 "Most people . . . within 12-20 weeks will expect to easily see their **strength double** and their **body composition** will improve markedly and it will seem almost — compared to other approaches that they may have tried — it will almost seem too easy to them."
 
