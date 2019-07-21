@@ -55,7 +55,7 @@ It sounds like quackery but one to three 30-minute sessions per week is the only
 
 For example, a recent [research study](/post/weight-training-benefits/) published in the March 2019 edition of <a href="https://journals.lww.com/acsm-msse/Citation/2019/03000/Associations_of_Resistance_Exercise_with.14.aspx" target="blank"><em>Medicine & Science in Sport & Exercise</em></a> found that it only takes an hour or less of weight lifting per week to decrease your risk of cardiovascular disease and stroke by 40% - 70%.
 
-The research study was led by <a href="https://www.kin.hs.iastate.edu/directory/profile.php?u=dclee&embedded=true" target="blank">Dr. Duck-chul Lee</a>, professor of Kinesiology  at Iowa State University. 
+The research study was led by <a href="https://www.kin.hs.iastate.edu/directory/profile.php?u=dclee&embedded=true" target="blank">Dr. Duck-Chul Lee</a>, professor of Kinesiology  at Iowa State University. 
 
 In an <a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">interview</a> Lee said: "People may think they need to spend a lot of time lifting weights, but just two sets of bench presses that take less than 5 minutes could be effective." 
 
