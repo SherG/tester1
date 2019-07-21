@@ -9,12 +9,12 @@ description: >-
 intro:
   blurbs:
     - image: >-
-        https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1562316869/weight-training-after-50_d1hsln.png
+        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316869/weight-training-after-50_d1hsln.png
       text: >-
         Short workouts. Superior results. Our safety-first personal training is
         rooted in the best exercise science.
     - image: >-
-        https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1562316870/workout-for-over-50_pe3k7a.png
+        https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316870/workout-for-over-50_pe3k7a.png
       text: >-
         Expert motivation. We use philosophic practice to help you align your
         mind and actions.
