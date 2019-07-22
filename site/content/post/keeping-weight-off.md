@@ -32,3 +32,6 @@ So contrary to popular lore, you don’t have to “eat like a bird” to mainta
 You just have to be measured and patient in adding calories to your diet over the course of weeks (usually adding no more then 4-10 grams of carbs and 10 grams of fat to your daily consumption on a weekly basis). 
 
 But if you do this, I think you will be surprised at how many calories the new, leaner you can enjoy while maintaining your leanness.
+
+<hr>
+<p class="smaller"><em>Photo of <a href="https://stock.adobe.com/images/man-is-measuring-his-body-fat-with-calipers-healthy-lifestyle-and-body-care-concept/186702110" target="blank">fat caliper</a> by <a href="https://stock.adobe.com/contributor/203731818/showcake?load_type=author&prev_url=detail" target="blank">showcake</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe License</a></em>. 
