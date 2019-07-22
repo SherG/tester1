@@ -19,6 +19,8 @@ Half of all Americans in their 60s are providing financial support to either a p
 
 Such responsibilities are taking a toll, with boomers delaying retirement, experiencing significant stress, and facing a hit to their quality of life. 
 
+![fit after 50](https://res.cloudinary.com/icecloud7/image/upload/w_650,f_auto,e_sharpen/v1563757256/fit-after-50_kpaaaw.png alt="fit after 50")
+
 ## Managing Stress
 
 It's important to find ways to manage your stress. 
@@ -30,8 +32,6 @@ When you build your physical strength, the process helps to release stress and i
 ### Boost Your Immune System
 
 If stress is chronic and serious enough, it can have negative impact on your immune system. A good strength training program can significantly boost your immune system.
-
-![thriving in retirement](/img/thriving-in-retirement.png "thriving in retirement")
 
 ## Renew Your Vitality Through Strength Training
 
