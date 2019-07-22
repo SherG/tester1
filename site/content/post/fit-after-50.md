@@ -21,6 +21,8 @@ Such responsibilities are taking a toll, with boomers delaying retirement, exper
 
 ![fit after 50](https://res.cloudinary.com/icecloud7/image/upload/w_650,f_auto,e_sharpen/v1563757256/fit-after-50_kpaaaw.png)
 
+<em>Choose to remain active and strong by committing to an effective fitness program.</em> <hr>
+
 ## Managing Stress
 
 It's important to find ways to manage your stress. 
