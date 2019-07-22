@@ -54,3 +54,5 @@ My clientele are composed exclusively of such athletes and I regard the fact tha
 If you find yourself struggling with the groceries, stairs, stowing carry-on in an overhead compartment or would just like to see yourself playing a sport or attacking each day with greater vigor, <a href="https://calendly.com/isfny/15min" target="blank">book a phone appointment</a> with me.
 
 I look forward to discussing your goals and the Inner Strength Fitness program with you.
+<hr>
+<p class="smaller"><em>Photo of <a href="https://stock.adobe.com/images/portrait-of-happy-family-at-steering-wheel-of-sailboat/129840766" target="blank">boaters</a> by <a  href="https://stock.adobe.com/contributor/201599917/biker3?load_type=author&prev_url=detail" target="blank">Biker3</a> via <a href="https://stock.adobe.com/license-terms" target="blank">Adobe License</a>.</em></p>
