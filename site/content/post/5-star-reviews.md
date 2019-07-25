@@ -235,4 +235,6 @@ _— Sherrie Gossett, Founder, SignalFox_
 
 We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
 
-Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. Choose from 3 private gyms or be trained at your residence. Remote training for travelers also available.
+Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
+
+Choose from 3 private gyms or be trained at your residence. Remote training for travelers also available.
