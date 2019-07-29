@@ -30,7 +30,7 @@ The best insurance against re-injury is a strong back.
 
 It will take a while to rebuild the strength I have lost, but I’m so grateful for my wife’s support and my surgeon’s expertise in allowing me to get back into the arena of life.
 
-I continue to be inspired by General George S. Patton's remark, 
+I continue to be inspired by General George S. Patton's remark: 
 
 > "Success is how high you bounce when you hit the bottom."
 
