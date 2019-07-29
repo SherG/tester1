@@ -34,6 +34,17 @@ I give him my highest possible recommendation."
 ![](/img/5-star-reviews.png)
 <br/>
 
+## Looking for a personal trainer?
+
+We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
+
+Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
+
+Choose from 3 private gyms or be trained at your residence. <a href="/services/">Remote training</a> for travelers also available.
+
+![](/img/5-star-reviews.png)
+<br/>
+
 ## "amazingly efficient"
 
 "Francisco provides an intense amazingly efficient strength training workout. He is extremely knowledgeable, diligent and safe."
@@ -230,11 +241,3 @@ He's a natural communicator with a warm personality and a person of great integr
 _— Sherrie Gossett, Founder, SignalFox_
 
 <hr><br/>
-
-## Looking for a personal trainer?
-
-We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
-
-Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
-
-Choose from 3 private gyms or be trained at your residence. Remote training for travelers also available.
