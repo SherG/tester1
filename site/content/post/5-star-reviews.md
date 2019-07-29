@@ -34,7 +34,7 @@ I give him my highest possible recommendation."
 ![](/img/5-star-reviews.png)
 <br/>
 
-## Looking for a personal trainer?
+## Looking for a personal trainer in NYC?
 
 We invite you to book <a href="https://calendly.com/isfny" target="blank">phone appointment</a> with owner Francisco Villalobos to discuss your fitness needs and questions. 
 
