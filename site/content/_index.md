@@ -1,7 +1,8 @@
 ---
 title: 'Smart Strength Training '
 subtitle: For Baby Boomers
-image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562304023/nyc-personal-trainer_btruio.png
+image: >-
+  https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562304023/nyc-personal-trainer_btruio.png
 description: >-
   We provide smart strength training for baby boomers at 3 locations in
   Manhattan. Recommended by Anne Moscona, M.D. Our personal trainer services
@@ -9,10 +10,11 @@ description: >-
 blurb:
   heading: Why ISF?
   text: >-
-    Get strong and fit with our 5-star rated personal training, endorsed by
-    medical researcher Anne Moscona, M.D. <a
+    Get strong and fit with our 5-star rated personal training, recommended by
+    medical researcher <a href="https://isfny.com/post/5-star-reviews/"
+    style="color: #f42" target="blank">Anne Moscona, M.D.</a< <a
     href="https://calendly.com/isfny/15min" target="blank" style="color:
-    #f42"><br>Get started now</a>.
+    #f42"><br>Start here.</a>.
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
@@ -20,11 +22,13 @@ intro:
     rating. Our fitness training is based on breakthrough exercise research. Our
     pricing is competitive. 
 products:
-  - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303357/weight-lifting-nyc_cxhx0z.png
+  - image: >-
+      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303357/weight-lifting-nyc_cxhx0z.png
     text: >-
       Our safety-first strength training gives you optimal results in the
       shortest possible time frame.
-  - image: https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303719/francisco-villalobos-nyc_vpqfft.png
+  - image: >-
+      https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303719/francisco-villalobos-nyc_vpqfft.png
     text: You'll see progress in only weeks. We carefully track your success.
 values:
   heading: Our Fitness Program
