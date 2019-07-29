@@ -40,7 +40,7 @@ We invite you to book <a href="https://calendly.com/isfny" target="blank">phone 
 
 Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
 
-Choose from 3 private gyms or be trained at your residence. <a href="/services/">Remote training</a> for travelers also available.
+Choose from 3 private gyms or be trained at your residence. <a href="/services/">Remote training</a> for travelers also available.<br/>
 
 ![](/img/5-star-reviews.png)
 <br/>
