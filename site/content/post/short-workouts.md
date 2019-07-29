@@ -34,7 +34,7 @@ Is it any wonder that in the sea of values we pursue, some values, such as exerc
 
 But we need to “make time” for what is important. How do we do this? 
 
-The best way to prioritize fitness is to _**schedule time for working out.**_
+The best way to prioritize fitness is to **_schedule time for working out._**
 
 > Schedule time for working out.
 
@@ -95,7 +95,7 @@ Find out now how you can get optimal outcomes from your fitness investment.
 
 ### Recommended Reading
 
-<a href="https://www.aau.edu/research-scholarship/featured-research-topics/weightlifting-good-your-heart-and-it-doesnt-take-much" target="blank">Weight Lifting is Good For Your Heart, and It Doesn't Take Much</a> - Iowa State University
+<a href="https://www.news.iastate.edu/news/2018/11/13/resistancecvd" target="blank">Weight Lifting is Good For Your Heart, and It Doesn't Take Much</a> - Iowa State University
 
 <a href="https://www.hituni.com/interviews/doug-mc-guff/#.XTSxrJNKi9Y" target="blank">Doug McGuff MD, explains High Intensity Training</a> - video
 
