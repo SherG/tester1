@@ -19,8 +19,8 @@ intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
     You'll be trained by a veteran strength coach with an impeccable client
-    rating. Our fitness training is based on breakthrough exercise research. Our
-    pricing is competitive. 
+    rating. Our fitness training is based on breakthrough exercise research.
+    Pricing is competitive. 
 products:
   - image: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303357/weight-lifting-nyc_cxhx0z.png
