@@ -11,16 +11,16 @@ blurb:
   heading: Why ISF?
   text: >-
     Get strong and fit with our 5-star rated personal training, recommended by
-    medical researcher <a href="https://isfny.com/post/5-star-reviews/"
-    style="color: #f42" target="blank">Anne Moscona</a>, M.D.</a><br>Book a <a
+    medical researcher <a href="/post/5-star-reviews/" style="color: #f42"
+    target="blank">Anne Moscona</a>, M.D.</a><br>Book a <a
     href="https://calendly.com/isfny/15min" target="blank" style="color:
     #f42">phone appointment</a> with owner Francisco Villalobos to learn more.
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
     You'll be trained by a veteran strength coach with an impeccable client
-    rating. Our fitness training is based on breakthrough exercise research.
-    Pricing is competitive.
+    rating. Our <a href="/about/" style="color: #f42">fitness training</a> is
+    based on breakthrough exercise research. Pricing is competitive.
 products:
   - image: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562303357/weight-lifting-nyc_cxhx0z.png
