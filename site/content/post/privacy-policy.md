@@ -162,10 +162,12 @@ We understand the importance of protecting children’s privacy, especially in a
 
 ## Updates or amendments to this Privacy Policy
 
-We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy policy. The last revision will be reflected in the "Last modified" section. Your continued use of the Platform, following the notification of such amendments on our website, constitutes your acknowledgment and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
+We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy policy. The last revision will be reflected in the "Last modified" section. 
+
+Your continued use of the Platform, following the notification of such amendments on our website, constitutes your acknowledgment and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
 
 ### How to contact us
 
 If you have any general questions about the Site or the information we collect about you and how we use it, you can contact us at: isf.fov@gmail.com or call us at [(646) 760-9330](tel:6467609330).
 
-Last Modified: 7/29/2019
+Last Modified: July 29, 2019
