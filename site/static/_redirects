@@ -43,4 +43,4 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect default Netlify subdomain to primary domain
-https://clever-hopper22.netlify.com/* https://www.isfny.com/:splat 301!
+https://clever-hopper22.netlify.com/* https://isfny.com/:splat 301!
