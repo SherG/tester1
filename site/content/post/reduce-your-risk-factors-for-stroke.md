@@ -4,7 +4,7 @@ date: 2019-08-14T20:53:05.682Z
 description: >-
   There is nothing like seeing the premature death of a contemporary to make you
   think about your lifestyle choices.
-image: /img/luke-perry.jpg
+image: /img/fitness-after-50.png
 ---
 Actor Luke Perry was a familiar face on TV screens for almost 30 years, as a teen on "Beverly Hills 90210" and recently as Archie's dad on "Riverdale."  
 
