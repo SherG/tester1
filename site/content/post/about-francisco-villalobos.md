@@ -20,6 +20,8 @@ I’ve developed fitness and dietary regimens for hundreds of clients—men and 
 
 Teaching my clients how to exercise and motivating them to give their best effort has become my career and a deeply gratifying one at that.
 
+## Science-Based Fitness Program
+
 As a fitness coach, I am able to teach others how to become masters of their bodies and am provided with the added satisfaction of witnessing the results of my client’s personal transformations within a matter of weeks.
 
 My mission is to continue helping clients transform their bodies with specific, tailored, science-based strength training advice. 
