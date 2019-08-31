@@ -12,10 +12,11 @@ values:
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316821/francisco-villalobos-personal-trainer-nyc_teroxr.png
     text: >-
       To get started, <a href="https://calendly.com/isfny/15min" target="blank"
-      style="color: #f42">book a free phone consultation</a> with ISF owner
-      Francisco Villalobos.  We'll discuss your goals and you'll discover why
-      our training is so <a href="https://isfny.com/post/5-star-reviews/"
-      style="color: #f42">effective</a>.
+      style="color: #f42">book a free phone consultation</a> with ISF owner <a
+      href="/post/about-francisco-villalobos">Francisco Villalobos</a>.  We'll
+      discuss your goals and you'll discover why our training is so <a
+      href="https://isfny.com/post/5-star-reviews/" style="color:
+      #f42">effective</a>.
   - heading: Strength training
     imageUrl: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562310472/weight-training-over-50_kjvrby.png
