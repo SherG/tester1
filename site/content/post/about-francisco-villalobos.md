@@ -4,8 +4,9 @@ date: 2016-08-31T02:01:00.000Z
 description: >-
   In my strength coaching practice, I bring a distinctively philosophical
   approach to exercise, nutrition and motivation.
-image: /img/francisco-villalobos.png
+image: ''
 ---
+![francisco villalobos](https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto,e_sharpen/v1567218050/francisco-villalobos_uoklrw.png)
 Teaching is my passion.
 
 In grade school, I loved explaining the class lesson if my fellow students didn’t understand the teacher’s point. As a teenager, I dreamed of teaching philosophy. 
