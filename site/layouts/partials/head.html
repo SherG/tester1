@@ -20,44 +20,38 @@
 	{{ if .IsHome }}
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
-	<script type="application/ld+json">
+	<script type='application/ld+json'> 
 {
-	"@context": "http://schema.org",
-	"@type": "HealthClub",
-	"name": "Inner Strength Fitness",
-	"address": {
-		"@type": "PostalAddress",
-		"streetAddress": "133 E. 58th Street, Suite 902",
-		"addressLocality": "New York",
-		"addressRegion": "NY",
-		"postalCode": "10022"
-	},
-	"image": "https://res.cloudinary.com/icecloud7/image/upload/q_auto:eco,f_auto/v1562318211/private-gym-nyc_scg4pb.png",
-	"email": "isf.fov@gmail.com",
+  "@context": "http://www.schema.org",
+  "@type": "HealthClub",
+  "name": "Inner Strength Fitness",
+  "url": "https://isfny.com/",
+  "logo": "https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1562304364/inner-strength-fitness-nyc-logo_c4pfbu.png",
+  "image": "https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316825/fitness-after-50_j7kfoi.png",
+  "description": "Inner Strength Fitness provides smart strength training for baby boomers at 3 private gyms in Manhattan.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "133 E. 58th St",
+    "addressLocality": "New York City",
+    "addressRegion": "NY",
+    "postalCode": "10022",
+    "addressCountry": "United States"
+  },
+  "email": "isf.fov@gmail.com",
 	"telePhone": "(646) 760-9330",
-	"url": "https://isfny.com/",
 	"paymentAccepted": [ "cash", "check", "credit card", "paypal" ],
-	"openingHours": "Mo,Tu,We,Th 0-0",
-	"openingHoursSpecification": [ {
-		"@type": "OpeningHoursSpecification",
-		"dayOfWeek": [
-			"Monday",
-			"Tuesday",
-			"Wednesday",
-			"Thursday"
-		],
-		"opens": "0",
-		"closes": "0"
-	} ],
-	"geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "40.761903",
-		"longitude": "-73.968840"
-	},
-	"priceRange":"$$$"
-
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.761903",
+    "longitude": "-73.968840"
+  },
+ 
+   "hasMap": "https://goo.gl/maps/AkzkCa9y2ty3d96x9",
+  "openingHours": "Mo, Tu, We, Th, Fr 06:00-20:00",
+   "sameAs": "https://www.facebook.com/isf.nyc/",
+   "priceRange":"$$$"
 }
-</script>
+ </script>
 
 </head>
 
