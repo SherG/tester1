@@ -36,14 +36,7 @@ I give him my highest possible recommendation."
 
 ## Looking for a personal trainer in NYC?
 
-We invite you to book speak with owner Francisco Villalobos to discuss your fitness needs and questions. 
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/spearfish'});return false;">Book a phone meeting with Francisco.</a>
-<!-- Calendly link widget end -->
-
+We invite you to <a href="https://calendly.com/isfny/" target="blank">book a phone meeting</a> with Francisco Villalobos to discuss your fitness needs and questions. 
 
 Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
 
