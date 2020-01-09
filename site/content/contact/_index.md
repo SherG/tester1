@@ -7,7 +7,7 @@ description: >-
 contact_entries:
   - heading: Main Location
     text: |-
-      532 Madison Ave.,<br/>
+      532 Madison Ave
       New York, NY 10022
   - heading: Working hours
     text: 'Monday – Friday: 6AM – 8PM '
