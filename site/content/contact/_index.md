@@ -6,7 +6,7 @@ description: >-
   Villalobos now. Or contact us via our online form.
 contact_entries:
   - heading: Main Location
-    text: |-
+    text: 
       '532 Madison Ave,
       New York NY 10022'
   - heading: Working hours
