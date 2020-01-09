@@ -8,7 +8,7 @@ contact_entries:
   - heading: Location
     text: "532 Madison Avenue, New York, New York 10022"
   - heading: Working hours
-    text: "Monday – Friday: 6AM – 8PM"
+    text: "Monday – Friday: 6AM – 8PM. We're closed on weekends."
 ---
 
 <h3 class="f4 b lh-title mb2">Let's talk</h3>
