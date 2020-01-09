@@ -19,9 +19,8 @@ Inner Strength Program clients are free to select from two midtown Manhattan stu
 
 Our private studios are at:
 
-* 133 East 58 Street, Suite 902
-* 532 Madison Avenue
-* 20 Pine Street 
+* 532 Madison Avenue, New York, NY 10022
+* 20 Pine Street, New York, NY 10005
 
 ## How much does personal fitness training cost?
 
