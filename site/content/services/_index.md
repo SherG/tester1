@@ -11,7 +11,8 @@ values:
     imageUrl: >-
       https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1562316821/francisco-villalobos-personal-trainer-nyc_teroxr.png
     text: >-
-      To get started, <a href="https://calendly.com/isfny/15min" target="blank"
+      To get started, <a
+      href="https://calendly.com/isfny/fitness-breakthrough-call" target="blank"
       style="color: #f42">book a free phone consultation</a> with ISF owner <a
       href="/post/about-francisco-villalobos" style="color: #f42">Francisco
       Villalobos</a>.  We'll discuss your goals and you'll discover why our
