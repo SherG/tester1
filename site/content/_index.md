@@ -13,8 +13,9 @@ blurb:
     Get strong and fit with our 5-star rated personal training, recommended by
     medical researcher <a href="/post/5-star-reviews/" style="color: #f42"
     target="blank">Anne Moscona</a>, M.D.</a><br>Book a <a
-    href="https://calendly.com/isfny/15min" target="blank" style="color:
-    #f42">phone appointment</a> with owner Francisco Villalobos to learn more.
+    href="https://calendly.com/isfny/fitness-breakthrough-call" target="blank"
+    style="color: #f42">phone appointment</a> with owner Francisco Villalobos to
+    learn more.
 intro:
   heading: 5-Star Rated Personal Trainer
   text: >-
