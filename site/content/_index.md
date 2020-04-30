@@ -37,7 +37,7 @@ values:
     A stronger you in mind and body is our passion. Our science-based program
     enables you to strengthen your body in an efficient and comprehensive
     manner. You’ll learn at your own pace with an expert personal trainer. Book
-    a free <a href="https://calendly.com/isfny/15min" style="color: #f42"
-    target="blank">phone appointment</a> to learn more.
+    a free <a href="https://calendly.com/isfny/fitness-breakthrough-call"
+    style="color: #f42" target="blank">phone appointment</a> to learn more.
 ---
 
