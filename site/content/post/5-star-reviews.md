@@ -36,7 +36,7 @@ I give him my highest possible recommendation."
 
 ## Looking for a personal trainer in NYC?
 
-We invite you to <a href="https://calendly.com/isfny/" target="blank">book a phone meeting</a> with Francisco Villalobos to discuss your fitness needs and questions. 
+We invite you to <a href="https://calendly.com/isfny/fitness-breakthrough-call" target="blank">book a phone meeting</a> with Francisco Villalobos to discuss your fitness needs and questions. 
 
 Inner Strength Fitness provides [smart strength training](/about) to baby boomers in the Manhattan area. 
 
@@ -238,6 +238,6 @@ I'm impressed with the depth of Francisco's expertise: this is a man who's not g
 
 He's a natural communicator with a warm personality and a person of great integrity. Francisco's personality really shines: you can see how enthusiastic he is to create win-wins for his clients. I also appreciate his safety-first approach.".
 
-_— Sherrie Gossett, Founder, SignalFox_
+_— Sherrie Gossett, Founder, Spearfish_
 
 <hr><br/>
