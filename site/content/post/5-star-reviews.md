@@ -238,6 +238,6 @@ I'm impressed with the depth of Francisco's expertise: this is a man who's not g
 
 He's a natural communicator with a warm personality and a person of great integrity. Francisco's personality really shines: you can see how enthusiastic he is to create win-wins for his clients. I also appreciate his safety-first approach.".
 
-_— Sherrie Gossett, Founder, Spearfish_
+_— Sherrie Gossett, Founder,_ [_Spearfish_](https://www.spearfishcap.com/)__
 
 <hr><br/>
