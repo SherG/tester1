@@ -46,7 +46,7 @@
     "react": "16.9.0",
     "uncss": "^0.17.2",
     "url-loader": "^2.0.0",
-    "webpack": "^3.0.0",
+    "webpack": "^4.46.0",
     "whatwg-fetch": "^2.0.0"
   },
   "devDependencies": {
